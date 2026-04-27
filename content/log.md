@@ -433,4 +433,8 @@
 - Pages updated:
   - `entities/de-la-soul.md` — Verwandte Einträge: P.M. Dawn verlinkt
   - `index.md` — P.M. Dawn eingetragen, Seiten 74→75
+- Concert list updated:
+  - `raw/personal/concert-list-2026.md` — +84 Cultured Pearls, +85 P.M. Dawn
+  - `queries/concert-collection.md` — Gesamtzahl 97→99, Acts 61→63
+  - `index.md` — Konzerte 97→99
 

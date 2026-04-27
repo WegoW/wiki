@@ -92,3 +92,5 @@ Persönliche Liste besuchter Konzerte.
 | 81 | Chaka Khan | ?/89 |
 | 82 | Maze feat. Frankie Beverly | ?/89 |
 | 83 | SoulBeAround | 26.07.2014 |
+| 84 | Cultured Pearls | 05.03.1996 |
+| 85 | P.M. Dawn | 15.09.1991 |
