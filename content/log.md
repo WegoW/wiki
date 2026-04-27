@@ -462,3 +462,10 @@
   - `queries/concert-collection.md` — Gesamtzahl 100→101, Acts 64→65
   - `index.md` — Konzerte 100→101, Seiten 76→77, Daran & Et Les Chaises eingetragen
 
+## [2026-04-27] update | The S.O.S. Band — Datum präzisiert
+- Quelle: Ticket-Sammlung (Walter Wego)
+- The S.O.S. Band — **11. Dezember 1986**, Stadthalle Sindelfingen (vorher ?/86)
+- Pages updated:
+  - `entities/the-sos-band.md` — ?/86 → 11. Dezember 1986, Anmerkungen aktualisiert
+  - `raw/personal/concert-list-2026.md` — Zeile 68 aktualisiert
+
