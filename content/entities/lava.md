@@ -17,9 +17,11 @@ Band, aufgetreten im ZAP in Stuttgart. Nähere Informationen zur Band nicht beka
 |---|-------|-----|-------|
 | 1 | **—** | Stuttgart | ZAP |
 
-## Anmerkungen
+## Anmerkunge
+- Ersatz für The Wright Thing, die nicht auftreten konnten
+- Eigene Band von einem der The Wright Thing Gitaristen
 - Auftritt im **ZAP** Stuttgart (Kultur- und Veranstaltungszentrum)
-- Weder Datum noch genauere Details bekannt
+- Datum nicht bekannt
 
 ## Quellen
 - Sammlung Walter Wego
