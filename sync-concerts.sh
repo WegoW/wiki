@@ -48,10 +48,17 @@ content = re.sub(r'## Hörbücher\n\n(?=## )', '', content)
 page_count = len(re.findall(r'^- \[\[', content, re.M))
 content = re.sub(r'Total pages: \d+', f'Total pages: {page_count}', content)
 
+# Replace intro text for GitHub Pages (keep last-updated + total-pages)
+content = re.sub(
+    r'(# Wiki Index\n\n)> Content catalog\. Every wiki page listed under its type with a one-line summary\.\n> Read this first to find relevant pages for any query\.\n',
+    r'\1> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.\n',
+    content
+)
+
 with open(index_path, 'w') as f:
     f.write(content)
 
-print(f"  index.md cleaned ({page_count} pages)")
+print(f"  index.md cleaned + intro replaced ({page_count} pages)")
 PYEOF
 
 # 5. Git commit + push
