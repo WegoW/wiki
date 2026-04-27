@@ -353,6 +353,15 @@
 - Pages updated:
   - `entities/the-wright-thing.md` — Beschreibung, Tabelle, Anmerkungen, Quellen erweitert
   - `raw/personal/concert-list-2026.md` — "—" → "1999–2003"
-  - `queries/concert-collection.md` — The Wright Thing in "Acts mit mehreren Besuchen" (10x), Gesamtzahl 79→88, häufigster Act geändert
+  - `queries/concert-collection.md` — The Wright Thing in "Acts mit mehreren Besuchen" (10x), Gesamtzahl 79→88, häufigster Act geändert, updated-Datum
+
+## [2026-04-27] lint | 3 Issues gefixt
+- Quelle: Lint-Script (llm-wiki)
+- **Gefixt:**
+  - `entities/maceo-parker-and-wdr-bigband.md` gelöscht (Konzert bereits in Maceo Parker gelistet)
+  - `queries/concert-collection.md` — Verwandter Eintrag maceo-parker-and-wdr-bigband entfernt
+  - `SCHEMA.md` — Tags `band` und `live-music` zur Taxonomy hinzugefügt
+  - `raw/personal/concert-list-2026.md` — SHA256 neu berechnet (Source Drift behoben)
+- Verbleibend: Keine offenen Issues ✅
   - `index.md` — 1→10 Konzerte, updated-Datum
 

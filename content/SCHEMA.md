@@ -41,6 +41,7 @@ sha256: <hex digest of the raw content below the frontmatter>
 ## Tag Taxonomy
 - art
 - automation
+- band
 - bookmark
 - company
 - comparison
@@ -56,6 +57,7 @@ sha256: <hex digest of the raw content below the frontmatter>
 - how-to
 - idea
 - journal
+- live-music
 - methodology
 - note
 - person
