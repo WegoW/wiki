@@ -9,6 +9,25 @@ REPO="/root/Konzerte"
 
 echo "==> Syncing concert-only content to GitHub Pages repo..."
 
+# 0. Auto-update concert count in Wiki index.md BEFORE sync
+python3 << 'PYEOF'
+import re
+
+wiki_index = "/root/obsidian/wiki/index.md"
+with open(wiki_index, 'r') as f:
+    content = f.read()
+
+# Find concert section and count concerts
+section = re.search(r'## Konzerte(?:\s*\(\d+\))?\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
+if section:
+    counts = re.findall(r'(\d+)\s+Konzert', section.group(1))
+    total = sum(int(c) for c in counts)
+    content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({total})', content, flags=re.M)
+    with open(wiki_index, 'w') as f:
+        f.write(content)
+    print(f"  Wiki index.md: Updated concert count to ({total})")
+PYEOF
+
 # 1. Alles aus dem Wiki syncen (außer .obsidian, .trash)
 rsync -av --delete \
   --exclude='.obsidian' \
