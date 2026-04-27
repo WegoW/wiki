@@ -69,4 +69,4 @@
 ## Comparisons
 
 ## Queries
-- [[queries/concert-collection|concert-collection]] — Übersicht über 79 besuchte Konzerte (1982–2014)
+- [[queries/concert-collection|concert-collection]] — Übersicht über besuchte Konzerte
