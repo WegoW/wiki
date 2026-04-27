@@ -8,7 +8,7 @@
 - [[entities/alexander-oneal|alexander-oneal]] — 1 Konzert(e) besucht
 - [[entities/amp-fiddler|amp-fiddler]] — 1 Konzert(e) besucht
 - [[entities/andreas-dorau|andreas-dorau]] — 1 Konzert(e) besucht
-- [[entities/angie-stone|angie-stone]] — 1 Konzert besucht (Mahogany Soul Tour 2002)
+- [[entities/angie-stone|angie-stone]] — 1 Konzert besucht
 - [[entities/bobby-womack|bobby-womack]] — 1 Konzert(e) besucht
 - [[entities/bootsy-collins|bootsy-collins]] — 2 Konzert(e) besucht
 - [[entities/candy-dulfer|candy-dulfer]] — 3 Konzert(e) besucht
