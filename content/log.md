@@ -414,3 +414,13 @@
   - `queries/concert-collection.md` — Gesamtzahl 96→97, Acts 60→61, Letztes Konzert aktualisiert, SoulBeAround in Verwandte Einträge
   - `index.md` — Konzerte 96→97, Seiten 72→73, SoulBeAround eingetragen
 
+## [2026-04-27] create | Cultured Pearls
+- Source: Jazzkantine-Ticket 1996 (Sammlung Walter Wego)
+- **Cultured Pearls** als Support-Act für **Jazzkantine** (5. März 1996, Theaterhaus Stuttgart) dokumentiert
+- Asset saved: `assets/posters/cultured-pearls/tickets/1996-jazzkantine-support.jpg` (shared mit Jazzkantine)
+- Pages created:
+  - `entities/cultured-pearls.md` — Support-Only Artist
+- Pages updated:
+  - `entities/jazzkantine.md` — Verwandte Einträge: Cultured Pearls verlinkt
+  - `index.md` — Cultured Pearls eingetragen, Seiten 73→74
+

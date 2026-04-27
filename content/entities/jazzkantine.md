@@ -43,3 +43,4 @@ Deutsche Band, die Jazz mit Hip-Hop und Funk verbindet. Gegründet 1993 in Braun
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- [[entities/cultured-pearls|Cultured Pearls]] — Support 1996

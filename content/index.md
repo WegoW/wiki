@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.
-| Last updated: 2026-04-27 | Total pages: 63
+| Last updated: 2026-04-27 | Total pages: 64
 
 ## Konzerte (97)
 - [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert
@@ -13,6 +13,7 @@
 - [[entities/bootsy-collins|bootsy-collins]] — 2 Konzerte
 - [[entities/candy-dulfer|candy-dulfer]] — 3 Konzerte
 - [[entities/chaka-khan|chaka-khan]] — 3 Konzerte (u.a. Support für Prince 1998)
+- [[entities/cultured-pearls|cultured-pearls]] — 1 Konzert (Support für Jazzkantine 1996)
 - [[entities/larry-graham-and-graham-central-station|larry-graham-and-graham-central-station]] — 2 Konzerte (Support für Prince 1998)
 - [[entities/curtis-mayfield|curtis-mayfield]] — 1 Konzert
 - [[entities/david-bowie|david-bowie]] — 1 Konzert
