@@ -18,6 +18,8 @@ confidence: medium
 - **Verschiedene Acts:** 58
 - **Häufigster Act:** The Wright Thing (10x)
 - **Zeitraum:** 1982 – 2014
+- **Erstes Konzert:** Kid Creole & The Coconuts – 14.11.1982
+- **Letztes Konzert:** Bootsy Collins – 24.02.2014
 - **Genres:** Funk, Soul, Jazz, Pop, Rock, Reggae
 
 ## Acts mit mehreren Besuchen
