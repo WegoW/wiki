@@ -13,16 +13,26 @@ echo "==> Syncing concert-only content to GitHub Pages repo..."
 python3 << 'PYEOF'
 import re
 
+# Read the maintained concert count from queries/concert-collection.md
+with open("/root/obsidian/wiki/queries/concert-collection.md", 'r') as f:
+    query_content = f.read()
+
+match = re.search(r'\*\*Gesamtzahl:\*\*\s*(\d+)\s*Konzerte', query_content)
+if match:
+    concert_count = int(match.group(1))
+else:
+    # Fallback: count concert rows in all entity files
+    import glob
+    concert_count = 0
+    for path in glob.glob("/root/obsidian/wiki/entities/*.md"):
+        with open(path) as f:
+            text = f.read()
+        concert_count += len(re.findall(r'\|\s*\d+\s*\|\s*\*\*\d', text))
+
 wiki_index = "/root/obsidian/wiki/index.md"
 with open(wiki_index, 'r') as f:
     content = f.read()
 
-# Count concerts from the raw list (source of truth)
-with open("/root/obsidian/wiki/raw/personal/concert-list-2026.md", 'r') as f:
-    list_content = f.read()
-concert_count = len(re.findall(r'^\|\s*\d+\s*\|', list_content, re.M))
-
-# Update concert count in Wiki index
 content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({concert_count})', content, flags=re.M)
 with open(wiki_index, 'w') as f:
     f.write(content)
@@ -64,10 +74,14 @@ content = re.sub(r'^- \[\[.*?(suarez|schaetzing|goldt|rhodan|hamilton|philip-k-d
 # Remove empty "## Hörbücher" section (heading + optional blank lines until next ##)
 content = re.sub(r'## Hörbücher\n\n(?=## )', '', content)
 
-# Count concerts from the raw list (source of truth)
-with open("/root/obsidian/wiki/raw/personal/concert-list-2026.md", 'r') as f:
-    list_content = f.read()
-concert_count = len(re.findall(r'^\|\s*\d+\s*\|', list_content, re.M))
+# Count concerts from the maintained query (source of truth)
+with open("/root/obsidian/wiki/queries/concert-collection.md", 'r') as f:
+    query_content = f.read()
+match = re.search(r'\*\*Gesamtzahl:\*\*\s*(\d+)\s*Konzerte', query_content)
+if match:
+    concert_count = int(match.group(1))
+else:
+    concert_count = len(re.findall(r'^\|\s*\d+\s*\|', list_content, re.M))
 
 # Update concert count in published index
 content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({concert_count})', content, flags=re.M)
