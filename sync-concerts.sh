@@ -17,15 +17,16 @@ wiki_index = "/root/obsidian/wiki/index.md"
 with open(wiki_index, 'r') as f:
     content = f.read()
 
-# Find concert section and count concerts
-section = re.search(r'## Konzerte(?:\s*\(\d+\))?\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
-if section:
-    counts = re.findall(r'(\d+)\s+Konzert', section.group(1))
-    total = sum(int(c) for c in counts)
-    content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({total})', content, flags=re.M)
-    with open(wiki_index, 'w') as f:
-        f.write(content)
-    print(f"  Wiki index.md: Updated concert count to ({total})")
+# Count concerts from the raw list (source of truth)
+with open("/root/obsidian/wiki/raw/personal/concert-list-2026.md", 'r') as f:
+    list_content = f.read()
+concert_count = len(re.findall(r'^\|\s*\d+\s*\|', list_content, re.M))
+
+# Update concert count in Wiki index
+content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({concert_count})', content, flags=re.M)
+with open(wiki_index, 'w') as f:
+    f.write(content)
+print(f"  Wiki index.md: Updated concert count to ({concert_count})")
 PYEOF
 
 # 1. Alles aus dem Wiki syncen (außer .obsidian, .trash)
@@ -63,6 +64,14 @@ content = re.sub(r'^- \[\[.*?(suarez|schaetzing|goldt|rhodan|hamilton|philip-k-d
 # Remove empty "## Hörbücher" section (heading + optional blank lines until next ##)
 content = re.sub(r'## Hörbücher\n\n(?=## )', '', content)
 
+# Count concerts from the raw list (source of truth)
+with open("/root/obsidian/wiki/raw/personal/concert-list-2026.md", 'r') as f:
+    list_content = f.read()
+concert_count = len(re.findall(r'^\|\s*\d+\s*\|', list_content, re.M))
+
+# Update concert count in published index
+content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({concert_count})', content, flags=re.M)
+
 # Update page count
 page_count = len(re.findall(r'^- \[\[', content, re.M))
 content = re.sub(r'Total pages: \d+', f'Total pages: {page_count}', content)
@@ -77,7 +86,7 @@ content = re.sub(
 with open(index_path, 'w') as f:
     f.write(content)
 
-print(f"  index.md cleaned + intro replaced ({page_count} pages)")
+print(f"  index.md cleaned + intro replaced ({page_count} pages, {concert_count} concerts)")
 PYEOF
 
 # 5. Git commit + push
