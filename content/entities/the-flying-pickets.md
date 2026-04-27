@@ -13,10 +13,10 @@ Britische A-cappella-Gruppe. Bekannt für ihren Weihnachtshit *Only You* und ihr
 
 ## Gesehene Konzerte
 
-| # | Datum | Ort | Venue |
-|---|-------|-----|-------|
-| 1 | **22. Februar 1994** | Ludwigsburg | Scala — Musik Theater Kino |
-| 2 | **15. Oktober 1995** | Stuttgart-Wangen | LKA Longhorn |
+| #   | Datum                | Ort              | Venue        |
+| --- | -------------------- | ---------------- | ------------ |
+| 1   | **22. Februar 1994** | Ludwigsburg      | Scala        |
+| 2   | **15. Oktober 1995** | Stuttgart-Wangen | LKA Longhorn |
 
 ## Tickets & Poster
 

@@ -13,9 +13,9 @@ US-amerikanische Funk-Band aus New York um Prince Charles (bürgerl. Charles Ale
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue | Tour |
-|---|-------|-----|-------|------|
-| 1 | **27. Mai 1984** | Stuttgart | Maxim | — |
+| #   | Datum            | Ort       | Venue |
+| --- | ---------------- | --------- | ----- |
+| 1   | **27. Mai 1984** | Stuttgart | Maxim |
 
 ## Tickets & Poster
 

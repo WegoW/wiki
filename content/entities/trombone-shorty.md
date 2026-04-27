@@ -13,9 +13,9 @@ US-amerikanischer Posaunist, Trompeter und Bandleader aus New Orleans. Bekannt f
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue |
-|---|---|
-| 1 | **5. Dezember 2011** | Stuttgart | Theaterhaus (Halle T2) |
+| #   | Datum                | Ort       | Venue       |
+| --- | -------------------- | --------- | ----------- |
+| 1   | **5. Dezember 2011** | Stuttgart | Theaterhaus |
 
 ## Tickets & Poster
 

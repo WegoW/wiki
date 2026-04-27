@@ -13,9 +13,9 @@ Britische Soul- und R&B-Sängerin. Mit gerade mal 16 Jahren wurde sie 2003 mit i
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue | Tour |
-|---|-------|-----|-------|------|
-| 1 | **14. Juli 2007** | Stuttgart | Jazz Open — Pariser Platz / Schwabengarage | — |
+| #   | Datum             | Ort       | Venue         | Tour      |
+| --- | ----------------- | --------- | ------------- | --------- |
+| 1   | **14. Juli 2007** | Stuttgart | Pariser Platz | Jazz Open |
 
 ## Tickets & Poster
 

@@ -13,9 +13,9 @@ US-amerikanische Soul- und R&B-Sängerin, bekannt für ihren einzigartigen Neo-S
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue | Tour |
-|---|-------|-----|-------|------|
-| 1 | **19. Juli 2008** | Stuttgart | Jazz Open — Pariser Platz | — |
+| #   | Datum             | Ort       | Venue         | Tour     |
+| --- | ----------------- | --------- | ------------- | -------- |
+| 1   | **19. Juli 2008** | Stuttgart | Pariser Platz | Jazzopen |
 
 ## Tickets & Poster
 

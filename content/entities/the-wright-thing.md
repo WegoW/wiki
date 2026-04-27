@@ -11,17 +11,16 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 Band, aufgetreten im ZAP in Stuttgart. Nähere Informationen zur Band nicht bekannt.
 
-## Gesehenes Konzert
+## Gesehenes Konzerte
 
-| # | Datum | Ort | Venue |
-|---|-------|-----|-------|
-| 1 | **—** | Stuttgart | ZAP |
+| #    | Datum  | Ort       | Venue |
+| ---- | ------ | --------- | ----- |
+| 1-10 | 2000er | Stuttgart | ZAP   |
 
 ## Anmerkungen
 - Auftritt im **ZAP** Stuttgart (Kultur- und Veranstaltungszentrum)
 - Weder Datum noch genauere Details bekannt
-- ⚠️ **Namenskorrektur:** In der Konzertliste ursprünglich als *The Wrigth Thing* eingetragen
-
+- ca. 10 Konzerte gesehen
 ## Quellen
 - Sammlung Walter Wego
 - [[raw/personal/concert-list-2026|Konzertliste (Rohdaten)]]

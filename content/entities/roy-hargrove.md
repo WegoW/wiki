@@ -13,9 +13,9 @@ US-amerikanischer Jazz-Trompeter und Flügelhornist. Einer der herausragendsten 
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue |
-|---|-------|-----|-------|
-| 1 | **19. Juli 2008** | Stuttgart | Jazz Open — Pariser Platz / LBBW Innenhof |
+| #   | Datum             | Ort       | Venue         | Tour      |
+| --- | ----------------- | --------- | ------------- | --------- |
+| 1   | **19. Juli 2008** | Stuttgart | LBBW Innenhof | Jazz Open |
 
 ## Anmerkungen
 - **Opening Act für Erykah Badu** bei den Jazz Open Stuttgart am 19. Juli 2008

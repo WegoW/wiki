@@ -13,9 +13,9 @@ Britischer Electro-Soul-Musiker, Sänger und Produzent. Bekannt für seinen inno
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue | Tour |
-|---|-------|-----|-------|------|
-| 1 | **14. Juli 2005** | Stuttgart | LBBW Jazz Open, Innenhof | — |
+| #   | Datum             | Ort       | Venue         | Tour      |
+| --- | ----------------- | --------- | ------------- | --------- |
+| 1   | **14. Juli 2005** | Stuttgart | LBBW Innenhof | Jazz Open |
 
 ## Anmerkungen
 - **Support Act für James Brown** bei den LBBW Jazz Open 2005

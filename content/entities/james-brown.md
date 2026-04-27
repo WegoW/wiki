@@ -13,10 +13,10 @@ US-amerikanischer Musiker, Godfather of Soul. Einer der einflussreichsten Künst
 
 ## Gesehene Konzerte
 
-| # | Datum | Ort | Venue | Tour |
-|---|-------|-----|-------|------|
-| 1 | **20. Juni 1986** | Stuttgart | Hanns-Martin-Schleyer-Halle | — |
-| 2 | **14. Juli 2005** | Stuttgart | LBBW Jazz Open, Pariser Platz | — |
+| #   | Datum             | Ort       | Venue                         |
+| --- | ----------------- | --------- | ----------------------------- |
+| 1   | **20. Juni 1986** | Stuttgart | Hanns-Martin-Schleyer-Halle   |
+| 2   | **14. Juli 2005** | Stuttgart | LBBW Jazz Open, Pariser Platz |
 
 ## Tickets & Poster
 

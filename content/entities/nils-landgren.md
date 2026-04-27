@@ -13,9 +13,9 @@ Schwedischer Jazz-Posaunist und Sänger. Einer der erfolgreichsten europäischen
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue |
-|---|-------|-----|-------|
-| 1 | **18. Juli 1998** | Stuttgart | Liederhalle |
+| #   | Datum             | Ort       | Venue       | Tour      |
+| --- | ----------------- | --------- | ----------- | --------- |
+| 1   | **18. Juli 1998** | Stuttgart | Liederhalle | Jazz Open |
 
 ## Anmerkungen
 - **Support Act für Bootsy Collins** bei den Jazz Open Stuttgart

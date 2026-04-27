@@ -13,9 +13,9 @@ US-amerikanische R&B-/Soul-Sängerin und Songwriterin. Bekannt durch ihren Hit *
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue | Tour |
-|---|-------|-----|-------|------|
-| 1 | **14. März 2000** | Stuttgart | Theaterhaus | — |
+| #   | Datum             | Ort       | Venue       |
+| --- | ----------------- | --------- | ----------- |
+| 1   | **14. März 2000** | Stuttgart | Theaterhaus |
 
 ## Tickets & Poster
 

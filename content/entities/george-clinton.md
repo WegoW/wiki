@@ -13,11 +13,11 @@ US-amerikanischer Musiker und Produzent, Godfather of P-Funk. Mastermind von Par
 
 ## Gesehene Konzerte
 
-| # | Datum | Ort | Venue |
-|---|-------|-----|-------|
-| 1 | **18. September 1994** | Stuttgart | LKA Longhorn |
-| 2 | **17. Dezember 1996** | Stuttgart | LKA Longhorn |
-| 3 | **14. Juli 2004** | Stuttgart | LBBW Jazz Open, Innenhof |
+| #   | Datum                  | Ort       | Venue         | Tour      |
+| --- | ---------------------- | --------- | ------------- | --------- |
+| 1   | **18. September 1994** | Stuttgart | LKA Longhorn  |           |
+| 2   | **17. Dezember 1996**  | Stuttgart | LKA Longhorn  |           |
+| 3   | **14. Juli 2004**      | Stuttgart | LBBW Innenhof | Jazz Open |
 
 ## Tickets & Poster
 

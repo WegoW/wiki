@@ -13,9 +13,9 @@ Band, die als Vorgruppe bei Joss Stone im Rahmen der Jazz Open Stuttgart auftrat
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue |
-|---|-------|-----|-------|
-| 1 | **14. Juli 2007** | Stuttgart | Jazz Open — Pariser Platz / Schwabengarage |
+| #   | Datum             | Ort       | Venue         | Tour      |
+| --- | ----------------- | --------- | ------------- | --------- |
+| 1   | **14. Juli 2007** | Stuttgart | Pariser Platz | Jazz Open |
 
 ## Anmerkungen
 - **Vorgruppe von Joss Stone** bei den BW-Bank Jazz Open 2007

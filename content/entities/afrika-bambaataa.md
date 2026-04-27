@@ -13,9 +13,9 @@ US-amerikanischer DJ und Musikproduzent, einer der Pioniere des Hip-Hop. Begrün
 
 ## Gesehenes Konzert
 
-| # | Datum | Ort | Venue |
-|---|-------|-----|-------|
-| 1 | **14. Juli 2004** | Stuttgart | LBBW Jazz Open, Innenhof |
+| #   | Datum             | Ort       | Venue         | Tour      |
+| --- | ----------------- | --------- | ------------- | --------- |
+| 1   | **14. Juli 2004** | Stuttgart | LBBW Innenhof | Jazz Open |
 
 ## Tickets & Poster
 

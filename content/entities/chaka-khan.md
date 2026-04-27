@@ -11,12 +11,13 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 US-amerikanische Sängerin, zehnfache Grammy-Gewinnerin. Frontfrau von Rufus, bekannt für Hits wie *Ain't Nobody*, *I Feel for You* und *Through the Fire*.
 
-## Gesehenes Konzert
+## Gesehene Konzerte
 
-|| # | Datum | Ort | Venue | Tour |
-|---|-------|-----|-------|------|
-|| 1 | **28. November 1988** | Stuttgart | Theaterhaus | *It's My Party* |
-|| 2 | **23. August 1998** | Zürich | Hallenstadion | New Power Soul Tour (Support für Prince) |
+| #   | Datum                 | Ort       | Venue         | Tour                                     |
+| --- | --------------------- | --------- | ------------- | ---------------------------------------- |
+| 1   | **28. November 1988** | Stuttgart | Theaterhaus   | It's my Party                            |
+| 2   | **23. August 1998**   | Zürich    | Hallenstadion | New Power Soul Tour (Support für Prince) |
+
 
 ## Tickets & Poster
 

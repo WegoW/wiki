@@ -14,13 +14,12 @@ sources:
 
 **Angela Laverne Stone** (* 18. Dezember 1961 in Columbia, South Carolina; † 1. März 2025 in Montgomery, Alabama) war eine US-amerikanische R&B- und Soul-Sängerin, Songwriterin, Rapperin und Schauspielerin.
 
-## Biografie
+## Gesehenes Konzert
 
-Stone begann ihre Karriere Ende der 1970er als Mitglied der Rap-Gruppe The Sequence und war später Teil des R&B-Trios Vertical Hold. Ihren Durchbruch als Solokünstlerin feierte sie 1999 mit dem Album *Black Diamond*, gefolgt von *Mahogany Soul* (2001). Sie wurde mehrfach für den Grammy nominiert und verkaufte über fünf Millionen Platten weltweit. Bekannt ist sie unter anderem für Hits wie *Wish I Didn't Miss You* und *Brotha*. Sie war zeitweise mit D'Angelo liiert, mit dem sie einen Sohn hat.
+| #   | Datum             | Ort         | Venue |
+| --- | ----------------- | ----------- | ----- |
+| 1   | **14. März 2002** | Ludwigsburg | Scala |
 
-## Besuchtes Konzert
-
-Am **14. März 2002** trat Angie Stone im Rahmen ihrer **Mahogany Soul Tour 2002** in der **Scala** in **Ludwigsburg** auf.
 
 ## Tickets & Poster
 
