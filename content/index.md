@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-| Last updated: 2026-04-26 | Total pages: 71
+| Last updated: 2026-04-26 | Total pages: 61
 
 ## Konzerte
 - [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert(e) besucht
@@ -66,21 +66,11 @@
 - [[entities/ziggy-marley|ziggy-marley]] — 1 Konzert(e) besucht
 
 ## Hörbücher
-- [[entities/daniel-suarez|daniel-suarez]] — Hörbuch in der Sammlung
-- [[entities/frank-schaetzing|frank-schaetzing]] — Hörbuch in der Sammlung
-- [[entities/max-goldt|max-goldt]] — Hörbuch in der Sammlung
-- [[entities/perry-rhodan|perry-rhodan]] — Hörbuch in der Sammlung
-- [[entities/peter-f-hamilton|peter-f-hamilton]] — Hörbuch in der Sammlung
-- [[entities/philip-k-dick|philip-k-dick]] — Hörbuch in der Sammlung
-- [[entities/stanislaw-lem|stanislaw-lem]] — Hörbuch in der Sammlung
-- [[entities/terry-pratchett|terry-pratchett]] — Hörbuch in der Sammlung
 
 ## Concepts
 - [[concepts/live-music|live-music]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
-- [[concepts/science-fiction|science-fiction]] — Dominierendes Genre der Hörbuchsammlung
 
 ## Comparisons
 
 ## Queries
-- [[queries/audiobook-collection|audiobook-collection]] — Persönliche Sammlung von 119 Hörbüchern und Hörspielen
 - [[queries/concert-collection|concert-collection]] — Übersicht über 79 besuchte Konzerte (1982–2014)
