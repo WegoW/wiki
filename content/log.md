@@ -383,3 +383,23 @@
 - Pages updated:
   - `entities/prince.md` — CTS-Ticket-Bild + Beschreibung ergänzt, "SWE 3"-Tippfehler korrigiert, updated-Datum
 
+## [2026-04-27] update | Black Beat Night 1989 — Mother's Finest, Chaka Khan + Maze
+- Quelle: Original-Festivalplakat (Sammlung Walter Wego)
+- **Poster gefunden:** Black Beat Night 1989, Liederhalle Stuttgart
+- Line-Up: Mother's Finest, Chaka Khan, Maze feat. Frankie Beverly, She Rockers & Lisa M.
+- Genauer Tag unbekannt, Jahr 1989 durch Poster bestätigt
+- Pages updated:
+  - `entities/mothers-finest.md` — Datum — → ?/89, Festival-Info, Poster-Bild, Anmerkungen, Verwandte Einträge
+  - `entities/chaka-khan.md` — +3. Konzert (?/89 Black Beat Night), Poster-Bild
+  - `entities/maze-feat-frankie-beverly.md` — **NEU** (1 Konzert, Black Beat Night 1989, Poster-Bild)
+  - `raw/personal/concert-list-2026.md` — #47 Mother's Finest: — → ?/89; + #81 Chaka Khan (?/89); + #82 Maze feat. Frankie Beverly (?/89)
+  - `queries/concert-collection.md` — Gesamtzahl 94→96, Acts 59→60, Chaka Khan 2→3 Konzerte, Maze in Verwandte Einträge
+  - `index.md` — Konzerte 94→96, Seiten 71→72, Chaka Khan 2→3, Maze neu
+- Assets saved:
+  - `assets/posters/mothers-finest/1989-black-beat-night.jpg`
+  - `assets/posters/mothers-finest/tickets/1989-black-beat-night.jpg`
+  - `assets/posters/chaka-khan/1989-black-beat-night.jpg`
+  - `assets/posters/chaka-khan/tickets/1989-black-beat-night.jpg`
+  - `assets/posters/maze-feat-frankie-beverly/1989-black-beat-night.jpg`
+  - `assets/posters/maze-feat-frankie-beverly/tickets/1989-black-beat-night.jpg`
+

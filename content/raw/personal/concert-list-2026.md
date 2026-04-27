@@ -55,7 +55,7 @@ Persönliche Liste besuchter Konzerte.
 | 44 | Maceo Parker & WDR Bigband | 08.11.2011 |
 | 45 | Macy Gray | 14.03.2000 |
 | 46 | Malia | 20.07.2003 |
-| 47 | Mother's Finest | — |
+| 47 | Mother's Finest | ?/89 |
 | 48 | Nils Landgren | 18. Juli 1998 |
 | 49 | Oleta Adams | 15.04.1994 |
 | 50 | Prince | 4.6.1987 |
@@ -89,3 +89,5 @@ Persönliche Liste besuchter Konzerte.
 | 78 | Wolf Maahn | 10.02.1985 |
 | 79 | Ziggy Marley | 6. Juli 1991 |
 | 80 | Tab Two | 18.07.1998 |
+| 81 | Chaka Khan | ?/89 |
+| 82 | Maze feat. Frankie Beverly | ?/89 |

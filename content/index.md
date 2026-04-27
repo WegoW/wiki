@@ -1,9 +1,9 @@
 # Wiki Index
 
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.
-| Last updated: 2026-04-27 | Total pages: 61
+| Last updated: 2026-04-27 | Total pages: 62
 
-## Konzerte (94)
+## Konzerte (96)
 - [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert(e) besucht
 - [[entities/alexander-oneal|alexander-oneal]] — 1 Konzert(e) besucht
 - [[entities/amp-fiddler|amp-fiddler]] — 1 Konzert(e) besucht
@@ -12,7 +12,7 @@
 - [[entities/bobby-womack|bobby-womack]] — 1 Konzert(e) besucht
 - [[entities/bootsy-collins|bootsy-collins]] — 2 Konzert(e) besucht
 - [[entities/candy-dulfer|candy-dulfer]] — 3 Konzert(e) besucht
-- [[entities/chaka-khan|chaka-khan]] — 2 Konzerte besucht (u.a. Support für Prince 1998)
+- [[entities/chaka-khan|chaka-khan]] — 3 Konzerte besucht (u.a. Support für Prince 1998)
 - [[entities/larry-graham-and-graham-central-station|larry-graham-and-graham-central-station]] — 2 Konzerte (Support für Prince 1998)
 - [[entities/curtis-mayfield|curtis-mayfield]] — 1 Konzert(e) besucht
 - [[entities/david-bowie|david-bowie]] — 1 Konzert(e) besucht
@@ -38,6 +38,7 @@
 - [[entities/maceo-parker|maceo-parker]] — 3 Konzert(e) besucht
 - [[entities/macy-gray|macy-gray]] — 1 Konzert(e) besucht
 - [[entities/malia|malia]] — 1 Konzert(e) besucht
+- [[entities/maze-feat-frankie-beverly|maze-feat-frankie-beverly]] — 1 Konzert(e) besucht
 - [[entities/mothers-finest|mothers-finest]] — 1 Konzert(e) besucht
 - [[entities/nils-landgren|nils-landgren]] — 1 Konzert(e) besucht
 - [[entities/oleta-adams|oleta-adams]] — 1 Konzert(e) besucht

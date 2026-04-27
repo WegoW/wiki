@@ -14,8 +14,8 @@ confidence: medium
 
 ## Statistik
 
-- **Gesamtzahl:** 94 Konzerte
-- **Verschiedene Acts:** 59
+- **Gesamtzahl:** 96 Konzerte
+- **Verschiedene Acts:** 60
 - **Häufigster Act:** The Wright Thing (10x)
 - **Zeitraum:** 1982 – 2014
 - **Erstes Konzert:** Kid Creole & The Coconuts – 14.11.1982
@@ -34,7 +34,7 @@ confidence: medium
 | Joe Jackson | 3 | 25.04.1984, 09.12.1986, **04.03.1995** |
 | Maceo Parker | 3 | 21.04.2000, 19.07.2007, 08.11.2011 (mit WDR Bigband) |
 | Bootsy Collins | 2 | 18.07.1998, 24.02.2014 |
-| Chaka Khan | 2 | 28.11.1988, 25.5.1992 (Support für Prince) |
+| Chaka Khan | 3 | 28.11.1988, ?/89, 25.5.1992 (Support für Prince) |
 | Freak Power | 2 | **13.05.1995**, 16.09.1996 |
 | James Brown | 2 | 20.06.1986, 14.07.2005 |
 | Jazzkantine | 2 | 05.03.1996, 22.04.1998 |
@@ -79,6 +79,7 @@ Siehe Rohdatei: [[raw/personal/concert-list-2026|concert-list-2026]]
 - [[entities/leningrad-cowboys|Leningrad Cowboys]]
 - [[entities/lois-lane|Lois Lane]]
 - [[entities/maceo-parker|Maceo Parker]]
+- [[entities/maze-feat-frankie-beverly|Maze feat. Frankie Beverly]]
 - [[entities/macy-gray|Macy Gray]]
 - [[entities/madhouse|Madhouse]]
 - [[entities/malia|Malia]]

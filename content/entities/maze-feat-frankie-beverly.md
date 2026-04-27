@@ -1,15 +1,15 @@
 ---
-title: Mother's Finest
-created: 2026-04-26
+title: Maze feat. Frankie Beverly
+created: 2026-04-27
 updated: 2026-04-27
 type: entity
 tags: [person, culture, art]
 sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 ---
 
-# Mother's Finest
+# Maze feat. Frankie Beverly
 
-US-amerikanische Funk-Rock-Band aus Atlanta. Bekannt für ihre energiegeladenen Live-Shows und eine Mischung aus Funk, Rock und Soul.
+US-amerikanische Soul-/Funk-Band aus San Francisco, angeführt von Frankie Beverly. Bekannt für Hits wie *Before I Let Go*, *Joy and Pain* und *Golden Time of Day*. Kultstatus besonders in der afroamerikanischen Community.
 
 ## Gesehenes Konzert
 
@@ -19,9 +19,9 @@ US-amerikanische Funk-Rock-Band aus Atlanta. Bekannt für ihre energiegeladenen 
 
 ## Tickets & Poster
 
-![[assets/posters/mothers-finest/1989-black-beat-night.jpg|200]]
+![[assets/posters/maze-feat-frankie-beverly/1989-black-beat-night.jpg|200]]
 
-*Black Beat Night 1989 — Liederhalle Stuttgart — Festivalplakat mit Mother's Finest, Chaka Khan und Maze feat. Frankie Beverly — Originalplakat (Sammlung Walter Wego)*
+*Black Beat Night 1989 — Liederhalle Stuttgart — Festivalplakat mit Maze feat. Frankie Beverly, Mother's Finest und Chaka Khan — Originalplakat (Sammlung Walter Wego)*
 
 ## Anmerkungen
 - Auftritt in der **Liederhalle Stuttgart** im Rahmen der **Black Beat Night 1989**
@@ -35,5 +35,5 @@ US-amerikanische Funk-Rock-Band aus Atlanta. Bekannt für ihre energiegeladenen 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- [[entities/mothers-finest|Mother's Finest]] — gemeinsames Konzert (Black Beat Night 1989)
 - [[entities/chaka-khan|Chaka Khan]] — gemeinsames Konzert (Black Beat Night 1989)
-- [[entities/maze-feat-frankie-beverly|Maze feat. Frankie Beverly]] — gemeinsames Konzert (Black Beat Night 1989)
