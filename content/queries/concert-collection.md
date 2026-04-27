@@ -31,15 +31,15 @@ confidence: medium
 | Kid Creole & The Coconuts | 4 | 14.11.1982, 9.4.1983, 4.9.1985, 6.7.1991 |
 | Candy Dulfer | 3 | 10.06.1997, 20.07.2003, 19.07.2007 |
 | George Clinton | 3 | 18.09.1994, 17.12.1996, 14.07.2004 |
-| Joe Jackson | 3 | 25.04.1984, 09.12.1986, 3/95 |
+| Joe Jackson | 3 | 25.04.1984, 09.12.1986, **04.03.1995** |
 | Maceo Parker | 3 | 21.04.2000, 19.07.2007, 08.11.2011 (mit WDR Bigband) |
 | Bootsy Collins | 2 | 18.07.1998, 24.02.2014 |
 | Chaka Khan | 2 | 28.11.1988, 25.5.1992 (Support für Prince) |
-| Freak Power | 2 | 5/95, 16.09.1996 |
+| Freak Power | 2 | **13.05.1995**, 16.09.1996 |
 | James Brown | 2 | 20.06.1986, 14.07.2005 |
 | Jazzkantine | 2 | 05.03.1996, 22.04.1998 |
 | Larry Graham & Graham Central Station | 2 | 23.8.1998, 26.12.1998 (Support für Prince) |
-| The Flying Pickets | 2 | 10/95, 2/94 |
+| The Flying Pickets | 2 | **22.02.1994**, **15.10.1995** |
 | Tower Of Power | 2 | 14.07.1993, 20.03.1996 |
 
 ## Vollständige Liste
