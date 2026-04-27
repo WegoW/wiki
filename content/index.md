@@ -3,7 +3,7 @@
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.
 | Last updated: 2026-04-27 | Total pages: 61
 
-## Konzerte
+## Konzerte (95)
 - [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert(e) besucht
 - [[entities/alexander-oneal|alexander-oneal]] — 1 Konzert(e) besucht
 - [[entities/amp-fiddler|amp-fiddler]] — 1 Konzert(e) besucht
