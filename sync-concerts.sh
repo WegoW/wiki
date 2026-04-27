@@ -55,18 +55,10 @@ content = re.sub(
     content
 )
 
-# Count concerts and update heading
-total_concerts = 0
-konzerte_section = re.search(r'## Konzerte(?:\s*\(\d+\))?\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
-if konzerte_section:
-    concert_counts = re.findall(r'(\d+)\s+Konzert', konzerte_section.group(1))
-    total_concerts = sum(int(c) for c in concert_counts)
-    content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({total_concerts})', content, flags=re.M)
-
 with open(index_path, 'w') as f:
     f.write(content)
 
-print(f"  index.md cleaned + intro replaced + concert count ({total_concerts} concerts)")
+print(f"  index.md cleaned + intro replaced ({page_count} pages)")
 PYEOF
 
 # 5. Git commit + push
