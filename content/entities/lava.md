@@ -15,7 +15,7 @@ Band, aufgetreten im ZAP in Stuttgart. Nähere Informationen zur Band nicht beka
 
 | # | Datum | Ort | Venue |
 |---|-------|-----|-------|
-| 1 | **—** | Stuttgart | ZAP |
+| 1 | **?/02** | Stuttgart | ZAP |
 
 ## Anmerkunge
 - Ersatz für The Wright Thing, die nicht auftreten konnten

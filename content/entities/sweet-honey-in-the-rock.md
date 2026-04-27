@@ -15,7 +15,7 @@ US-amerikanische A-cappella-Gruppe aus Washington, D.C. Seit 1973 aktiv, bekannt
 
 | # | Datum | Ort | Venue |
 |---|-------|-----|-------|
-| 1 | **?/?** | Stuttgart | Theaterhaus |
+| 1 | **?/88** | Stuttgart | Theaterhaus |
 
 ## Anmerkungen
 - Auftritt im **Theaterhaus Stuttgart**
