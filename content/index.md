@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.
-| Last updated: 2026-04-27 | Total pages: 64
+| Last updated: 2026-04-27 | Total pages: 65
 
 ## Konzerte (97)
 - [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert
@@ -43,6 +43,7 @@
 - [[entities/mothers-finest|mothers-finest]] — 1 Konzert
 - [[entities/nils-landgren|nils-landgren]] — 1 Konzert
 - [[entities/oleta-adams|oleta-adams]] — 1 Konzert
+- [[entities/p-m-dawn|p-m-dawn]] — 1 Konzert (Support für De La Soul 1991)
 - [[entities/prince|prince]] — 8 Konzerte
 - [[entities/prince-charles-and-the-city-beat-band|prince-charles-and-the-city-beat-band]] — 1 Konzert
 - [[entities/roy-hargrove|roy-hargrove]] — 1 Konzert

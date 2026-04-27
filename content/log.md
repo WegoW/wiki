@@ -424,3 +424,13 @@
   - `entities/jazzkantine.md` — Verwandte Einträge: Cultured Pearls verlinkt
   - `index.md` — Cultured Pearls eingetragen, Seiten 73→74
 
+## [2026-04-27] create | P.M. Dawn
+- Source: De La Soul-Ticket 1991 (Sammlung Walter Wego)
+- **P.M. Dawn** als Support-Act für **De La Soul** (15. September 1991, Forum Ludwigsburg) dokumentiert
+- Asset saved: `assets/posters/p-m-dawn/tickets/1991-de-la-soul-support.jpg` (shared mit De La Soul)
+- Pages created:
+  - `entities/p-m-dawn.md` — Support-Only Artist
+- Pages updated:
+  - `entities/de-la-soul.md` — Verwandte Einträge: P.M. Dawn verlinkt
+  - `index.md` — P.M. Dawn eingetragen, Seiten 74→75
+
