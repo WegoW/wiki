@@ -450,3 +450,15 @@
   - `queries/concert-collection.md` — Gesamtzahl 99→100, Acts 63→64
   - `index.md` — Konzerte 99→100, Seiten 75→76, Sovory eingetragen
 
+## [2026-04-27] create | Daran & Et Les Chaises
+- Source: Willy DeVille-Ticket 1996 (Sammlung Walter Wego)
+- **Daran & Et Les Chaises** als Support-Act für **Willy DeVille** (4. März 1996, Forum Ludwigsburg) dokumentiert
+- Asset saved: `assets/posters/daran-et-les-chaises/tickets/1996-willy-deville-support.jpg` (shared mit Willy DeVille)
+- Pages created:
+  - `entities/daran-et-les-chaises.md` — Support-Only Artist
+- Pages updated:
+  - `entities/willy-deville.md` — Verwandte Einträge: Daran & Et Les Chaises verlinkt
+  - `raw/personal/concert-list-2026.md` — +87 Daran & Et Les Chaises
+  - `queries/concert-collection.md` — Gesamtzahl 100→101, Acts 64→65
+  - `index.md` — Konzerte 100→101, Seiten 76→77, Daran & Et Les Chaises eingetragen
+

@@ -95,3 +95,4 @@ Persönliche Liste besuchter Konzerte.
 | 84 | Cultured Pearls | 05.03.1996 |
 | 85 | P.M. Dawn | 15.09.1991 |
 | 86 | Sovory | 13.11.1996 |
+| 87 | Daran & Et Les Chaises | 04.03.1996 |

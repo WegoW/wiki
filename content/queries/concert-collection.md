@@ -14,8 +14,8 @@ confidence: medium
 
 ## Statistik
 
-- **Gesamtzahl:** 100 Konzerte
-- **Verschiedene Acts:** 64
+- **Gesamtzahl:** 101 Konzerte
+- **Verschiedene Acts:** 65
 - **Häufigster Act:** The Wright Thing (10x)
 - **Zeitraum:** 1982 – 2014
 - **Erstes Konzert:** Kid Creole & The Coconuts – 14.11.1982
@@ -58,6 +58,7 @@ Siehe Rohdatei: [[raw/personal/concert-list-2026|concert-list-2026]]
 - [[entities/chaka-khan|Chaka Khan]]
 - [[entities/cultured-pearls|Cultured Pearls]]
 - [[entities/curtis-mayfield|Curtis Mayfield]]
+- [[entities/daran-et-les-chaises|Daran & Et Les Chaises]]
 - [[entities/david-bowie|David Bowie]]
 - [[entities/de-la-soul|De La Soul]]
 - [[entities/earth-wind-and-fire|Earth, Wind & Fire]]
