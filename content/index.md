@@ -1,9 +1,9 @@
 # Wiki Index
 
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.
-| Last updated: 2026-04-27 | Total pages: 65
+| Last updated: 2026-04-27 | Total pages: 66
 
-## Konzerte (99)
+## Konzerte (100)
 - [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert
 - [[entities/alexander-oneal|alexander-oneal]] — 1 Konzert
 - [[entities/amp-fiddler|amp-fiddler]] — 1 Konzert
@@ -49,6 +49,7 @@
 - [[entities/roy-hargrove|roy-hargrove]] — 1 Konzert
 - [[entities/sheryl-crow|sheryl-crow]] — 1 Konzert
 - [[entities/soulbearound|soulbearound]] — 1 Konzert
+- [[entities/sovory|sovory]] — 1 Konzert (Support für Sheryl Crow 1996)
 - [[entities/stephan-eicher|stephan-eicher]] — 1 Konzert
 - [[entities/sweet-honey-in-the-rock|sweet-honey-in-the-rock]] — 1 Konzert
 - [[entities/tab-two|tab-two]] — 1 Konzert

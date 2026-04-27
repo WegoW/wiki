@@ -94,3 +94,4 @@ Persönliche Liste besuchter Konzerte.
 | 83 | SoulBeAround | 26.07.2014 |
 | 84 | Cultured Pearls | 05.03.1996 |
 | 85 | P.M. Dawn | 15.09.1991 |
+| 86 | Sovory | 13.11.1996 |

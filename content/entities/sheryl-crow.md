@@ -37,3 +37,4 @@ US-amerikanische Sängerin, Songwriterin und Multiinstrumentalistin. Mit neun Gr
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- [[entities/sovory|Sovory]] — Support 1996

@@ -14,8 +14,8 @@ confidence: medium
 
 ## Statistik
 
-- **Gesamtzahl:** 99 Konzerte
-- **Verschiedene Acts:** 63
+- **Gesamtzahl:** 100 Konzerte
+- **Verschiedene Acts:** 64
 - **Häufigster Act:** The Wright Thing (10x)
 - **Zeitraum:** 1982 – 2014
 - **Erstes Konzert:** Kid Creole & The Coconuts – 14.11.1982
@@ -93,6 +93,7 @@ Siehe Rohdatei: [[raw/personal/concert-list-2026|concert-list-2026]]
 - [[entities/p-m-dawn|P.M. Dawn]]
 - [[entities/sheryl-crow|Sheryl Crow]]
 - [[entities/soulbearound|SoulBeAround]]
+- [[entities/sovory|Sovory]]
 - [[entities/stephan-eicher|Stephan Eicher]]
 - [[entities/sweet-honey-in-the-rock|Sweet Honey In The Rock]]
 - [[entities/tab-two|Tab Two]]

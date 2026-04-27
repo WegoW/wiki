@@ -438,3 +438,15 @@
   - `queries/concert-collection.md` — Gesamtzahl 97→99, Acts 61→63
   - `index.md` — Konzerte 97→99
 
+## [2026-04-27] create | Sovory
+- Source: Sheryl Crow-Ticket 1996 (Sammlung Walter Wego)
+- **Sovory** als Support-Act für **Sheryl Crow** (13. November 1996, LKA Longhorn Stuttgart) dokumentiert
+- Asset saved: `assets/posters/sovory/tickets/1996-sheryl-crow-support.jpg` (shared mit Sheryl Crow)
+- Pages created:
+  - `entities/sovory.md` — Support-Only Artist
+- Pages updated:
+  - `entities/sheryl-crow.md` — Verwandte Einträge: Sovory verlinkt
+  - `raw/personal/concert-list-2026.md` — +86 Sovory
+  - `queries/concert-collection.md` — Gesamtzahl 99→100, Acts 63→64
+  - `index.md` — Konzerte 99→100, Seiten 75→76, Sovory eingetragen
+
