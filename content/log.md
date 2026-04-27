@@ -365,3 +365,11 @@
 - Verbleibend: Keine offenen Issues ✅
   - `index.md` — 1→10 Konzerte, updated-Datum
 
+## [2026-04-27] update | Prince — Ticket-Bild 2002 hinzugefügt
+- Quelle: Online gefundenes Ticket (kein Original aus Sammlung Wego)
+- **Prince — 13. Oktober 2002, Festhalle Frankfurt**
+  - One Nite Alone… Tour, Innenraum Stehplatz, EUR 52,30
+  - Asset saved: `assets/posters/prince/tickets/2002-festhalle-frankfurt.jpg`
+- Pages updated:
+  - `entities/prince.md` — Ticket-Bild 2002 eingefügt, Beschreibung ergänzt, updated-Datum
+
