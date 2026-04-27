@@ -365,8 +365,9 @@
 - Verbleibend: Keine offenen Issues ✅
   - `index.md` — 1→10 Konzerte, updated-Datum
 
-## [2026-04-27] update | Prince — Ticket-Bild 2002 hinzugefügt
+## [2026-04-27] update | Prince — Ticket-Bild 2002 + NPG Music Club
 - Quelle: Online gefundenes Ticket (kein Original aus Sammlung Wego)
+- **NPG Music Club:** Bei beiden 2002er-Konzerten (13.10. Frankfurt, 30.10. Zürich) als Mitglied beim Soundcheck dabei
 - **Prince — 13. Oktober 2002, Festhalle Frankfurt**
   - One Nite Alone… Tour, Innenraum Stehplatz, EUR 52,30
   - Asset saved: `assets/posters/prince/tickets/2002-festhalle-frankfurt.jpg`

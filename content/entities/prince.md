@@ -60,6 +60,7 @@ US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
 - **Larry Graham & Graham Central Station** waren auch Support beim Stuttgarter Konzert am **26. Dezember 1998** (Schleyerhalle)
 - **Datumskorrektur 1992:** Ursprünglich als 1. Juli 1992 notiert. Das Original-Ticket belegt **25. Mai 1992** als korrektes Datum (Prince spielte am 1. Juli 1992 in Madrid).
 - Das **26. Dezember 1998**-Ticket ist auf "THE ARTIST" ausgestellt (Prince' Künstlername während der Symbol-Ära 1993–2000). Die Schrift ist schwer lesbar, die Veranstalter waren ACE & ICO.
+- **NPG Music Club:** Bei beiden Konzerten der One Nite Alone… Tour 2002 (13. Oktober, Festhalle Frankfurt **&** 30. Oktober, Hallenstadion Zürich) war ich als NPG Music Club Mitglied bei den Soundchecks vor den Konzerten dabei. 🎸🔊
 
 ## Quellen
 - setlist.fm: Setlists, Daten, Tournamen
