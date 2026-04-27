@@ -19,7 +19,6 @@ Deutsches Jazz-Pop-Duo bestehend aus Janne Schra (Gesang) und Niels Klein (Saxop
 
 ## Anmerkungen
 - **Auftritt bei Bootsy Collins** bei den Jazz Open Stuttgart 1998
-- Zusammen mit Fresh Outta Battery und Thoms (Special Guest) auf dem Ticket vermerkt
 
 ## Quellen
 - Original-Ticket (Sammlung Walter Wego)

@@ -23,7 +23,7 @@ US-amerikanischer Bassist, Sänger und Funk-Musiker. Mitglied von James Browns B
 ### 1998 — Jazz Open Stuttgart
 ![[assets/posters/bootsy-collins/tickets/1998-jazz-open.jpg|200]]
 
-*Ticket: 1998 — Jazz Open Stuttgart 38 — SDR präsentiert — mit Tab Two, Fresh Outta Battery, Special Guest: Thoms — Parkett Stehplatz*
+*Ticket: 1998 — Jazz Open Stuttgart 38 — SDR präsentiert — mit Tab Two — Parkett Stehplatz*
 
 ### 2014 — LKA Longhorn
 ![[assets/posters/bootsy-collins/tickets/2014-lka-longhorn.jpg|200]]
