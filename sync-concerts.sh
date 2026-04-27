@@ -30,22 +30,21 @@ for file in "$REPO/content/entities"/*.md; do
   fi
 done
 
-# 4. index.md bereinigen – Hörbuch/SciFi-Einträge entfernen
+# 4. index.md bereinigen – Hörbuch/SciFi-Einträge und leere Sektionen entfernen
 python3 << 'PYEOF'
 import re
 
 index_path = "/root/Konzerte/content/index.md"
 with open(index_path, 'r') as f:
-    lines = f.readlines()
+    content = f.read()
 
-filtered = []
-for line in lines:
-    # Remove audiobook/scifi entries
-    if re.search(r'suarez|schaetzing|goldt|rhodan|hamilton|philip-k-dick|stanislaw-lem|pratchett|science-fiction|audiobook-collection', line, re.I):
-        continue
-    filtered.append(line)
+# Remove audiobook/scifi entries
+content = re.sub(r'^- \[\[.*?(suarez|schaetzing|goldt|rhodan|hamilton|philip-k-dick|stanislaw-lem|pratchett|science-fiction|audiobook-collection).*?\n', '', content, flags=re.I | re.M)
 
-content = ''.join(filtered)
+# Remove empty "## Hörbücher" section (heading + optional blank lines until next ##)
+content = re.sub(r'## Hörbücher\n\n(?=## )', '', content)
+
+# Update page count
 page_count = len(re.findall(r'^- \[\[', content, re.M))
 content = re.sub(r'Total pages: \d+', f'Total pages: {page_count}', content)
 
