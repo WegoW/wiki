@@ -3,7 +3,7 @@
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.
 | Last updated: 2026-04-27 | Total pages: 60
 
-## Konzerte (93)
+## Konzerte (94)
 - [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert(e) besucht
 - [[entities/alexander-oneal|alexander-oneal]] — 1 Konzert(e) besucht
 - [[entities/amp-fiddler|amp-fiddler]] — 1 Konzert(e) besucht
@@ -47,6 +47,7 @@
 - [[entities/sheryl-crow|sheryl-crow]] — 1 Konzert(e) besucht
 - [[entities/stephan-eicher|stephan-eicher]] — 1 Konzert(e) besucht
 - [[entities/sweet-honey-in-the-rock|sweet-honey-in-the-rock]] — 1 Konzert(e) besucht
+- [[entities/tab-two|tab-two]] — 1 Konzert(e) besucht
 - [[entities/the-b-52s|the-b-52s]] — 1 Konzert(e) besucht
 - [[entities/the-blow-monkeys|the-blow-monkeys]] — 1 Konzert(e) besucht
 - [[entities/the-commodores|the-commodores]] — 1 Konzert(e) besucht
