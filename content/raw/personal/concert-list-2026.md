@@ -91,3 +91,4 @@ Persönliche Liste besuchter Konzerte.
 | 80 | Tab Two | 18.07.1998 |
 | 81 | Chaka Khan | ?/89 |
 | 82 | Maze feat. Frankie Beverly | ?/89 |
+| 83 | SoulBeAround | 26.07.2014 |

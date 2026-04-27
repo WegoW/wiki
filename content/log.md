@@ -403,3 +403,14 @@
   - `assets/posters/maze-feat-frankie-beverly/1989-black-beat-night.jpg`
   - `assets/posters/maze-feat-frankie-beverly/tickets/1989-black-beat-night.jpg`
 
+## [2026-04-27] create | SoulBeAround
+- Quelle: Walter Wego (persönliche Angabe)
+- **SoulBeAround** — 26. Juli 2014 — Kulturwerk (Open Air), Stuttgart — Lange Ostnacht
+- Kein Ticket-Scan vorhanden
+- Pages created:
+  - `entities/soulbearound.md` — Entity-Page mit 1 Konzert
+- Pages updated:
+  - `raw/personal/concert-list-2026.md` — +#83 SoulBeAround
+  - `queries/concert-collection.md` — Gesamtzahl 96→97, Acts 60→61, Letztes Konzert aktualisiert, SoulBeAround in Verwandte Einträge
+  - `index.md` — Konzerte 96→97, Seiten 72→73, SoulBeAround eingetragen
+

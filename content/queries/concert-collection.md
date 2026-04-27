@@ -14,12 +14,12 @@ confidence: medium
 
 ## Statistik
 
-- **Gesamtzahl:** 96 Konzerte
-- **Verschiedene Acts:** 60
+- **Gesamtzahl:** 97 Konzerte
+- **Verschiedene Acts:** 61
 - **Häufigster Act:** The Wright Thing (10x)
 - **Zeitraum:** 1982 – 2014
 - **Erstes Konzert:** Kid Creole & The Coconuts – 14.11.1982
-- **Letztes Konzert:** Bootsy Collins – 24.02.2014
+- **Letztes Konzert:** SoulBeAround – 26.07.2014
 - **Genres:** Funk, Soul, Jazz, Pop, Rock, Reggae
 
 ## Acts mit mehreren Besuchen
@@ -90,6 +90,7 @@ Siehe Rohdatei: [[raw/personal/concert-list-2026|concert-list-2026]]
 - [[entities/prince-charles-and-the-city-beat-band|Prince Charles & The City Beat Band]]
 - [[entities/roy-hargrove|Roy Hargrove]]
 - [[entities/sheryl-crow|Sheryl Crow]]
+- [[entities/soulbearound|SoulBeAround]]
 - [[entities/stephan-eicher|Stephan Eicher]]
 - [[entities/sweet-honey-in-the-rock|Sweet Honey In The Rock]]
 - [[entities/tab-two|Tab Two]]
