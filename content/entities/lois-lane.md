@@ -8,9 +8,9 @@ sources: [tickets-sammlung-wego]
 confidence: medium
 ---
 
-# Lois Lane
+# Loïs Lane
 
-Deutsche Pop-Sängerin, aktiv Ende der 1980er und Anfang der 1990er Jahre.
+Loïs Lane ist eine niederländische Band der Schwestern Suzanne (* 25. Januar 1963) und Monique Klemann (* 18. Juli 1965).
 
 ## Gesehenes Konzert
 
