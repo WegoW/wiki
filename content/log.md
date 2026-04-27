@@ -374,3 +374,12 @@
 - Pages updated:
   - `entities/prince.md` — Ticket-Bild 2002 eingefügt, Beschreibung ergänzt, updated-Datum
 
+## [2026-04-27] update | Prince — CTS-Ticket 1990 (Nude Tour) hinzugefügt
+- Quelle: Online gefundenes Ticket (kein Original aus Sammlung Wego)
+- **Prince — 8. August 1990, Maimarkthalle Mannheim**
+  - CTS-Ticket (Computer Ticket Service) — SWF 3 LIVETIME — Nr. 003 — DM 51,00
+  - Asset saved: `assets/posters/prince/tickets/1990-maimarkthalle-cts.jpg`
+- **Korrektur:** "SWE 3" → "SWF 3" (Südwestfunk) im bestehenden Eintrag gefixt
+- Pages updated:
+  - `entities/prince.md` — CTS-Ticket-Bild + Beschreibung ergänzt, "SWE 3"-Tippfehler korrigiert, updated-Datum
+

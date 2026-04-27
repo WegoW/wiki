@@ -39,6 +39,7 @@ US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
 
 ![[assets/posters/prince/tickets/1987-schleyerhalle-closeup.jpg|200]]
 ![[assets/posters/prince/tickets/1990-maimarkthalle.jpg|200]]
+![[assets/posters/prince/tickets/1990-maimarkthalle-cts.jpg|200]]
 ![[assets/posters/prince/tickets/1992-schleyerhalle.jpg|200]]
 ![[assets/posters/prince/tickets/1998-the-artist.jpg|200]]
 ![[assets/posters/prince/tickets/2002-festhalle-frankfurt.jpg|200]]
@@ -46,7 +47,8 @@ US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
 *Original-Tickets:*
 - **4. Juni 1987** — Schleyerhalle Stuttgart, Block B Reihe 2 Platz 8 — *"introducing madhouse — wear something beach... or black"* — DM 50,-
 - **27. August 1988** — hr3 Open Air, Stadion Bieberer Berg Offenbach — Innenraum — DM 45,- (VVK)
-- **8. August 1990** — Maimarkthalle Mannheim — *"SWE 3 LIVETIME Prince Tour MCLR München"* — CTS-Vorverkauf DM 5,-
+- **8. August 1990** — Maimarkthalle Mannheim — *"SWF 3 LIVETIME Prince Tour MCLR München"* — Stehplatz — DM 51,00 — CTS-Vorverkauf DM 5,-
+- **8. August 1990 (CTS-Ticket)** — Maimarkthalle Mannheim — *"SWF 3 LIVETIME"* — Ticket Nr. 003 — Veranstalter: Südwest-Konzerte Mannheim — *⚠️ Online gefundenes Ticket, kein Original aus der Sammlung Wego*
 - **25. Mai 1992** — Schleyerhalle Stuttgart — *Diamonds and Pearls Tour* mit *SDR3 präsentiert* — PRINCE & THE NEW POWER GENERATION — Stehplatz Innenraum — DM 48,- (VVK) / DM 55,- (AK)
 - **26. Dezember 1998** — Stuttgart (Schleyerhalle) — *"ACE & ICO present THE ARTIST in Concert"* — Block 15 Reihe 5 Platz 17 — DM 76,30
 - **13. Oktober 2002** — Festhalle Frankfurt — *One Nite Alone… Tour* — Innenraum Stehplatz — EUR 52,30 (DEM 100,00) — Veranstalter: Marek G. (Co. KG) / Darek L. — *⚠️ Online gefundenes Ticket, kein Original aus der Sammlung Wego*
