@@ -78,7 +78,7 @@ Persönliche Liste besuchter Konzerte.
 | 67 | The Flying Pickets | 22.02.1994 |
 | 68 | The S.O.S. Band | ?/86 |
 | 69 | The Untouchables | 05.11.1985 |
-| 70 | The Wright Thing | — |
+| 70 | The Wright Thing | 1999–2003 |
 | 71 | Tower Of Power | 14.07.1993 |
 | 72 | Tower Of Power | 20.03.1996 |
 | 73 | Triband | 14. Juli 2007 |

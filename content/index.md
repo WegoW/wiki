@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-| Last updated: 2026-04-26 | Total pages: 61
+| Last updated: 2026-04-27 | Total pages: 60
 
 ## Konzerte
 - [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert(e) besucht
@@ -55,7 +55,7 @@
 - [[entities/the-flying-pickets|the-flying-pickets]] — 2 Konzert(e) besucht
 - [[entities/the-sos-band|the-sos-band]] — 1 Konzert(e) besucht
 - [[entities/the-untouchables|the-untouchables]] — 1 Konzert(e) besucht
-- [[entities/the-wright-thing|the-wright-thing]] — 1 Konzert(e) besucht
+| [[entities/the-wright-thing|the-wright-thing]] — 10 Konzerte besucht
 - [[entities/tower-of-power|tower-of-power]] — 2 Konzert(e) besucht
 - [[entities/triband|triband]] — 1 Konzert(e) besucht
 - [[entities/trombone-shorty|trombone-shorty]] — 1 Konzert(e) besucht

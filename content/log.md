@@ -342,3 +342,17 @@
 - Pages updated:
   - `entities/prince.md` — Bild bereits referenziert, nur Datei getauscht
 
+## [2026-04-27] update | The Wright Thing — Details präzisiert
+- Quelle: Walter Wego (persönliche Erinnerung), Allgemeine Hotel- und Gastronomie-Zeitung (ahgz)
+- **Neue Infos:**
+  - Bandleader: **Jason Wright**
+  - Stil: Soul, Funk, R'n'B, Pop
+  - Wöchentliche Donnerstags-Residency im **ZAP Stuttgart** (1997–2003)
+  - **10 Konzerte** zwischen 1999 und 2003 besucht
+- **Statistik-Update:** Gesamtzahl 79→88, häufigster Act: Prince→The Wright Thing
+- Pages updated:
+  - `entities/the-wright-thing.md` — Beschreibung, Tabelle, Anmerkungen, Quellen erweitert
+  - `raw/personal/concert-list-2026.md` — "—" → "1999–2003"
+  - `queries/concert-collection.md` — The Wright Thing in "Acts mit mehreren Besuchen" (10x), Gesamtzahl 79→88, häufigster Act geändert
+  - `index.md` — 1→10 Konzerte, updated-Datum
+
