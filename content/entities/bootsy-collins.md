@@ -43,3 +43,5 @@ US-amerikanischer Bassist, Sänger und Funk-Musiker. Mitglied von James Browns B
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- [[entities/tab-two|Tab Two]] — gemeinsames Konzert 1998
+- [[entities/nils-landgren|Nils Landgren]] — Support Act 1998

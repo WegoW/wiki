@@ -88,3 +88,4 @@ Persönliche Liste besuchter Konzerte.
 | 77 | Willy DeVille | 04.03.1996 |
 | 78 | Wolf Maahn | 10.02.1985 |
 | 79 | Ziggy Marley | 6. Juli 1991 |
+| 80 | Tab Two | 18.07.1998 |
