@@ -65,8 +65,6 @@
 - [[entities/wolf-maahn|wolf-maahn]] — 1 Konzert(e) besucht
 - [[entities/ziggy-marley|ziggy-marley]] — 1 Konzert(e) besucht
 
-## Hörbücher
-
 ## Concepts
 - [[concepts/live-music|live-music]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
 
