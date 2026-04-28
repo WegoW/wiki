@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Konzertsammlung – Walter Wego",
+    pageTitle: "Konzertliste",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
