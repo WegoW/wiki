@@ -71,9 +71,9 @@
 - [[entities/ziggy-marley|Ziggy Marley]] — 1 Konzert
 
 ## Concepts
-- [[concepts/live-music|live-music]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
+- [[concepts/live-music|Live-Musik]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
 
 ## Comparisons
 
 ## Queries
-- [[queries/concert-collection|concert-collection]] — Übersicht über besuchte Konzerte
+- [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
