@@ -4,71 +4,71 @@
 | Last updated: 2026-04-27 | Total pages: 67
 
 ## Konzerte (101)
-- [[entities/afrika-bambaataa|afrika-bambaataa]] — 1 Konzert
-- [[entities/alexander-oneal|alexander-oneal]] — 1 Konzert
-- [[entities/amp-fiddler|amp-fiddler]] — 1 Konzert
-- [[entities/andreas-dorau|andreas-dorau]] — 1 Konzert
-- [[entities/angie-stone|angie-stone]] — 1 Konzert
-- [[entities/bobby-womack|bobby-womack]] — 1 Konzert
-- [[entities/bootsy-collins|bootsy-collins]] — 2 Konzerte
-- [[entities/candy-dulfer|candy-dulfer]] — 3 Konzerte
-- [[entities/chaka-khan|chaka-khan]] — 3 Konzerte (u.a. Support für Prince 1998)
-- [[entities/cultured-pearls|cultured-pearls]] — 1 Konzert (Support für Jazzkantine 1996)
-- [[entities/larry-graham-and-graham-central-station|larry-graham-and-graham-central-station]] — 2 Konzerte (Support für Prince 1998)
-- [[entities/curtis-mayfield|curtis-mayfield]] — 1 Konzert
-- [[entities/daran-et-les-chaises|daran-et-les-chaises]] — 1 Konzert (Support für Willy DeVille 1996)
-- [[entities/david-bowie|david-bowie]] — 1 Konzert
-- [[entities/de-la-soul|de-la-soul]] — 1 Konzert
-- [[entities/earth-wind-and-fire|earth-wind-and-fire]] — 1 Konzert
-- [[entities/erykah-badu|erykah-badu]] — 1 Konzert
-- [[entities/freak-power|freak-power]] — 2 Konzerte
-- [[entities/george-clinton|george-clinton]] — 3 Konzerte
-- [[entities/incognito|incognito]] — 1 Konzert
-- [[entities/james-brown|james-brown]] — 2 Konzerte
-- [[entities/jamie-lidell|jamie-lidell]] — 1 Konzert
-- [[entities/janet-jackson|janet-jackson]] — 1 Konzert
-- [[entities/jason-and-the-scorchers|jason-and-the-scorchers]] — 1 Konzert
-- [[entities/jazzkantine|jazzkantine]] — 2 Konzerte
-- [[entities/joe-jackson|joe-jackson]] — 3 Konzerte
-- [[entities/joss-stone|joss-stone]] — 1 Konzert
-- [[entities/keith-sweat|keith-sweat]] — 1 Konzert
-- [[entities/kid-creole-and-the-coconuts|kid-creole-and-the-coconuts]] — 4 Konzerte
-- [[entities/lois-lane|lois-lane]] — 1 Konzert (Support für Prince 1990)
-- [[entities/lava|lava]] — 1 Konzert
-- [[entities/leningrad-cowboys|leningrad-cowboys]] — 1 Konzert
-- [[entities/madhouse|madhouse]] — 1 Konzert (Support für Prince 1987)
-- [[entities/maceo-parker|maceo-parker]] — 3 Konzerte
-- [[entities/macy-gray|macy-gray]] — 1 Konzert
-- [[entities/malia|malia]] — 1 Konzert
-- [[entities/maze-feat-frankie-beverly|maze-feat-frankie-beverly]] — 1 Konzert
-- [[entities/mothers-finest|mothers-finest]] — 1 Konzert
-- [[entities/nils-landgren|nils-landgren]] — 1 Konzert
-- [[entities/oleta-adams|oleta-adams]] — 1 Konzert
-- [[entities/p-m-dawn|p-m-dawn]] — 1 Konzert (Support für De La Soul 1991)
-- [[entities/prince|prince]] — 8 Konzerte
-- [[entities/prince-charles-and-the-city-beat-band|prince-charles-and-the-city-beat-band]] — 1 Konzert
-- [[entities/roy-hargrove|roy-hargrove]] — 1 Konzert
-- [[entities/sheryl-crow|sheryl-crow]] — 1 Konzert
-- [[entities/soulbearound|soulbearound]] — 1 Konzert
-- [[entities/sovory|sovory]] — 1 Konzert (Support für Sheryl Crow 1996)
-- [[entities/stephan-eicher|stephan-eicher]] — 1 Konzert
-- [[entities/sweet-honey-in-the-rock|sweet-honey-in-the-rock]] — 1 Konzert
-- [[entities/tab-two|tab-two]] — 1 Konzert
-- [[entities/the-b-52s|the-b-52s]] — 1 Konzert
-- [[entities/the-blow-monkeys|the-blow-monkeys]] — 1 Konzert
-- [[entities/the-commodores|the-commodores]] — 1 Konzert
-- [[entities/the-flying-pickets|the-flying-pickets]] — 2 Konzerte
-- [[entities/the-sos-band|the-sos-band]] — 1 Konzert
-- [[entities/the-untouchables|the-untouchables]] — 1 Konzert
-- [[entities/the-wright-thing|the-wright-thing]] — 10 Konzerte
-- [[entities/tower-of-power|tower-of-power]] — 2 Konzerte
-- [[entities/triband|triband]] — 1 Konzert
-- [[entities/trombone-shorty|trombone-shorty]] — 1 Konzert
-- [[entities/upfunkcoolo|upfunkcoolo]] — 1 Konzert
-- [[entities/violent-femmes|violent-femmes]] — 1 Konzert
-- [[entities/willy-deville|willy-deville]] — 1 Konzert
-- [[entities/wolf-maahn|wolf-maahn]] — 1 Konzert
-- [[entities/ziggy-marley|ziggy-marley]] — 1 Konzert
+- [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
+- [[entities/alexander-oneal|Alexander O'Neal]] — 1 Konzert
+- [[entities/amp-fiddler|Amp Fiddler]] — 1 Konzert
+- [[entities/andreas-dorau|Andreas Dorau]] — 1 Konzert
+- [[entities/angie-stone|Angie Stone]] — 1 Konzert
+- [[entities/bobby-womack|Bobby Womack]] — 1 Konzert
+- [[entities/bootsy-collins|Bootsy Collins]] — 2 Konzerte
+- [[entities/candy-dulfer|Candy Dulfer]] — 3 Konzerte
+- [[entities/chaka-khan|Chaka Khan]] — 3 Konzerte (u.a. Support für Prince 1998)
+- [[entities/cultured-pearls|Cultured Pearls]] — 1 Konzert (Support für Jazzkantine 1996)
+- [[entities/larry-graham-and-graham-central-station|Larry Graham & Graham Central Station]] — 2 Konzerte (Support für Prince 1998)
+- [[entities/curtis-mayfield|Curtis Mayfield]] — 1 Konzert
+- [[entities/daran-et-les-chaises|Daran & Et Les Chaises]] — 1 Konzert (Support für Willy DeVille 1996)
+- [[entities/david-bowie|David Bowie]] — 1 Konzert
+- [[entities/de-la-soul|De La Soul]] — 1 Konzert
+- [[entities/earth-wind-and-fire|Earth, Wind & Fire]] — 1 Konzert
+- [[entities/erykah-badu|Erykah Badu]] — 1 Konzert
+- [[entities/freak-power|Freak Power]] — 2 Konzerte
+- [[entities/george-clinton|George Clinton]] — 3 Konzerte
+- [[entities/incognito|Incognito]] — 1 Konzert
+- [[entities/james-brown|James Brown]] — 2 Konzerte
+- [[entities/jamie-lidell|Jamie Lidell]] — 1 Konzert
+- [[entities/janet-jackson|Janet Jackson]] — 1 Konzert
+- [[entities/jason-and-the-scorchers|Jason & The Scorchers]] — 1 Konzert
+- [[entities/jazzkantine|Jazzkantine]] — 2 Konzerte
+- [[entities/joe-jackson|Joe Jackson]] — 3 Konzerte
+- [[entities/joss-stone|Joss Stone]] — 1 Konzert
+- [[entities/keith-sweat|Keith Sweat]] — 1 Konzert
+- [[entities/kid-creole-and-the-coconuts|Kid Creole & The Coconuts]] — 4 Konzerte
+- [[entities/lois-lane|Lois Lane]] — 1 Konzert (Support für Prince 1990)
+- [[entities/lava|Lava]] — 1 Konzert
+- [[entities/leningrad-cowboys|Leningrad Cowboys]] — 1 Konzert
+- [[entities/madhouse|Madhouse]] — 1 Konzert (Support für Prince 1987)
+- [[entities/maceo-parker|Maceo Parker]] — 3 Konzerte
+- [[entities/macy-gray|Macy Gray]] — 1 Konzert
+- [[entities/malia|Malia]] — 1 Konzert
+- [[entities/maze-feat-frankie-beverly|Maze feat. Frankie Beverly]] — 1 Konzert
+- [[entities/mothers-finest|Mother's Finest]] — 1 Konzert
+- [[entities/nils-landgren|Nils Landgren]] — 1 Konzert
+- [[entities/oleta-adams|Oleta Adams]] — 1 Konzert
+- [[entities/p-m-dawn|P.M. Dawn]] — 1 Konzert (Support für De La Soul 1991)
+- [[entities/prince|Prince]] — 8 Konzerte
+- [[entities/prince-charles-and-the-city-beat-band|Prince Charles & The City Beat Band]] — 1 Konzert
+- [[entities/roy-hargrove|Roy Hargrove]] — 1 Konzert
+- [[entities/sheryl-crow|Sheryl Crow]] — 1 Konzert
+- [[entities/soulbearound|SoulBeAround]] — 1 Konzert
+- [[entities/sovory|Sovory]] — 1 Konzert (Support für Sheryl Crow 1996)
+- [[entities/stephan-eicher|Stephan Eicher]] — 1 Konzert
+- [[entities/sweet-honey-in-the-rock|Sweet Honey In The Rock]] — 1 Konzert
+- [[entities/tab-two|Tab Two]] — 1 Konzert
+- [[entities/the-b-52s|The B-52's]] — 1 Konzert
+- [[entities/the-blow-monkeys|The Blow Monkeys]] — 1 Konzert
+- [[entities/the-commodores|The Commodores]] — 1 Konzert
+- [[entities/the-flying-pickets|The Flying Pickets]] — 2 Konzerte
+- [[entities/the-sos-band|The S.O.S. Band]] — 1 Konzert
+- [[entities/the-untouchables|The Untouchables]] — 1 Konzert
+- [[entities/the-wright-thing|The Wright Thing]] — 10 Konzerte
+- [[entities/tower-of-power|Tower Of Power]] — 2 Konzerte
+- [[entities/triband|Triband]] — 1 Konzert
+- [[entities/trombone-shorty|Trombone Shorty]] — 1 Konzert
+- [[entities/upfunkcoolo|Upfunkcoolo]] — 1 Konzert
+- [[entities/violent-femmes|Violent Femmes]] — 1 Konzert
+- [[entities/willy-deville|Willy DeVille]] — 1 Konzert
+- [[entities/wolf-maahn|Wolf Maahn]] — 1 Konzert
+- [[entities/ziggy-marley|Ziggy Marley]] — 1 Konzert
 
 ## Concepts
 - [[concepts/live-music|live-music]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
