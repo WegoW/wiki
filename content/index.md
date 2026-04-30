@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 143
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 150
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -86,13 +86,16 @@
 
 ### Regisseur-Seiten
 > Nur Regisseure mit mindestens 10 bewerteten Filmen.
+- [[filme/regisseure/alfred-hitchcock|Alfred Hitchcock]] — 10 Filme, Ø 7.70
 - [[filme/regisseure/antoine-fuqua|Antoine Fuqua]] — 11 Filme, Ø 6.18
 - [[filme/regisseure/barry-levinson|Barry Levinson]] — 15 Filme, Ø 6.13
 - [[filme/regisseure/brian-de-palma|Brian De Palma]] — 19 Filme, Ø 6.79
 - [[filme/regisseure/christopher-nolan|Christopher Nolan]] — 12 Filme, Ø 7.92
 - [[filme/regisseure/clint-eastwood|Clint Eastwood]] — 23 Filme, Ø 6.96
 - [[filme/regisseure/danny-boyle|Danny Boyle]] — 11 Filme, Ø 6.64
+- [[filme/regisseure/david-cronenberg|David Cronenberg]] — 10 Filme, Ø 5.90
 - [[filme/regisseure/david-fincher|David Fincher]] — 12 Filme, Ø 7.17
+- [[filme/regisseure/doug-liman|Doug Liman]] — 10 Filme, Ø 6.70
 - [[filme/regisseure/ethan-coen|Ethan Coen]] — 20 Filme, Ø 6.75
 - [[filme/regisseure/francis-ford-coppola|Francis Ford Coppola]] — 14 Filme, Ø 6.86
 - [[filme/regisseure/guy-ritchie|Guy Ritchie]] — 15 Filme, Ø 6.53
@@ -101,9 +104,11 @@
 - [[filme/regisseure/joel-schumacher|Joel Schumacher]] — 12 Filme, Ø 5.83
 - [[filme/regisseure/john-badham|John Badham]] — 11 Filme, Ø 6.27
 - [[filme/regisseure/john-landis|John Landis]] — 15 Filme, Ø 6.87
+- [[filme/regisseure/luc-besson|Luc Besson]] — 10 Filme, Ø 6.80
 - [[filme/regisseure/martin-scorsese|Martin Scorsese]] — 19 Filme, Ø 7.11
 - [[filme/regisseure/michael-bay|Michael Bay]] — 12 Filme, Ø 4.50
 - [[filme/regisseure/oliver-stone|Oliver Stone]] — 12 Filme, Ø 6.17
+- [[filme/regisseure/peter-farrelly|Peter Farrelly]] — 10 Filme, Ø 5.90
 - [[filme/regisseure/phillip-noyce|Phillip Noyce]] — 11 Filme, Ø 6.55
 - [[filme/regisseure/quentin-tarantino|Quentin Tarantino]] — 12 Filme, Ø 8.08
 - [[filme/regisseure/richard-donner|Richard Donner]] — 12 Filme, Ø 6.50
@@ -111,9 +116,11 @@
 - [[filme/regisseure/robert-rodriguez|Robert Rodriguez]] — 12 Filme, Ø 6.17
 - [[filme/regisseure/robert-zemeckis|Robert Zemeckis]] — 13 Filme, Ø 7.08
 - [[filme/regisseure/roland-emmerich|Roland Emmerich]] — 17 Filme, Ø 5.94
+- [[filme/regisseure/roman-polanski|Roman Polanski]] — 10 Filme, Ø 7.20
 - [[filme/regisseure/ron-howard|Ron Howard]] — 20 Filme, Ø 6.80
 - [[filme/regisseure/sidney-lumet|Sidney Lumet]] — 11 Filme, Ø 6.73
 - [[filme/regisseure/spike-lee|Spike Lee]] — 11 Filme, Ø 6.73
+- [[filme/regisseure/stanley-kubrick|Stanley Kubrick]] — 10 Filme, Ø 7.10
 - [[filme/regisseure/steven-soderbergh|Steven Soderbergh]] — 17 Filme, Ø 6.06
 - [[filme/regisseure/steven-spielberg|Steven Spielberg]] — 32 Filme, Ø 7.25
 - [[filme/regisseure/terry-gilliam|Terry Gilliam]] — 13 Filme, Ø 6.46
