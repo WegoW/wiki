@@ -57,3 +57,4 @@ US-amerikanische Multikulti-Band um August Darnell. Ihr Sound vereint Salsa, Cal
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- 🎬 *Against All Odds* (1984) — „My Male Curiosity" im Film performed (nicht bewertet)
