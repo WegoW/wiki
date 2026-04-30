@@ -36,3 +36,9 @@ US-amerikanische R&B-/Soul-Sängerin und Songwriterin. Bekannt durch ihren Hit *
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- 🎬 *Training Day* (2001) — ⭐6 — Rolle als Sandman's Wife
+- 🎬 *Spider-Man* (2002) — ⭐7 — Cameo als sie selbst
+- 🎬 *Scary Movie 3* (2003) — ⭐6 — Cameo als sie selbst
+- 🎬 *In 80 Tagen um die Welt* (2004) — ⭐6 — Rolle als Sleeping French Woman
+- 🎬 *Domino* (2005) — ⭐3 — Rolle als Lashandra Davis
+- 🎬 *Idlewild* (2006) — ⭐4 — Rolle als Taffy
