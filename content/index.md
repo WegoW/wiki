@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 150
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 157
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -130,15 +130,24 @@
 - [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
 
 
+
+
 ### Serien-Seiten
 - [[serien/top-10|Top 10 Serien]] — Meine persönliche Bestenliste
 - [[serien/statistiken|Serien-Statistiken]] — Übersicht, Verteilung, Top-Genres
 
 #### Serien-Creator
+- [[serien/regisseure/bryan-fuller|Bryan Fuller]] — 2 Serien
+- [[serien/regisseure/craig-mazin|Craig Mazin]] — 2 Serien
+- [[serien/regisseure/david-benioff|David Benioff]] — 2 Serien
+- [[serien/regisseure/db-weiss|D.B. Weiss]] — 2 Serien
 - [[serien/regisseure/gene-roddenberry|Gene Roddenberry]] — 2 Serien
 - [[serien/regisseure/jj-abrams|J.J. Abrams]] — 2 Serien
+- [[serien/regisseure/jonathan-nolan|Jonathan Nolan]] — 2 Serien
+- [[serien/regisseure/noah-hawley|Noah Hawley]] — 3 Serien
 - [[serien/regisseure/ronald-d-moore|Ronald D. Moore]] — 2 Serien
-- [[serien/regisseure/taylor-sheridan|Taylor Sheridan]] — 2 Serien
+- [[serien/regisseure/seth-macfarlane|Seth MacFarlane]] — 2 Serien
+- [[serien/regisseure/taylor-sheridan|Taylor Sheridan]] — 5 Serien
 - [[serien/regisseure/vince-gilligan|Vince Gilligan]] — 2 Serien
 
 #### Serien nach Jahrzehnt
