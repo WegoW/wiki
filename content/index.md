@@ -69,25 +69,6 @@
 - [[entities/wolf-maahn|Wolf Maahn]] — 1 Konzert
 - [[entities/ziggy-marley|Ziggy Marley]] — 1 Konzert
 
-## Hörbücher
-- [[entities/daniel-suarez|Daniel Suarez]] — Hörbuch in der Sammlung
-- [[entities/frank-schaetzing|Frank Schätzing]] — Hörbuch in der Sammlung
-- [[entities/max-goldt|Max Goldt]] — Hörbuch in der Sammlung
-- [[entities/perry-rhodan|Perry Rhodan]] — Hörbuch in der Sammlung
-- [[entities/peter-f-hamilton|Peter F. Hamilton]] — Hörbuch in der Sammlung
-- [[entities/philip-k-dick|Philip K. Dick]] — Hörbuch in der Sammlung
-- [[entities/stanislaw-lem|Stanislaw Lem]] — Hörbuch in der Sammlung
-- [[entities/terry-pratchett|Terry Pratchett]] — Hörbuch in der Sammlung
-
-## Concepts
-- [[concepts/live-music|Live-Musik]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
-- [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
-
-## Queries
-- [[queries/audiobook-collection|Gehörte Hörbücher und Hörspiele]] — Persönliche Sammlung von 119 Hörbüchern und Hörspielen
-- [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
-- [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
-
 ## Filme & Serien
 
 ### Konzert-Künstler mit Filmbeteiligung
@@ -160,3 +141,22 @@
 - [[serien/jahrzehnte/2000er|2000er]] — 39 Serien
 - [[serien/jahrzehnte/2010er|2010er]] — 97 Serien
 - [[serien/jahrzehnte/2020er|2020er]] — 143 Serien
+
+## Hörbücher
+- [[entities/daniel-suarez|Daniel Suarez]] — 6 Hörbücher
+- [[entities/frank-schaetzing|Frank Schätzing]] — 4 Hörbücher
+- [[entities/max-goldt|Max Goldt]] — 11 Hörbücher
+- [[entities/perry-rhodan|Perry Rhodan]] — 11 Hörbücher
+- [[entities/peter-f-hamilton|Peter F. Hamilton]] — 6 Hörbücher
+- [[entities/philip-k-dick|Philip K. Dick]] — 7 Hörbücher
+- [[entities/stanislaw-lem|Stanislaw Lem]] — 6 Hörbücher
+- [[entities/terry-pratchett|Terry Pratchett]] — 8 Hörbücher
+
+## Concepts
+- [[concepts/live-music|Live-Musik]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
+- [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
+
+## Queries
+- [[queries/audiobook-collection|Gehörte Hörbücher und Hörspiele]] — Persönliche Sammlung von 119 Hörbüchern und Hörspielen
+- [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
+- [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
