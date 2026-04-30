@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 157
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme, Serien und Hörbücher aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 156
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -68,6 +68,9 @@
 - [[entities/willy-deville|Willy DeVille]] — 1 Konzert
 - [[entities/wolf-maahn|Wolf Maahn]] — 1 Konzert
 - [[entities/ziggy-marley|Ziggy Marley]] — 1 Konzert
+
+### Sammlungen
+- [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
 
 ## Filme & Serien (3.993)
 ### Konzert-Künstler mit Filmbeteiligung
@@ -159,6 +162,10 @@
 - [[serien/jahrzehnte/2010er|2010er]] — 97 Serien
 - [[serien/jahrzehnte/2020er|2020er]] — 143 Serien
 
+### Genres & Auswertungen
+- [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
+- [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
+
 ## Hörbücher (119)
 > Nur Autoren mit mindestens 3 Hörbüchern in der Sammlung.
 - [[entities/dan-brown|Dan Brown]] — 3 Hörbücher
@@ -174,11 +181,6 @@
 - [[entities/stanislaw-lem|Stanislaw Lem]] — 6 Hörbücher
 - [[entities/terry-pratchett|Terry Pratchett]] — 8 Hörbücher
 
-## Concepts
-- [[concepts/live-music|Live-Musik]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
-- [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
-
-## Queries
+### Sammlungen
 - [[queries/audiobook-collection|Gehörte Hörbücher und Hörspiele]] — Persönliche Sammlung von 119 Hörbüchern und Hörspielen
-- [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
-- [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
+
