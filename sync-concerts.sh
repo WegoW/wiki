@@ -74,8 +74,11 @@ with open(index_path, 'r') as f:
 # Remove audiobook/scifi entries
 content = re.sub(r'^- \[\[.*?(suarez|schaetzing|goldt|rhodan|hamilton|philip-k-dick|stanislaw-lem|pratchett|science-fiction|audiobook-collection).*?\n', '', content, flags=re.I | re.M)
 
-# Remove empty "## Hörbücher" section (heading + optional blank lines until next ##)
+# Remove empty "## Hörbücher" section
 content = re.sub(r'## Hörbücher\n\n(?=## )', '', content)
+
+# Remove empty "## Comparisons" section
+content = re.sub(r'## Comparisons\n\n(?=## )', '', content)
 
 # Count concerts from the maintained query (source of truth)
 with open("/root/obsidian/wiki/queries/concert-collection.md", 'r') as f:

@@ -74,8 +74,6 @@
 - [[concepts/live-music|Live-Musik]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
 - [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
 
-## Comparisons
-
 ## Queries
 - [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
 - [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
