@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 30 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.
-| Last updated: 2026-04-30 | Total pages: 121
+| Last updated: 2026-04-30 | Total pages: 116
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -83,11 +83,6 @@
 ## Filme & Serien
 
 ### Konzert-Künstler mit Filmbeteiligung
-- [[entities/purple-rain|Purple Rain (1984)]] — ⭐8 — Prince als Regisseur und Hauptdarsteller
-- [[entities/labyrinth|Labyrinth / Die Reise ins Labyrinth (1986)]] — ⭐7 — David Bowie als Jareth
-- [[entities/blues-brothers|Blues Brothers (1980)]] — ⭐9 — James Brown Cameo als Reverend
-- [[entities/get-on-up|Get On Up (2014)]] — ⭐7 — James Brown Biopic
-- [[entities/superfly|Superfly (1972)]] — ⭐6 — Curtis Mayfield Soundtrack
 - [[entities/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
 - [[entities/prince|Prince]] — Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
 - [[entities/james-brown|James Brown]] — Blues Brothers ⭐9, Get On Up ⭐7
