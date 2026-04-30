@@ -36,4 +36,7 @@ Britischer Musiker, Sänger und Schauspieler. Einer der einflussreichsten Künst
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- 🎬 *Furyo – Merry Christmas, Mr. Lawrence* (1983) — ⭐7 — Bowie als Maj. Jack Celliers
+- 🎬 *Begierde / The Hunger* (1983) — ⭐6 — Bowie als Vampir John Blaylock
 - 🎬 [[entities/labyrinth|Labyrinth (1986)]] — ⭐7 — Bowie als Jareth, der Goblin-König
+- 🎬 *Prestige – Die Meister der Magie* (2006) — ⭐8 — Bowie als Nikola Tesla
