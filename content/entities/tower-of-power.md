@@ -36,3 +36,4 @@ US-amerikanische Funk-/Soul-Band aus Oakland, Kalifornien. Seit 1968 aktiv, beka
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- 🎬 *The Limey* (1999) — ⭐6 (IMDb 6.9) — Musikauftritt im Soderbergh-Film
