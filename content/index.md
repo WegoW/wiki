@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 30 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.
-| Last updated: 2026-04-30 | Total pages: 107
+| Last updated: 2026-04-30 | Total pages: 121
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -104,24 +104,38 @@
 - [[entities/curtis-mayfield|Curtis Mayfield]] — Superfly ⭐6
 
 ### Regisseur-Seiten
-- [[entities/steven-spielberg|Steven Spielberg]] — 31 Filme, Ø 7.29
-- [[entities/ridley-scott|Ridley Scott]] — 26 Filme, Ø 6.77
-- [[entities/clint-eastwood|Clint Eastwood]] — 22 Filme, Ø 6.95
-- [[entities/ron-howard|Ron Howard]] — 20 Filme, Ø 6.80
-- [[entities/martin-scorsese|Martin Scorsese]] — 19 Filme, Ø 7.11
-- [[entities/brian-de-palma|Brian De Palma]] — 19 Filme, Ø 6.79
-- [[entities/woody-allen|Woody Allen]] — 18 Filme, Ø 6.33
-- [[entities/roland-emmerich|Roland Emmerich]] — 17 Filme, Ø 5.94
-- [[entities/steven-soderbergh|Steven Soderbergh]] — 17 Filme, Ø 6.06
-- [[entities/tim-burton|Tim Burton]] — 15 Filme, Ø 6.80
-- [[entities/guy-ritchie|Guy Ritchie]] — 15 Filme, Ø 6.53
-- [[entities/barry-levinson|Barry Levinson]] — 15 Filme, Ø 6.13
-- [[entities/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
-- [[entities/francis-ford-coppola|Francis Ford Coppola]] — 13 Filme, Ø 6.92
-- [[entities/robert-zemeckis|Robert Zemeckis]] — 13 Filme, Ø 7.08
-- [[entities/john-landis|John Landis]] — 13 Filme, Ø 6.92
-- [[entities/christopher-nolan|Christopher Nolan]] — 12 Filme, Ø 7.92
-- [[entities/david-fincher|David Fincher]] — 12 Filme, Ø 7.17
-- [[entities/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
-- [[entities/terry-gilliam|Terry Gilliam]] — 12 Filme, Ø 6.42
-- [[entities/james-mangold|James Mangold]] — 11 Filme, Ø 6.82
+- [[filme/regisseure/antoine-fuqua|Antoine Fuqua]] — 11 Filme, Ø 6.18
+- [[filme/regisseure/barry-levinson|Barry Levinson]] — 15 Filme, Ø 6.13
+- [[filme/regisseure/brian-de-palma|Brian De Palma]] — 19 Filme, Ø 6.79
+- [[filme/regisseure/christopher-nolan|Christopher Nolan]] — 12 Filme, Ø 7.92
+- [[filme/regisseure/clint-eastwood|Clint Eastwood]] — 23 Filme, Ø 6.96
+- [[filme/regisseure/danny-boyle|Danny Boyle]] — 11 Filme, Ø 6.64
+- [[filme/regisseure/david-fincher|David Fincher]] — 12 Filme, Ø 7.17
+- [[filme/regisseure/ethan-coen|Ethan Coen]] — 20 Filme, Ø 6.75
+- [[filme/regisseure/francis-ford-coppola|Francis Ford Coppola]] — 14 Filme, Ø 6.86
+- [[filme/regisseure/guy-ritchie|Guy Ritchie]] — 15 Filme, Ø 6.53
+- [[filme/regisseure/james-mangold|James Mangold]] — 11 Filme, Ø 6.82
+- [[filme/regisseure/joel-coen|Joel Coen]] — 18 Filme, Ø 6.83
+- [[filme/regisseure/joel-schumacher|Joel Schumacher]] — 12 Filme, Ø 5.83
+- [[filme/regisseure/john-badham|John Badham]] — 11 Filme, Ø 6.27
+- [[filme/regisseure/john-landis|John Landis]] — 15 Filme, Ø 6.87
+- [[filme/regisseure/martin-scorsese|Martin Scorsese]] — 19 Filme, Ø 7.11
+- [[filme/regisseure/michael-bay|Michael Bay]] — 12 Filme, Ø 4.50
+- [[filme/regisseure/oliver-stone|Oliver Stone]] — 12 Filme, Ø 6.17
+- [[filme/regisseure/phillip-noyce|Phillip Noyce]] — 11 Filme, Ø 6.55
+- [[filme/regisseure/quentin-tarantino|Quentin Tarantino]] — 12 Filme, Ø 8.08
+- [[filme/regisseure/richard-donner|Richard Donner]] — 12 Filme, Ø 6.50
+- [[filme/regisseure/ridley-scott|Ridley Scott]] — 26 Filme, Ø 6.77
+- [[filme/regisseure/robert-rodriguez|Robert Rodriguez]] — 12 Filme, Ø 6.17
+- [[filme/regisseure/robert-zemeckis|Robert Zemeckis]] — 13 Filme, Ø 7.08
+- [[filme/regisseure/roland-emmerich|Roland Emmerich]] — 17 Filme, Ø 5.94
+- [[filme/regisseure/ron-howard|Ron Howard]] — 20 Filme, Ø 6.80
+- [[filme/regisseure/sidney-lumet|Sidney Lumet]] — 11 Filme, Ø 6.73
+- [[filme/regisseure/spike-lee|Spike Lee]] — 11 Filme, Ø 6.73
+- [[filme/regisseure/steven-soderbergh|Steven Soderbergh]] — 17 Filme, Ø 6.06
+- [[filme/regisseure/steven-spielberg|Steven Spielberg]] — 32 Filme, Ø 7.25
+- [[filme/regisseure/terry-gilliam|Terry Gilliam]] — 13 Filme, Ø 6.46
+- [[filme/regisseure/tim-burton|Tim Burton]] — 15 Filme, Ø 6.80
+- [[filme/regisseure/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
+- [[filme/regisseure/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
+- [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
