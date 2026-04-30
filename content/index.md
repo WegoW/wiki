@@ -75,7 +75,7 @@
 ## Filme & Serien (3.993)
 ### Konzert-Künstler mit Filmbeteiligung
 - [[entities/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
-- [[entities/prince|Prince]] — Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
+- [[entities/prince|Prince]] — Purple Rain ⭐8, Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
 - [[entities/james-brown|James Brown]] — Blues Brothers ⭐9, Get On Up ⭐7
 - [[entities/macy-gray|Macy Gray]] — Training Day ⭐6, Spider-Man ⭐7, Scary Movie 3 ⭐6, In 80 Tagen um die Welt ⭐6, Domino ⭐3, Idlewild ⭐4
 - [[entities/kid-creole-and-the-coconuts|Kid Creole & The Coconuts]] — Against All Odds ⭐2, Be Kind Rewind ⭐8
@@ -145,7 +145,7 @@
 - [[serien/regisseure/david-benioff|David Benioff]] — 2 Serien
 - [[serien/regisseure/db-weiss|D.B. Weiss]] — 2 Serien
 - [[serien/regisseure/gene-roddenberry|Gene Roddenberry]] — 2 Serien
-- [[serien/regisseure/jj-abrams|J.J. Abrams]] — 2 Serien
+- [[serien/regisseure/jj-abrams|J.J. Abrams]] — 3 Serien
 - [[serien/regisseure/jonathan-nolan|Jonathan Nolan]] — 2 Serien
 - [[serien/regisseure/noah-hawley|Noah Hawley]] — 3 Serien
 - [[serien/regisseure/ronald-d-moore|Ronald D. Moore]] — 2 Serien

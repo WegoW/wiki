@@ -1,7 +1,7 @@
 ---
 title: Prince
 created: 2026-04-25
-updated: 2026-04-27
+updated: 2026-04-30
 type: entity
 tags: [person, culture, art]
 sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
@@ -79,55 +79,10 @@ US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
 - [[entities/lois-lane|Lois Lane]] — Support Act 1990 (Mannheim)
 - [[entities/madhouse|Madhouse]] — Support Act 1987 (Stuttgart)
 - [[entities/larry-graham-and-graham-central-station|Larry Graham & Graham Central Station]] — Support Act 1998
-- 🎬 [[entities/purple-rain|Purple Rain (1984)]] — ⭐8 — Prince als Regisseur und Hauptdarsteller
-
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.0) — Film
+- 🎬 [[entities/purple-rain|Purple Rain (1984)]] — ⭐8 — Prince als Hauptdarsteller
 
 ### 🎬 Filmbeteiligung
 
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
-
-### 🎬 Filmbeteiligung
-
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
+- 🎬 *Purple Rain* (1984) — ⭐8 (IMDb 7.3) — Prince als Hauptdarsteller
+- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film (Regie: Prince)
+- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film (Regie: Prince)
