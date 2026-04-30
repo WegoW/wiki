@@ -35,3 +35,4 @@ Finnische Rockband, bekannt für ihre übertriebenen Pompadour-Frisuren, spitze 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- 🎬 *Leningrad Cowboys Go America* (1989) — ⭐4 — Aki Kaurismäki
