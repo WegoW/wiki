@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "de-DE",
-    baseUrl: "WegoW.github.io/Konzerte",
+    baseUrl: "wegow.github.io/wiki",
     ignorePatterns: ["private", "templates", ".obsidian", ".trash", "_archive"],
     defaultDateType: "created",
     theme: {

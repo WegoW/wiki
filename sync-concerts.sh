@@ -125,7 +125,7 @@ set -a
 source /root/.hermes/.env >/dev/null 2>&1
 set +a
 
-git push "https://${HERMES_BACKUP_TOKEN}@github.com/WegoW/Konzerte.git" main
+git push "https://${HERMES_BACKUP_TOKEN}@github.com/WegoW/wiki.git" main
 
 echo "==> Done! GitHub Pages will update in ~2 minutes."
-echo "    URL: https://WegoW.github.io/Konzerte"
+echo "    URL: https://WegoW.github.io/wiki"
