@@ -130,4 +130,3 @@
 - [[filme/regisseure/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
 - [[filme/regisseure/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
 - [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
- 
