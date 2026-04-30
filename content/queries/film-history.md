@@ -95,19 +95,19 @@ Nur drei Serien haben die ⭐10:
 
 | Genre | Titel | Ø ⭐ |
 |-------|-------|------|
-| Drama | 2.320 | 6,55 |
-| Thriller | 1.733 | 6,39 |
-| Komödie | 1.370 | 6,24 |
-| Action | 1.303 | 6,31 |
-| Krimi | 1.193 | 6,45 |
-| Abenteuer | 932 | 6,50 |
-| Science-Fiction | 809 | 6,41 |
-| Mystery | 707 | **6,61** |
-| Liebesfilm | 587 | 6,22 |
-| Fantasy | 491 | 6,37 |
-| Horror | 290 | **6,04** (niedrigstes) |
-| Kriegsfilm | 177 | **6,69** (höchstes) |
-| Western | 92 | 6,62 |
+| [[filme/genres/drama|Drama]] | 2.320 | 6,55 |
+| [[filme/genres/thriller|Thriller]] | 1.733 | 6,39 |
+| [[filme/genres/komoedie|Komödie]] | 1.370 | 6,24 |
+| [[filme/genres/action|Action]] | 1.303 | 6,31 |
+| [[filme/genres/krimi|Krimi]] | 1.193 | 6,45 |
+| [[filme/genres/abenteuer|Abenteuer]] | 932 | 6,50 |
+| [[filme/genres/science-fiction|Science-Fiction]] | 809 | 6,41 |
+| [[filme/genres/mystery|Mystery]] | 707 | **6,61** |
+| [[filme/genres/liebesfilm|Liebesfilm]] | 587 | 6,22 |
+| [[filme/genres/fantasy|Fantasy]] | 491 | 6,37 |
+| [[filme/genres/horror|Horror]] | 290 | **6,04** (niedrigstes) |
+| [[filme/genres/kriegsfilm|Kriegsfilm]] | 177 | **6,69** (höchstes) |
+| [[filme/genres/western|Western]] | 92 | 6,62 |
 
 > **Muster:** Horror bekommt die strengsten Bewertungen — kein einziger Horrorfilm über ⭐9.
 > Kriegsfilme und Mystery performen am besten.
