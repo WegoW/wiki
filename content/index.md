@@ -1,7 +1,6 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.
-| Last updated: 2026-04-30 | Total pages: 130
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 130
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert

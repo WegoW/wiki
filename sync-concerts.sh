@@ -96,12 +96,7 @@ content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({concert_cou
 page_count = len(re.findall(r'^- \[\[', content, re.M))
 content = re.sub(r'Total pages: \d+', f'Total pages: {page_count}', content)
 
-# Replace intro text for GitHub Pages (keep last-updated + total-pages)
-content = re.sub(
-    r'(# Wiki Index\n\n)> Content catalog\. Every wiki page listed under its type with a one-line summary\.\n> Read this first to find relevant pages for any query\.\n',
-    r'\1> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.\n',
-    content
-)
+# Intro text comes directly from source wiki now — no replacement needed
 
 with open(index_path, 'w') as f:
     f.write(content)
