@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.
-| Last updated: 2026-04-30 | Total pages: 116
+| Last updated: 2026-04-30 | Total pages: 130
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -93,6 +93,26 @@
 - [[entities/tower-of-power|Tower Of Power]] — The Limey ⭐6
 - [[entities/leningrad-cowboys|Leningrad Cowboys]] — Leningrad Cowboys Go America ⭐4
 - [[entities/curtis-mayfield|Curtis Mayfield]] — Superfly ⭐6
+
+### Serien-Seiten
+- [[serien/top-10|Top 10 Serien]] — Meine persönliche Bestenliste
+- [[serien/statistiken|Serien-Statistiken]] — Übersicht, Verteilung, Top-Genres
+
+#### Serien-Creator
+- [[serien/regisseure/gene-roddenberry|Gene Roddenberry]] — 2 Serien
+- [[serien/regisseure/jj-abrams|J.J. Abrams]] — 2 Serien
+- [[serien/regisseure/ronald-d-moore|Ronald D. Moore]] — 2 Serien
+- [[serien/regisseure/taylor-sheridan|Taylor Sheridan]] — 2 Serien
+- [[serien/regisseure/vince-gilligan|Vince Gilligan]] — 2 Serien
+
+#### Serien nach Jahrzehnt
+- [[serien/jahrzehnte/1960er|1960er]] — 3 Serien
+- [[serien/jahrzehnte/1970er|1970er]] — 1 Serie
+- [[serien/jahrzehnte/1980er|1980er]] — 9 Serien
+- [[serien/jahrzehnte/1990er|1990er]] — 16 Serien
+- [[serien/jahrzehnte/2000er|2000er]] — 39 Serien
+- [[serien/jahrzehnte/2010er|2010er]] — 97 Serien
+- [[serien/jahrzehnte/2020er|2020er]] — 143 Serien
 
 ### Regisseur-Seiten
 - [[filme/regisseure/antoine-fuqua|Antoine Fuqua]] — 11 Filme, Ø 6.18
