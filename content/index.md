@@ -1,7 +1,7 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner Filme und Serien aus über 30 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.
-| Last updated: 2026-04-30 | Total pages: 95
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 30 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.
+| Last updated: 2026-04-30 | Total pages: 107
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -88,6 +88,20 @@
 - [[entities/blues-brothers|Blues Brothers (1980)]] — ⭐9 — James Brown Cameo als Reverend
 - [[entities/get-on-up|Get On Up (2014)]] — ⭐7 — James Brown Biopic
 - [[entities/superfly|Superfly (1972)]] — ⭐6 — Curtis Mayfield Soundtrack
+
+### 🎬 Cross-Links: Konzert-Künstler mit Filmbeteiligung
+- [[entities/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
+- [[entities/prince|Prince]] — Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
+- [[entities/james-brown|James Brown]] — Blues Brothers ⭐9, Get On Up ⭐7
+- [[entities/macy-gray|Macy Gray]] — Training Day ⭐6, Spider-Man ⭐7, Scary Movie 3 ⭐6, In 80 Tagen um die Welt ⭐6, Domino ⭐3, Idlewild ⭐4
+- [[entities/kid-creole-and-the-coconuts|Kid Creole & The Coconuts]] — Against All Odds ⭐2, Be Kind Rewind ⭐8
+- [[entities/chaka-khan|Chaka Khan]] — Blues Brothers ⭐9
+- [[entities/george-clinton|George Clinton]] — Graffiti Bridge ⭐6
+- [[entities/erykah-badu|Erykah Badu]] — Blues Brothers 2000 ⭐6
+- [[entities/the-b-52s|The B-52's]] — The Flintstones ⭐6
+- [[entities/tower-of-power|Tower Of Power]] — The Limey ⭐6
+- [[entities/leningrad-cowboys|Leningrad Cowboys]] — Leningrad Cowboys Go America ⭐4
+- [[entities/curtis-mayfield|Curtis Mayfield]] — Superfly ⭐6
 
 ### Regisseur-Seiten
 - [[entities/steven-spielberg|Steven Spielberg]] — 31 Filme, Ø 7.29
