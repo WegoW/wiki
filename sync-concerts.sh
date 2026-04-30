@@ -47,8 +47,7 @@ rsync -av --delete \
 
 # 2. Bekannte Nicht-Konzert-Dateien entfernen
 rm -f "$REPO/content/concepts/science-fiction.md"
-rm -f "$REPO/content/queries/audiobook-collection.md"
-rm -f "$REPO/content/raw/personal/audiobook-list-2026.md"
+# Audiobooks are now included on the site
 
 # 3. Nicht-Konzert Entities automatisch erkennen und entfernen
 #    Behält: Konzert-Entities + Film/Regisseur-Entities + Film-Entities
@@ -71,11 +70,8 @@ index_path = "/root/Konzerte/content/index.md"
 with open(index_path, 'r') as f:
     content = f.read()
 
-# Remove audiobook/scifi entries
-content = re.sub(r'^- \[\[.*?(suarez|schaetzing|goldt|rhodan|hamilton|philip-k-dick|stanislaw-lem|pratchett|science-fiction|audiobook-collection).*?\n', '', content, flags=re.I | re.M)
-
-# Remove empty "## Hörbücher" section
-content = re.sub(r'## Hörbücher\n\n(?=## )', '', content)
+# Remove scifi concept entry only (audiobooks now included)
+content = re.sub(r'^- \[\[.*?science-fiction.*?\n', '', content, flags=re.I | re.M)
 
 # Remove empty "## Comparisons" section
 content = re.sub(r'## Comparisons\n\n(?=## )', '', content)
