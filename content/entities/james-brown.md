@@ -40,3 +40,5 @@ US-amerikanischer Musiker, Godfather of Soul. Einer der einflussreichsten Künst
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- 🎬 [[entities/blues-brothers|Blues Brothers (1980)]] — ⭐9 — James Brown als Reverend Cleophus James
+- 🎬 [[entities/get-on-up|Get On Up (2014)]] — ⭐7 — James Brown Biopic

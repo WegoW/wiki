@@ -79,3 +79,11 @@ US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
 - [[entities/lois-lane|Lois Lane]] — Support Act 1990 (Mannheim)
 - [[entities/madhouse|Madhouse]] — Support Act 1987 (Stuttgart)
 - [[entities/larry-graham-and-graham-central-station|Larry Graham & Graham Central Station]] — Support Act 1998
+- 🎬 [[entities/purple-rain|Purple Rain (1984)]] — ⭐8 — Prince als Regisseur und Hauptdarsteller
+
+
+### 🎬 Filmbeteiligung
+
+- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
+- 🎬 *The Old Guard* (2020) — ⭐5 (IMDb 6.7) — Film
+- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.0) — Film

@@ -4,6 +4,7 @@ created: 2026-04-27
 updated: 2026-04-27
 type: entity
 tags: [person, culture, art, music, band]
+confidence: medium
 sources: [raw/personal/concert-list-2026.md]
 ---
 

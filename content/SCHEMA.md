@@ -39,6 +39,7 @@ sha256: <hex digest of the raw content below the frontmatter>
 ```
 
 ## Tag Taxonomy
+- animation
 - art
 - automation
 - band
@@ -48,7 +49,10 @@ sha256: <hex digest of the raw content below the frontmatter>
 - controversy
 - culture
 - deep-dive
+- director
 - diy
+- documentary
+- film
 - framework
 - guide
 - health
@@ -59,6 +63,7 @@ sha256: <hex digest of the raw content below the frontmatter>
 - journal
 - live-music
 - methodology
+- music
 - note
 - person
 - personal
@@ -69,6 +74,7 @@ sha256: <hex digest of the raw content below the frontmatter>
 - protocol
 - science
 - selfhosting
+- series
 - standard
 - summary
 - tech

@@ -1,7 +1,7 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.
-| Last updated: 2026-04-27 | Total pages: 67
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner Filme und Serien aus über 30 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.
+| Last updated: 2026-04-30 | Total pages: 95
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -72,8 +72,42 @@
 
 ## Concepts
 - [[concepts/live-music|Live-Musik]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
+- [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
 
 ## Comparisons
 
 ## Queries
 - [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
+- [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
+
+## Filme & Serien
+
+### Entity-Seiten
+- [[entities/purple-rain|Purple Rain (1984)]] — ⭐8 — Prince als Regisseur und Hauptdarsteller
+- [[entities/labyrinth|Labyrinth / Die Reise ins Labyrinth (1986)]] — ⭐7 — David Bowie als Jareth
+- [[entities/blues-brothers|Blues Brothers (1980)]] — ⭐9 — James Brown Cameo als Reverend
+- [[entities/get-on-up|Get On Up (2014)]] — ⭐7 — James Brown Biopic
+- [[entities/superfly|Superfly (1972)]] — ⭐6 — Curtis Mayfield Soundtrack
+
+### Regisseur-Seiten
+- [[entities/steven-spielberg|Steven Spielberg]] — 31 Filme, Ø 7.29
+- [[entities/ridley-scott|Ridley Scott]] — 26 Filme, Ø 6.77
+- [[entities/clint-eastwood|Clint Eastwood]] — 22 Filme, Ø 6.95
+- [[entities/ron-howard|Ron Howard]] — 20 Filme, Ø 6.80
+- [[entities/martin-scorsese|Martin Scorsese]] — 19 Filme, Ø 7.11
+- [[entities/brian-de-palma|Brian De Palma]] — 19 Filme, Ø 6.79
+- [[entities/woody-allen|Woody Allen]] — 18 Filme, Ø 6.33
+- [[entities/roland-emmerich|Roland Emmerich]] — 17 Filme, Ø 5.94
+- [[entities/steven-soderbergh|Steven Soderbergh]] — 17 Filme, Ø 6.06
+- [[entities/tim-burton|Tim Burton]] — 15 Filme, Ø 6.80
+- [[entities/guy-ritchie|Guy Ritchie]] — 15 Filme, Ø 6.53
+- [[entities/barry-levinson|Barry Levinson]] — 15 Filme, Ø 6.13
+- [[entities/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
+- [[entities/francis-ford-coppola|Francis Ford Coppola]] — 13 Filme, Ø 6.92
+- [[entities/robert-zemeckis|Robert Zemeckis]] — 13 Filme, Ø 7.08
+- [[entities/john-landis|John Landis]] — 13 Filme, Ø 6.92
+- [[entities/christopher-nolan|Christopher Nolan]] — 12 Filme, Ø 7.92
+- [[entities/david-fincher|David Fincher]] — 12 Filme, Ø 7.17
+- [[entities/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
+- [[entities/terry-gilliam|Terry Gilliam]] — 12 Filme, Ø 6.42
+- [[entities/james-mangold|James Mangold]] — 11 Filme, Ø 6.82

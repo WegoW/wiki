@@ -36,3 +36,4 @@ Britischer Musiker, Sänger und Schauspieler. Einer der einflussreichsten Künst
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- 🎬 [[entities/labyrinth|Labyrinth (1986)]] — ⭐7 — Bowie als Jareth, der Goblin-König

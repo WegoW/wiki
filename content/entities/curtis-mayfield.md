@@ -29,3 +29,4 @@ US-amerikanischer Soul-, Funk- und Gospel-Sänger, Songwriter und Produzent. Leg
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
+- 🎬 [[entities/superfly|Superfly (1972)]] — ⭐6 — Mayfields Soundtrack-Meisterwerk

@@ -462,6 +462,60 @@
   - `queries/concert-collection.md` — Gesamtzahl 100→101, Acts 64→65
   - `index.md` — Konzerte 100→101, Seiten 76→77, Daran & Et Les Chaises eingetragen
 
+## [2026-04-30] create | IMDb-Ratings ins Wiki integrieren (Phasen 1-3)
+- Quelle: IMDb CSV-Export (3.993 Titel, 3.589 Filme, 305 Serien)
+- **Schema aktualisiert:**
+  - `SCHEMA.md` — Tags hinzugefügt: animation, director, documentary, film, series
+- **Neue Query-Seite:**
+  - `queries/film-history.md` — 3.993 Titel, Statistiken, Top-Listen, Cross-Links zu Konzert-Entities
+- **Neue Concept-Seite:**
+  - `concepts/film-genres.md` — Genre-Analyse mit Ø-Bewertungen und Mustern
+- **Neue Entity-Seiten (Cross-Links zu Konzert-Künstlern):**
+  - `entities/purple-rain.md` — ⭐8 — Prince (Regie + Hauptrolle), verlinkt auf [[prince]]
+  - `entities/labyrinth.md` — ⭐7 — David Bowie als Jareth, verlinkt auf [[david-bowie]]
+  - `entities/blues-brothers.md` — ⭐9 — James Brown Cameo, verlinkt auf [[james-brown]]
+  - `entities/get-on-up.md` — ⭐7 — James Brown Biopic, verlinkt auf [[james-brown]]
+  - `entities/superfly.md` — ⭐6 — Curtis Mayfield Soundtrack, verlinkt auf [[curtis-mayfield]]
+- **Neue Entity-Seiten (Regisseure):**
+  - `entities/steven-spielberg.md` — 31 Filme, Ø 7.29
+  - `entities/ridley-scott.md` — 26 Filme, Ø 6.77
+  - `entities/clint-eastwood.md` — 22 Filme, Ø 6.95
+  - `entities/ron-howard.md` — 20 Filme, Ø 6.80
+  - `entities/martin-scorsese.md` — 19 Filme, Ø 7.11
+  - `entities/brian-de-palma.md` — 19 Filme, Ø 6.79
+  - `entities/woody-allen.md` — 18 Filme, Ø 6.33
+  - `entities/roland-emmerich.md` — 17 Filme, Ø 5.94
+  - `entities/steven-soderbergh.md` — 17 Filme, Ø 6.06
+  - `entities/tim-burton.md` — 15 Filme, Ø 6.80
+  - `entities/guy-ritchie.md` — 15 Filme, Ø 6.53
+  - `entities/barry-levinson.md` — 15 Filme, Ø 6.13
+  - `entities/tony-scott.md` — 14 Filme, Ø 6.00
+  - `entities/francis-ford-coppola.md` — 13 Filme, Ø 6.92
+  - `entities/robert-zemeckis.md` — 13 Filme, Ø 7.08
+  - `entities/christopher-nolan.md` — 12 Filme, Ø 7.92 (höchster Ø)
+  - `entities/david-fincher.md` — 12 Filme, Ø 7.17
+  - `entities/wes-anderson.md` — 12 Filme, Ø 6.83
+  - `entities/terry-gilliam.md` — 12 Filme, Ø 6.42
+  - `entities/john-landis.md` — 13 Filme, Ø 6.92
+  - `entities/james-mangold.md` — 11 Filme, Ø 6.82
+- **Bestehende Seiten aktualisiert (Cross-Links zurück):**
+  - `entities/prince.md` — 🎬 Purple Rain in Verwandte Einträge
+  - `entities/david-bowie.md` — 🎬 Labyrinth in Verwandte Einträge
+  - `entities/james-brown.md` — 🎬 Blues Brothers + Get On Up in Verwandte Einträge
+  - `entities/curtis-mayfield.md` — 🎬 Superfly in Verwandte Einträge
+- **Index aktualisiert:**
+  - `index.md` — Seite 77→100, neues Kapitel "Filme & Serien" mit Entities + Regisseuren,
+    Concepts um film-genres ergänzt, Queries um film-history ergänzt
+
+## [2026-04-28] lint | 2 Issues gefixt
+- Quelle: Lint-Script (llm-wiki)
+- **Gefixt:**
+  - `SCHEMA.md` — Tag `music` zur Taxonomy hinzugefügt (fehlte bei soulbearound.md)
+  - `entities/soulbearound.md` — `confidence: medium` gesetzt (single source)
+  - `raw/personal/concert-list-2026.md` — SHA256 neu berechnet (Source Drift behoben)
+  - `raw/personal/audiobook-list-2026.md` — SHA256 neu berechnet (Source Drift behoben)
+- Verbleibend: Keine offenen Issues ✅
+
 ## [2026-04-27] update | The S.O.S. Band — Datum präzisiert
 - Quelle: Ticket-Sammlung (Walter Wego)
 - The S.O.S. Band — **11. Dezember 1986**, Stadthalle Sindelfingen (vorher ?/86)

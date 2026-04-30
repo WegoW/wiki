@@ -51,13 +51,16 @@ rm -f "$REPO/content/queries/audiobook-collection.md"
 rm -f "$REPO/content/raw/personal/audiobook-list-2026.md"
 
 # 3. Nicht-Konzert Entities automatisch erkennen und entfernen
-# (Dateien ohne Konzert-Keywords wie "Gesehenes Konzert", "Ticket", "Tour", "Live")
+#    Behält: Konzert-Entities + Film/Regisseur-Entities + Film-Entities
 for file in "$REPO/content/entities"/*.md; do
   [ -f "$file" ] || continue
-  if ! grep -qiE '(gesehenes konzert|ticket|tour|live|konzert|auftritt|venue|bühne)' "$file"; then
-    echo "  Removing non-concert entity: $(basename "$file")"
-    rm -f "$file"
+  # Prüfe nur das Frontmatter (erste 20 Zeilen, zwischen --- und ---)
+  frontmatter=$(head -20 "$file" | sed -n '/^---$/,/^---$/p' 2>/dev/null)
+  if echo "$frontmatter" | grep -qiE '(culture|art|director|film|imdb)'; then
+    continue  # Hat relevantes Tag — behalten
   fi
+  echo "  Removing non-concert entity: $(basename "$file")"
+  rm -f "$file"
 done
 
 # 4. index.md bereinigen – Hörbuch/SciFi-Einträge und leere Sektionen entfernen
@@ -93,7 +96,7 @@ content = re.sub(r'Total pages: \d+', f'Total pages: {page_count}', content)
 # Replace intro text for GitHub Pages (keep last-updated + total-pages)
 content = re.sub(
     r'(# Wiki Index\n\n)> Content catalog\. Every wiki page listed under its type with a one-line summary\.\n> Read this first to find relevant pages for any query\.\n',
-    r'\1> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe. Jeder Eintrag umfasst Infos zum Künstler, zur Veranstaltung und – wo vorhanden – einen Scan des originalen Tickets als Erinnerungsstück.\n',
+    r'\1> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner Filme und Serien aus über 30 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.\n',
     content
 )
 
