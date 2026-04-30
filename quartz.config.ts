@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Konzertliste",
+    pageTitle: "Konzerte & Filme/Serien",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
