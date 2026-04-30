@@ -9,11 +9,13 @@ REPO="/root/Konzerte"
 
 echo "==> Syncing concert-only content to GitHub Pages repo..."
 
-# 0. Auto-update concert count in Wiki index.md BEFORE sync
+# 0. Auto-update counts in Wiki index.md BEFORE sync
 python3 << 'PYEOF'
 import re
 
-# Read the maintained concert count from queries/concert-collection.md
+wiki_index = "/root/obsidian/wiki/index.md"
+
+# --- Concert count from queries/concert-collection.md ---
 with open("/root/obsidian/wiki/queries/concert-collection.md", 'r') as f:
     query_content = f.read()
 
@@ -21,7 +23,6 @@ match = re.search(r'\*\*Gesamtzahl:\*\*\s*(\d+)\s*Konzerte', query_content)
 if match:
     concert_count = int(match.group(1))
 else:
-    # Fallback: count concert rows in all entity files
     import glob
     concert_count = 0
     for path in glob.glob("/root/obsidian/wiki/entities/*.md"):
@@ -29,14 +30,37 @@ else:
             text = f.read()
         concert_count += len(re.findall(r'\|\s*\d+\s*\|\s*\*\*\d', text))
 
-wiki_index = "/root/obsidian/wiki/index.md"
+# --- Film & Series count from queries/film-history.md ---
+with open("/root/obsidian/wiki/queries/film-history.md", 'r') as f:
+    film_content = f.read()
+
+film_match = re.search(r'\*\*Titel gesamt\*\*\s*\|\s*([\d.]+)', film_content)
+if film_match:
+    film_count = film_match.group(1)
+else:
+    # Fallback: "3.993 bewertete Titel" from the first paragraph
+    film_match2 = re.search(r'([\d.]+)\s*bewertete Titel', film_content)
+    film_count = film_match2.group(1) if film_match2 else "3.993"
+
+# --- Audiobook count from queries/audiobook-collection.md ---
+with open("/root/obsidian/wiki/queries/audiobook-collection.md", 'r') as f:
+    audio_content = f.read()
+
+audio_match = re.search(r'(\d+)\s*Titel', audio_content)
+audio_count = int(audio_match.group(1)) if audio_match else 119
+
+# --- Update all counts in index.md ---
 with open(wiki_index, 'r') as f:
     content = f.read()
 
 content = re.sub(r'^## Konzerte(?:\s*\(\d+\))?\s*$', f'## Konzerte ({concert_count})', content, flags=re.M)
+content = re.sub(r'^## Filme & Serien(?:\s*\([\d.]+\))?\s*$', f'## Filme & Serien ({film_count})', content, flags=re.M)
+content = re.sub(r'^## Hörbücher(?:\s*\(\d+\))?\s*$', f'## Hörbücher ({audio_count})', content, flags=re.M)
+
 with open(wiki_index, 'w') as f:
     f.write(content)
-print(f"  Wiki index.md: Updated concert count to ({concert_count})")
+
+print(f"  Wiki index.md: Updated counts → Konzerte ({concert_count}), Filme & Serien ({film_count}), Hörbücher ({audio_count})")
 PYEOF
 
 # 1. Alles aus dem Wiki syncen (außer .obsidian, .trash)

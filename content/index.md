@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 139
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 143
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -69,8 +69,7 @@
 - [[entities/wolf-maahn|Wolf Maahn]] — 1 Konzert
 - [[entities/ziggy-marley|Ziggy Marley]] — 1 Konzert
 
-## Filme & Serien
-
+## Filme & Serien (3.993)
 ### Konzert-Künstler mit Filmbeteiligung
 - [[entities/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
 - [[entities/prince|Prince]] — Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
@@ -86,6 +85,7 @@
 - [[entities/curtis-mayfield|Curtis Mayfield]] — Superfly ⭐6
 
 ### Regisseur-Seiten
+> Nur Regisseure mit mindestens 10 bewerteten Filmen.
 - [[filme/regisseure/antoine-fuqua|Antoine Fuqua]] — 11 Filme, Ø 6.18
 - [[filme/regisseure/barry-levinson|Barry Levinson]] — 15 Filme, Ø 6.13
 - [[filme/regisseure/brian-de-palma|Brian De Palma]] — 19 Filme, Ø 6.79
@@ -142,13 +142,18 @@
 - [[serien/jahrzehnte/2010er|2010er]] — 97 Serien
 - [[serien/jahrzehnte/2020er|2020er]] — 143 Serien
 
-## Hörbücher
+## Hörbücher (119)
+> Nur Autoren mit mindestens 3 Hörbüchern in der Sammlung.
+- [[entities/dan-brown|Dan Brown]] — 3 Hörbücher
 - [[entities/daniel-suarez|Daniel Suarez]] — 6 Hörbücher
 - [[entities/frank-schaetzing|Frank Schätzing]] — 4 Hörbücher
+- [[entities/herbert-w-franke|Herbert W. Franke]] — 3 Hörbücher
+- [[entities/isaac-asimov|Isaac Asimov]] — 3 Hörbücher
 - [[entities/max-goldt|Max Goldt]] — 11 Hörbücher
 - [[entities/perry-rhodan|Perry Rhodan]] — 11 Hörbücher
 - [[entities/peter-f-hamilton|Peter F. Hamilton]] — 6 Hörbücher
 - [[entities/philip-k-dick|Philip K. Dick]] — 7 Hörbücher
+- [[entities/ren-dhark|Ren Dhark]] — 3 Hörbücher
 - [[entities/stanislaw-lem|Stanislaw Lem]] — 6 Hörbücher
 - [[entities/terry-pratchett|Terry Pratchett]] — 8 Hörbücher
 
