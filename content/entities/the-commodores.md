@@ -34,5 +34,4 @@ US-amerikanische Funk- und Soul-Band aus Tuskegee, Alabama. Weltbekannt durch Hi
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/earth-wind-and-fire|Earth, Wind & Fire]] — gemeinsames Konzert (Headliner)

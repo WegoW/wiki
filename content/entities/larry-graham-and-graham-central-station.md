@@ -31,6 +31,5 @@ US-amerikanischer Bassist und Sänger. Als Mitglied von **Sly & The Family Stone
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/prince|Prince]] — Support Act
 - [[entities/chaka-khan|Chaka Khan]] — gemeinsamer Support Act

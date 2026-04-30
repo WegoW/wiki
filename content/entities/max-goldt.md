@@ -35,4 +35,3 @@ Max Goldt ist ein deutscher Schriftsteller, Kolumnist, Musiker, Comic-Szenarist 
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

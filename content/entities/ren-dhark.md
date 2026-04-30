@@ -21,4 +21,3 @@ Ren Dhark ist eine Science-Fiction-Serie, deren erstes Heft am 1. August 1966 er
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

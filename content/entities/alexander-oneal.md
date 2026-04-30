@@ -35,4 +35,3 @@ US-amerikanischer R&B- und Soul-Sänger. Bekannt für Hits wie *Criticize*, *Fak
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

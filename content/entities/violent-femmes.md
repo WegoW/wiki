@@ -27,4 +27,3 @@ US-amerikanische Alternative-Rock-Band aus Milwaukee. Bekannt für ihren akustis
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

@@ -34,4 +34,3 @@ US-amerikanische Cowpunk-/Alternative-Country-Band. Bekannt für ihre energiegel
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

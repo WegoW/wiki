@@ -35,6 +35,5 @@ Britische Acid-Jazz-Band um Jean-Paul "Bluey" Maunick. Seit 1979 aktiv, bekannt 
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/candy-dulfer|Candy Dulfer]] — gemeinsames Konzert
 - [[entities/malia|Malia]] — gemeinsames Konzert

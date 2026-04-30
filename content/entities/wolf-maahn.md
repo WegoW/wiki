@@ -34,4 +34,3 @@ Deutscher Rockmusiker, Sänger und Songwriter. Bekannt für Hits wie *Ich bin ei
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

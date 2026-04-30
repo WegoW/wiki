@@ -35,4 +35,3 @@ Perry Rhodan ist der Titelheld der gleichnamigen deutschen Science-Fiction-Serie
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

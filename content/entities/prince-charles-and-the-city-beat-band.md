@@ -34,4 +34,3 @@ US-amerikanische Funk-Band aus New York um Prince Charles (bürgerl. Charles Ale
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

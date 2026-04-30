@@ -27,5 +27,4 @@ Deutsches Jazz-Pop-Duo bestehend aus Janne Schra (Gesang) und Niels Klein (Saxop
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/bootsy-collins|Bootsy Collins]]

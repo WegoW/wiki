@@ -34,6 +34,5 @@ US-amerikanischer DJ und Musikproduzent, einer der Pioniere des Hip-Hop. Begrün
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/george-clinton|George Clinton]] — gemeinsames Konzert
 - [[entities/amp-fiddler|Amp Fiddler]] — gemeinsames Konzert

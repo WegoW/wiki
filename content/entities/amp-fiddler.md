@@ -34,6 +34,5 @@ US-amerikanischer Funk- und Soul-Musiker, Sänger und Produzent. Mitglied bei Pa
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/george-clinton|George Clinton]] — gemeinsames Konzert
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — gemeinsames Konzert

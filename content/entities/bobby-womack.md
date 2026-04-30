@@ -27,4 +27,3 @@ US-amerikanischer Soul-Sänger, Songwriter und Gitarrist. Aufgenommen in die Roc
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

@@ -35,4 +35,3 @@ US-amerikanische Sängerin, Tänzerin und Schauspielerin. Eine der erfolgreichst
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

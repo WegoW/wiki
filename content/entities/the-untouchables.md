@@ -35,4 +35,3 @@ US-amerikanische Ska- und Soulband aus Los Angeles. Bekannt für ihren Hit *Free
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

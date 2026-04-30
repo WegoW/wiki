@@ -34,4 +34,3 @@ Britische Soul- und R&B-Sängerin. Mit gerade mal 16 Jahren wurde sie 2003 mit i
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

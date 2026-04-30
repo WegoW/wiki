@@ -27,4 +27,3 @@ Soul/Funk-Band aus Stuttgart mit drei Leadvocals (zwei Sängerinnen und ein Sän
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

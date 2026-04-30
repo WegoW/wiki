@@ -42,7 +42,6 @@ US-amerikanischer Musiker und Produzent, Godfather of P-Funk. Mastermind von Par
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/amp-fiddler|Amp Fiddler]] — gemeinsames Konzert 2004
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — gemeinsames Konzert 2004
 - [[entities/prince|Prince]] — Gastauftritt in Graffiti Bridge (1990)

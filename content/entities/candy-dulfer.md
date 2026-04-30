@@ -47,7 +47,6 @@ Niederländische Saxophonistin und Sängerin. Bekannt durch Hits wie *Lily Was H
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/maceo-parker|Maceo Parker]] — gemeinsames Konzert 2007
 - [[entities/incognito|Incognito]] — gemeinsames Konzert 2003
 - [[entities/malia|Malia]] — gemeinsames Konzert 2003

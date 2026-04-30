@@ -35,7 +35,6 @@ US-amerikanische R&B-/Soul-Sängerin und Songwriterin. Bekannt durch ihren Hit *
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - 🎬 *Training Day* (2001) — ⭐6 — Rolle als Sandman's Wife
 - 🎬 *Spider-Man* (2002) — ⭐7 — Cameo als sie selbst
 - 🎬 *Scary Movie 3* (2003) — ⭐6 — Cameo als sie selbst

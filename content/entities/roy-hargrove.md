@@ -28,5 +28,4 @@ US-amerikanischer Jazz-Trompeter und Flügelhornist. Einer der herausragendsten 
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/erykah-badu|Erykah Badu]] — Opening Act 2008

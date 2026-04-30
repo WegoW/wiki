@@ -36,5 +36,4 @@ US-amerikanischer Sänger und Songwriter, bekannt als *The King Of New Orleans*.
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/daran-et-les-chaises|Daran & Et Les Chaises]] — Support 1996

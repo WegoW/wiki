@@ -56,6 +56,5 @@ US-amerikanische Multikulti-Band um August Darnell. Ihr Sound vereint Salsa, Cal
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - 🎬 *Against All Odds* (1984) — ⭐2 (IMDb 5.9) — „My Male Curiosity" im Film
 - 🎬 *Be Kind Rewind* (2008) — ⭐8 (IMDb 6.4) — Cameo als „West Coast Video Employee"

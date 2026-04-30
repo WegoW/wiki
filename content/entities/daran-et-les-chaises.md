@@ -36,4 +36,3 @@ Band/Act, die/der als Support für Willy DeVille aufgetreten ist.
 ## Verwandte Einträge
 - [[entities/willy-deville|Willy DeVille]] — Headliner 4. März 1996
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

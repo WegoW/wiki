@@ -32,4 +32,3 @@ Sir Terence David John Pratchett, OBE war ein britischer Fantasy-Schriftsteller.
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

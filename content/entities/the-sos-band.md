@@ -27,4 +27,3 @@ US-amerikanische Funk- und Soul-Band aus Atlanta. Bekannt für Hits wie *Just Be
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

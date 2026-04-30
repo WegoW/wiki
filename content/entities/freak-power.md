@@ -42,4 +42,3 @@ Britische Funk-/Acid-Jazz-Band um Norman Cook (später Fatboy Slim). Veröffentl
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

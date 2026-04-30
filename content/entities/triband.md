@@ -30,5 +30,4 @@ Band, die als Vorgruppe bei Joss Stone im Rahmen der Jazz Open Stuttgart auftrat
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/joss-stone|Joss Stone]] — Vorgruppe

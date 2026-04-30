@@ -35,4 +35,3 @@ US-amerikanische Soul- und Jazz-Sängerin und Pianistin. Bekannt durch ihren Hit
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

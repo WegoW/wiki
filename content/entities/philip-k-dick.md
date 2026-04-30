@@ -31,4 +31,3 @@ Philip Kindred Dick, Pseudonyme Jack Dowland und Richard Phillips, war ein US-am
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

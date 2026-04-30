@@ -44,4 +44,3 @@ Britischer Musiker und Singer-Songwriter. Bekannt für Hits wie *Is She Really G
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

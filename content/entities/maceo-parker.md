@@ -48,5 +48,4 @@ US-amerikanischer Saxophonist, Funk-Legende. Mitglied bei James Browns Band, Par
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/candy-dulfer|candy-dulfer]] — gemeinsames Konzert 2007

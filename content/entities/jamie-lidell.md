@@ -30,5 +30,4 @@ Britischer Electro-Soul-Musiker, Sänger und Produzent. Bekannt für seinen inno
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/james-brown|James Brown]] — Support Act

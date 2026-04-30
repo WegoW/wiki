@@ -34,4 +34,3 @@ Die Shows waren bekannt für ihre mitreißende Mischung aus **Soul, Funk, R'n'B 
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

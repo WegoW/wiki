@@ -34,6 +34,5 @@ US-amerikanische Funk-Rock-Band aus Atlanta. Bekannt für ihre energiegeladenen 
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/chaka-khan|Chaka Khan]] — gemeinsames Konzert (Black Beat Night 1989)
 - [[entities/maze-feat-frankie-beverly|Maze feat. Frankie Beverly]] — gemeinsames Konzert (Black Beat Night 1989)

@@ -35,4 +35,3 @@ US-amerikanischer R&B-Sänger und Songwriter. Pionier des New Jack Swing, bekann
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

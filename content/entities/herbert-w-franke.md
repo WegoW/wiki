@@ -21,4 +21,3 @@ Herbert Werner Franke war ein österreichischer Science-Fiction-Schriftsteller u
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

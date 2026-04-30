@@ -29,5 +29,4 @@ Prince' instrumentales Jazz-/Funk-Side-Project. Madhouse veröffentlichte zwisch
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/prince|Prince]] — Side-Project / Support Act

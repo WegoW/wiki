@@ -38,7 +38,6 @@ sources:
 - [[raw/personal/concert-list-2026|Konzertliste (Rohdaten)]]
 
 ## Verwandte Einträge
-- [[concepts/live-music|Live-Musik]]
 - [[queries/concert-collection|Konzertsammlung]]
 - [[entities/prince|Prince]] — ebenfalls mehrfach live gesehen
 - [[entities/maceo-parker|Maceo Parker]] — ebenfalls auf der Konzertliste

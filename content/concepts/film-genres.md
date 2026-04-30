@@ -50,7 +50,6 @@ Basierend auf 3.993 bewerteten Titeln. Ein Film kann mehrere Genres haben.
 
 ### 📈 Lieblings-Genre
 **Drama** dominiert mit 58 % aller Titel — keine Überraschung, das ist das Universal-Genre.
-**Science-Fiction** liegt bei 20 % — das passt zum bestehenden [[concepts/science-fiction|Science-Fiction]]-Konzept im Wiki.
 
 ### 📉 Strengstes Genre
 **Horror** bekommt die härtesten Bewertungen (Ø 6,04) bei nur 7 % Anteil. Kein Horrorfilm hat ⭐9 oder ⭐10 erreicht.

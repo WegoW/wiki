@@ -35,4 +35,3 @@ US-amerikanischer Posaunist, Trompeter und Bandleader aus New Orleans. Bekannt f
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

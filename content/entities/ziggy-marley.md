@@ -34,5 +34,4 @@ Jamaikanischer Reggae-Musiker und Sänger. Ältester Sohn von Bob Marley. Mehrfa
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/kid-creole-and-the-coconuts|Kid Creole & The Coconuts]] — Stuttgart Summer Jam 1991

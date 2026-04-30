@@ -74,12 +74,10 @@ US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/chaka-khan|Chaka Khan]] — Support Act 1998 (Zürich)
 - [[entities/lois-lane|Lois Lane]] — Support Act 1990 (Mannheim)
 - [[entities/madhouse|Madhouse]] — Support Act 1987 (Stuttgart)
 - [[entities/larry-graham-and-graham-central-station|Larry Graham & Graham Central Station]] — Support Act 1998
-- 🎬 [[entities/purple-rain|Purple Rain (1984)]] — ⭐8 — Prince als Hauptdarsteller
 
 ### 🎬 Filmbeteiligung
 

@@ -34,4 +34,3 @@ Deutsche Band, die als Special Guest/Vorband bei Jazzkantine aufgetreten ist.
 ## Verwandte Einträge
 - [[entities/jazzkantine|Jazzkantine]] — Headliner 5. März 1996
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

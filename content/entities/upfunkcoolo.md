@@ -34,4 +34,3 @@ Deutsche Funkband. Steht für funkigen Groove mit einer Prise Humor — der Band
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

@@ -29,4 +29,3 @@ Band, aufgetreten im ZAP in Stuttgart. Nähere Informationen zur Band nicht beka
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

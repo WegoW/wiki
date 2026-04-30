@@ -34,6 +34,5 @@ US-amerikanische Soul-/Funk-Band aus San Francisco, angeführt von Frankie Bever
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/mothers-finest|Mother's Finest]] — gemeinsames Konzert (Black Beat Night 1989)
 - [[entities/chaka-khan|Chaka Khan]] — gemeinsames Konzert (Black Beat Night 1989)

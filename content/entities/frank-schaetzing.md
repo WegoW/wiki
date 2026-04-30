@@ -30,4 +30,3 @@ Siehe [[raw/personal/audiobook-list-2026.md]] (Quelle)
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

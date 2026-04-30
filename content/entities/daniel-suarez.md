@@ -30,4 +30,3 @@ Daniel Suarez oder Daniel Suárez ist der Name folgender Personen:Daniel Suarez 
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

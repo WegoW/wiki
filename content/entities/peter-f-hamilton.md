@@ -30,4 +30,3 @@ Peter F. Hamilton ist ein britischer Science-Fiction-Autor, der Ende der 1990er 
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

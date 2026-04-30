@@ -36,5 +36,4 @@ US-amerikanische Rock-/New-Wave-Band aus Athens, Georgia. Berühmt für ihren ei
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - 🎬 *The Flintstones* / *Familie Feuerstein* (1994) — ⭐6 (IMDb 5.1) — als The BC-52's 🦴

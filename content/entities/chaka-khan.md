@@ -47,7 +47,6 @@ US-amerikanische Sängerin, zehnfache Grammy-Gewinnerin. Frontfrau von Rufus, be
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/prince|Prince]] — Support Act 1998
 - [[entities/mothers-finest|Mother's Finest]] — gemeinsames Konzert (Black Beat Night 1989)
 - [[entities/maze-feat-frankie-beverly|Maze feat. Frankie Beverly]] — gemeinsames Konzert (Black Beat Night 1989)

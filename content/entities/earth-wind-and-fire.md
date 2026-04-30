@@ -37,5 +37,4 @@ US-amerikanische Funk- und Soul-Band, eine der erfolgreichsten und einflussreich
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/the-commodores|The Commodores]] — gemeinsames Konzert (Support)

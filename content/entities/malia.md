@@ -34,6 +34,5 @@ Britische Sängerin malawischer Abstammung. Ihr Stil verbindet Soul, Jazz und el
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/candy-dulfer|Candy Dulfer]] — gemeinsames Konzert
 - [[entities/incognito|Incognito]] — gemeinsames Konzert

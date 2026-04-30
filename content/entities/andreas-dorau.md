@@ -27,4 +27,3 @@ Deutscher Musiker, Sänger und Produzent. Bekannt für den NDW-Hit *Fred vom Jup
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

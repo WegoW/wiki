@@ -35,4 +35,3 @@ Band/Act, die/der als Support für Sheryl Crow aufgetreten ist.
 ## Verwandte Einträge
 - [[entities/sheryl-crow|Sheryl Crow]] — Headliner 13. November 1996
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

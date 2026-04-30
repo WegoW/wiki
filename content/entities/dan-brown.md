@@ -21,4 +21,3 @@ Daniel „Dan“ Brown ist ein US-amerikanischer Thriller-Autor.
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

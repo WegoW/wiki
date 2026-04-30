@@ -35,4 +35,3 @@ US-amerikanisches Hip-Hop-Duo aus New Jersey. Brüder Attrell Cordes (Prince Be)
 ## Verwandte Einträge
 - [[entities/de-la-soul|De La Soul]] — Headliner 15. September 1991
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

@@ -167,6 +167,5 @@ Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 119 Titel von
 
 ## Siehe auch
 
-- [[concepts/science-fiction|Science-Fiction]] — dominierendes Genre
 - [[entities/max-goldt|Max Goldt]] — meistgehörter Autor
 - [[entities/perry-rhodan|Perry Rhodan]] — meistgehörte Serie

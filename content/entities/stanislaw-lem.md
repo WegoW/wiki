@@ -30,4 +30,3 @@ Stanisław Herman Lem war ein polnischer Schriftsteller, bekannt vor allem als S
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

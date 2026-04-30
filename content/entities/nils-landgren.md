@@ -29,5 +29,4 @@ Schwedischer Jazz-Posaunist und Sänger. Einer der erfolgreichsten europäischen
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/bootsy-collins|Bootsy Collins]] — Support Act

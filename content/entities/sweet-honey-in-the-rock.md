@@ -27,4 +27,3 @@ US-amerikanische A-cappella-Gruppe aus Washington, D.C. Seit 1973 aktiv, bekannt
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

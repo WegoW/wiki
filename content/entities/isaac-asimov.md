@@ -21,4 +21,3 @@ Isaac Asimov war ein russisch-amerikanischer Biochemiker, Autor von Sachbüchern
 ## Siehe auch
 
 - [[queries/audiobook-collection|Hörbuchsammlung]]
-- [[concepts/science-fiction|Science-Fiction]]

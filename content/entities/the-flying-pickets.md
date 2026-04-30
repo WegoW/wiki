@@ -41,4 +41,3 @@ Britische A-cappella-Gruppe. Bekannt für ihren Weihnachtshit *Only You* und ihr
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

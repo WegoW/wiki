@@ -34,4 +34,3 @@ Britische Pop-/Soulband um Dr. Robert (bürgerl. Bruce Woolley). Bekannt für de
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]

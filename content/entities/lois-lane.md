@@ -28,5 +28,4 @@ Loïs Lane ist eine niederländische Band der Schwestern Suzanne (* 25. Januar 1
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
 - [[entities/prince|Prince]] — Support Act

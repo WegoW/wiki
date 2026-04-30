@@ -35,4 +35,3 @@ Schweizer Musiker und Sänger. International bekannt durch Hits wie *Hemmige* un
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- [[concepts/live-music|Live-Musik]]
