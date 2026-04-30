@@ -7,6 +7,8 @@ average_rating: 6.06
 ---
 # Steven Soderbergh
 
+Steven Andrew Soderbergh ist ein US-amerikanischer Filmregisseur, Filmproduzent, Drehbuchautor, Kameramann und Filmeditor.
+
 ## Gesehene Filme (17)
 
 **⌀-Bewertung:** 6.06 ★

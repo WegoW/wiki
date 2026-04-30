@@ -7,6 +7,8 @@ average_rating: 6.96
 ---
 # Clint Eastwood
 
+Clinton „Clint“ Eastwood Jr. ist ein US-amerikanischer Schauspieler, Regisseur, Produzent, Filmkomponist und ehemaliger Politiker der Republikanischen Partei. Als wortkarger Western- und Actionheld avancierte er ab den 1960er-Jahren zu einem weltweit erfolgreichen Star; der fünffache Oscarpreisträger wurde darüber hinaus zu einem renommierten Filmregisseur und -produzenten und war auch gelegentlich als Sänger tätig..
+
 ## Gesehene Filme (23)
 
 **⌀-Bewertung:** 6.96 ★

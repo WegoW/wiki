@@ -7,6 +7,8 @@ average_rating: 7.17
 ---
 # David Fincher
 
+David Andrew Leo Fincher ist ein US-amerikanischer Filmregisseur. Zu seinen bekanntesten Filmen zählen Alien 3 (1992), Sieben (1995), Fight Club (1999), The Social Network (2010) und Gone Girl (2014)..
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 7.17 ★

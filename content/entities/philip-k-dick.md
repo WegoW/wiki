@@ -10,6 +10,8 @@ confidence: medium
 
 # Philip K. Dick
 
+Philip Kindred Dick, Pseudonyme Jack Dowland und Richard Phillips, war ein US-amerikanischer Science-Fiction-Autor. Bekannt ist er unter anderem für seine dystopischen Romane wie Träumen Androiden von elektrischen Schafen?. oder Das Orakel vom Berge, die vielfach adaptiert wurden. Mit dem Filmklassiker Blade Runner, der wenige Monate nach Dicks Tod uraufgeführt wurde, avancierte der Autor zu einem wichtigen Ideengeber für Film- und Fernsehproduktionen.
+
 ## Hörspiele/Hörbücher in der Sammlung
 
 - Kurzgeschichten

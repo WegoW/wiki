@@ -10,6 +10,8 @@ confidence: medium
 
 # Peter F. Hamilton
 
+Peter F. Hamilton ist ein britischer Science-Fiction-Autor, der Ende der 1990er Jahre mit seinem Armageddon-Zyklus das Genre der sogenannten Space Opera wiederbelebte.
+
 ## Hörspiele/Hörbücher in der Sammlung
 
 - Commonwealth Saga - Der Stern der Pandora

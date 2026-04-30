@@ -7,6 +7,8 @@ average_rating: 6.53
 ---
 # Guy Ritchie
 
+Guy Stuart Ritchie ist ein britischer Filmregisseur, Drehbuchautor und Filmproduzent..
+
 ## Gesehene Filme (15)
 
 **⌀-Bewertung:** 6.53 ★

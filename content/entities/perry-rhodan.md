@@ -10,6 +10,8 @@ confidence: medium
 
 # Perry Rhodan
 
+Perry Rhodan ist der Titelheld der gleichnamigen deutschen Science-Fiction-Serie, die seit dem 8. September 1961 wöchentlich in Form von Heftromanen mit einer Druckauflage von etwa 64.000 Heften bei der Verlagsunion Pabel-Moewig, einer Tochter der Bauer Media Group, erscheint. Bisher sind mehr als 3300 Hefte mit rund 190.000 Seiten erschienen.
+
 ## Hörspiele/Hörbücher in der Sammlung
 
 - 05 Vorsto'df nach Arkon

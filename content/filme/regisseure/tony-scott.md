@@ -7,6 +7,8 @@ average_rating: 6.0
 ---
 # Tony Scott
 
+Tony Scott war ein britischer Filmregisseur und -produzent, der als Spezialist für Actionfilme galt.. Zu seinen bekanntesten Kinofilmen zählen Top Gun, True Romance, Crimson Tide, Spy Game und Der Staatsfeind Nr.. 1.
+
 ## Gesehene Filme (14)
 
 **⌀-Bewertung:** 6.00 ★

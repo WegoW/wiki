@@ -7,6 +7,8 @@ average_rating: 6.46
 ---
 # Terry Gilliam
 
+Terrence „Terry“ Vance Gilliam [ˈɡɪliəm] ist ein amerikanisch-britischer Filmregisseur, Drehbuchautor, Komiker und Schauspieler.. Bekannt wurde er als Mitbegründer der Gruppe Monty Python.
+
 ## Gesehene Filme (13)
 
 **⌀-Bewertung:** 6.46 ★

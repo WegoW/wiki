@@ -7,6 +7,8 @@ average_rating: 6.27
 ---
 # John Badham
 
+John Badham ist ein britischer Filmregisseur sowie Produzent..
+
 ## Gesehene Filme (11)
 
 **⌀-Bewertung:** 6.27 ★

@@ -7,6 +7,8 @@ average_rating: 7.25
 ---
 # Steven Spielberg
 
+Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent und Drehbuchautor..
+
 ## Gesehene Filme (32)
 
 **⌀-Bewertung:** 7.25 ★

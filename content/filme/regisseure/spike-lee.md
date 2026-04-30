@@ -7,6 +7,8 @@ average_rating: 6.73
 ---
 # Spike Lee
 
+Shelton Jackson „Spike“ Lee ist ein US-amerikanischer Filmregisseur, Drehbuchautor, Produzent und Schauspieler.. In seinen Filmen behandelt er gesellschaftspolitische und soziale Themen, insbesondere den Rassismus in den Vereinigten Staaten gegenüber der afroamerikanischen Bevölkerung.
+
 ## Gesehene Filme (11)
 
 **⌀-Bewertung:** 6.73 ★

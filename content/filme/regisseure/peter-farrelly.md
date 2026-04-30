@@ -7,6 +7,8 @@ average_rating: 5.9
 ---
 # Peter Farrelly
 
+Die Brüder Peter John Farrelly und Robert Leo „Bobby“ Farrelly Jr. sind US-amerikanische Drehbuchautoren, Filmproduzenten und Filmregisseure, Peter ist darüber hinaus Romanautor..
+
 ## Gesehene Filme (10)
 
 **⌀-Bewertung:** 5.90 ★

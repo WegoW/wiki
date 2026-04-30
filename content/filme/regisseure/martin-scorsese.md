@@ -7,6 +7,8 @@ average_rating: 7.11
 ---
 # Martin Scorsese
 
+Martin Charles Scorsese [skɔɹˈsɛsi] ist ein US-amerikanischer Regisseur, Drehbuchautor, Filmproduzent und Schauspieler. Er gehört zu den einflussreichsten Regisseuren des zeitgenössischen US-amerikanischen Kinos. Zu seinen bekanntesten Filmen zählen Taxi Driver (1976), Wie ein wilder Stier (1980), GoodFellas – Drei Jahrzehnte in der Mafia (1990), Casino (1995), Gangs of New York (2002), Departed – Unter Feinden (2006), The Wolf of Wall Street (2013) sowie The Irishman (2019)..
+
 ## Gesehene Filme (19)
 
 **⌀-Bewertung:** 7.11 ★

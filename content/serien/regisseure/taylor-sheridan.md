@@ -7,6 +7,8 @@ average_rating: 8.5
 ---
 # Taylor Sheridan
 
+Taylor Sheridan ist ein US-amerikanischer Drehbuchautor, Regisseur und Schauspieler, der im Rahmen der Oscarverleihung 2017 für seine Arbeit für den Film Hell or High Water für einen Oscar nominiert wurde..
+
 ## Serien-Credits (2)
 
 **⌀-Bewertung:** 8.50 ★

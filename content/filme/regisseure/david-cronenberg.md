@@ -7,6 +7,8 @@ average_rating: 5.9
 ---
 # David Cronenberg
 
+David Paul Cronenberg ist ein kanadischer Filmregisseur, Drehbuchautor, Filmproduzent, Filmeditor und Schauspieler..
+
 ## Gesehene Filme (10)
 
 **⌀-Bewertung:** 5.90 ★

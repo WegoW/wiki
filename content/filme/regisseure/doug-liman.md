@@ -7,6 +7,8 @@ average_rating: 6.7
 ---
 # Doug Liman
 
+Douglas Eric Liman ist ein US-amerikanischer Filmregisseur, Film- und Fernsehproduzent und Kameramann..
+
 ## Gesehene Filme (10)
 
 **⌀-Bewertung:** 6.70 ★

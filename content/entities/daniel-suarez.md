@@ -10,6 +10,8 @@ confidence: medium
 
 # Daniel Suarez
 
+Daniel Suarez oder Daniel Suárez ist der Name folgender Personen:Daniel Suarez (Schriftsteller), US-amerikanischer Softwareentwickler und Schriftsteller Daniel Suárez (Fußballspieler), uruguayischer Fußballspieler Daniel Suárez (Rennfahrer), mexikanischer Automobilrennfahrer.
+
 ## Hörspiele/Hörbücher in der Sammlung
 
 - BIOS

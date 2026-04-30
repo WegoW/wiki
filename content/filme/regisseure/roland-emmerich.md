@@ -7,6 +7,8 @@ average_rating: 5.94
 ---
 # Roland Emmerich
 
+Roland Emmerich ist ein deutscher Filmproduzent, Regisseur und Drehbuchautor.. Er wurde bekannt durch Action- und Katastrophenfilme wie Independence Day, Godzilla, Der Patriot, The Day After Tomorrow und 2012 sowie mit dem Science-Fiction-Film Stargate, auf dem auch mehrere Serien und Filme basieren.
+
 ## Gesehene Filme (17)
 
 **⌀-Bewertung:** 5.94 ★

@@ -7,6 +7,8 @@ average_rating: 6.82
 ---
 # James Mangold
 
+James Mangold ist ein US-amerikanischer Regisseur, Drehbuchautor und Filmproduzent..
+
 ## Gesehene Filme (11)
 
 **⌀-Bewertung:** 6.82 ★

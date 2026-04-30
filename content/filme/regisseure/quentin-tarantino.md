@@ -7,6 +7,8 @@ average_rating: 8.08
 ---
 # Quentin Tarantino
 
+Quentin Jerome Tarantino [ˌtærənˈtiːnoʊ] ist ein US-amerikanischer Filmregisseur, Produzent, Drehbuchautor, Kameramann und Schauspieler. Er ist zweifacher Oscar- und dreifacher Golden-Globe-Preisträger sowie Gewinner der Goldenen Palme der Internationalen Filmfestspiele von Cannes..
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 8.08 ★

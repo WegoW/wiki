@@ -7,6 +7,8 @@ average_rating: 4.5
 ---
 # Michael Bay
 
+Michael Benjamin Bay ist ein US-amerikanischer Regisseur, Filmproduzent, Schauspieler und Kameraoperateur, der sich vor allem auf Actionfilme spezialisiert hat..
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 4.50 ★

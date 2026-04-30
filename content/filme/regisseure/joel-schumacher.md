@@ -7,6 +7,8 @@ average_rating: 5.83
 ---
 # Joel Schumacher
 
+Joel Schumacher war ein US-amerikanischer Regisseur, Drehbuchautor und Produzent..
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 5.83 ★

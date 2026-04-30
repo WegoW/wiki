@@ -7,6 +7,8 @@ average_rating: 6.83
 ---
 # Joel Coen
 
+Die Brüder Joel David Coen und Ethan Jesse Coen, auch bekannt als die Coen-Brüder, sind oscarprämierte US-amerikanische Filmregisseure, Drehbuchautoren, Filmproduzenten und Filmeditoren..
+
 ## Gesehene Filme (18)
 
 **⌀-Bewertung:** 6.83 ★

@@ -7,6 +7,8 @@ average_rating: 6.64
 ---
 # Danny Boyle
 
+Daniel „Danny“ Boyle ist ein britischer Regisseur, Golden-Globe- und Oscar-Preisträger..
+
 ## Gesehene Filme (11)
 
 **⌀-Bewertung:** 6.64 ★

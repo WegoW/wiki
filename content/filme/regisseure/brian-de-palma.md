@@ -7,6 +7,8 @@ average_rating: 6.79
 ---
 # Brian De Palma
 
+Brian De Palma ist ein US-amerikanischer Filmregisseur..
+
 ## Gesehene Filme (19)
 
 **⌀-Bewertung:** 6.79 ★

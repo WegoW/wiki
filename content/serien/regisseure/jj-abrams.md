@@ -7,6 +7,8 @@ average_rating: 8.5
 ---
 # J.J. Abrams
 
+Jeffrey Jacob „J.. J.“ Abrams ist ein US-amerikanischer Film- und Fernsehproduzent, Drehbuchautor, Komponist, Schauspieler und Regisseur.. Er ist zudem Mitbegründer und CEO von Bad Robot Productions.
+
 ## Serien-Credits (2)
 
 **⌀-Bewertung:** 8.50 ★

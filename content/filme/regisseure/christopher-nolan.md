@@ -7,6 +7,8 @@ average_rating: 7.92
 ---
 # Christopher Nolan
 
+Sir Christopher Edward Nolan CBE ist ein britisch-US-amerikanischer Filmregisseur, Drehbuchautor und Filmproduzent. Nach seinem Spielfilmdebüt 1998 mit Following erhielt er 2002 für Memento erstmals eine Oscarnominierung als bester Drehbuchautor. Internationale Bekanntheit erlangte Nolan durch seine Neuinterpretation der Comicfigur Batman in der The-Dark-Knight-Trilogie. Durch diese Erfolge war es ihm möglich, für spätere Filme wie Inception, Interstellar oder Tenet mit hohen Filmbudgets zu arbeiten.
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 7.92 ★

@@ -7,6 +7,8 @@ average_rating: 7.7
 ---
 # Alfred Hitchcock
 
+Sir Alfred Joseph Hitchcock KBE war ein britischer Filmregisseur, Drehbuchautor, Filmproduzent und Filmeditor. Er siedelte 1939 in die USA über und nahm 1955 zusätzlich die US-amerikanische Staatsbürgerschaft an..
+
 ## Gesehene Filme (10)
 
 **⌀-Bewertung:** 7.70 ★

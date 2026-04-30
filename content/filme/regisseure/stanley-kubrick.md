@@ -7,6 +7,8 @@ average_rating: 7.1
 ---
 # Stanley Kubrick
 
+Stanley Kubrick war ein US-amerikanischer Filmregisseur, Filmproduzent und Drehbuchautor.. Er gilt als einer der bedeutendsten und einflussreichsten Filmemacher aller Zeiten.
+
 ## Gesehene Filme (10)
 
 **⌀-Bewertung:** 7.10 ★

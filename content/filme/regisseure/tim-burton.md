@@ -7,6 +7,8 @@ average_rating: 6.8
 ---
 # Tim Burton
 
+Timothy „Tim“ Walter Burton ist ein US-amerikanischer Autor, Künstler, Produzent und Filmregisseur.
+
 ## Gesehene Filme (15)
 
 **⌀-Bewertung:** 6.80 ★

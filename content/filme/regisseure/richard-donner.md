@@ -7,6 +7,8 @@ average_rating: 6.5
 ---
 # Richard Donner
 
+Richard Donner war ein US-amerikanischer Filmregisseur und Produzent. Als Regisseur von Filmen wie Das Omen, Superman, Die Goonies und Lethal Weapon – Zwei stahlharte Profis galt er von Mitte der 1970er- bis in die 1990er-Jahre als einer der führenden Regisseure von Hollywood-Blockbustern..
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 6.50 ★

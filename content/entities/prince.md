@@ -101,3 +101,18 @@ US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
 
 - 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
 - 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
+
+### 🎬 Filmbeteiligung
+
+- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
+- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
+
+### 🎬 Filmbeteiligung
+
+- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
+- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film
+
+### 🎬 Filmbeteiligung
+
+- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
+- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film

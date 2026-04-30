@@ -7,6 +7,8 @@ average_rating: 6.17
 ---
 # Robert Rodriguez
 
+Robert Anthony Rodriguez ist ein US-amerikanischer Filmregisseur, Drehbuchautor, Filmkomponist und Filmproduzent mexikanischer Abstammung. Er hat bei einigen seiner Filme zudem als Kameramann und Filmeditor mitgewirkt. Seit 2013 hat er mit El Rey Network seinen eigenen Fernsehsender..
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 6.17 ★

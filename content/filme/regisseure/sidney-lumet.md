@@ -7,6 +7,8 @@ average_rating: 6.73
 ---
 # Sidney Lumet
 
+Sidney Lumet ['sɪdni luːˈmɛt] war ein US-amerikanischer Regisseur, Drehbuchautor und Schauspieler.
+
 ## Gesehene Filme (11)
 
 **⌀-Bewertung:** 6.73 ★

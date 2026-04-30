@@ -7,6 +7,8 @@ average_rating: 7.08
 ---
 # Robert Zemeckis
 
+Robert Lee Zemeckis [ziːˈmekɪs] ist ein US-amerikanischer Regisseur und Filmproduzent. Seine Regiearbeit an Forrest Gump wurde 1995 mit einem Oscar prämiert, ebenso wurde er mehrfach für seine Film-Trilogie Zurück in die Zukunft ausgezeichnet..
+
 ## Gesehene Filme (13)
 
 **⌀-Bewertung:** 7.08 ★

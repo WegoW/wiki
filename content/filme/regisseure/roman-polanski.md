@@ -7,6 +7,8 @@ average_rating: 7.2
 ---
 # Roman Polanski
 
+Roman Raymond Polański ist ein französisch-polnischer Filmregisseur, Filmproduzent, Drehbuchautor und Schauspieler.. Zu seinen bekanntesten Filmen gehören die Horrorkomödie Tanz der Vampire (1967), in dem er selbst die Rolle des Alfred übernahm, der Horrorfilm Rosemaries Baby (1968), der Kriminalfilm Chinatown (1974) sowie der Holocaustfilm Der Pianist (2002), der mit der Goldenen Palme von Cannes sowie dem Oscar für die beste Regie ausgezeichnet wurde.
+
 ## Gesehene Filme (10)
 
 **⌀-Bewertung:** 7.20 ★

@@ -7,6 +7,8 @@ average_rating: 6.18
 ---
 # Antoine Fuqua
 
+Antoine Fuqua ist ein US-amerikanischer Regisseur von Spielfilmen, Musikvideos und Werbespots. Bekanntheit erlangte er durch seinen Kriminalfilm Training Day, für den Denzel Washington 2002 den Oscar als bester Hauptdarsteller gewann..
+
 ## Gesehene Filme (11)
 
 **⌀-Bewertung:** 6.18 ★

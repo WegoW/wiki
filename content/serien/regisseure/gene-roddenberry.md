@@ -7,6 +7,8 @@ average_rating: 9.0
 ---
 # Gene Roddenberry
 
+Eugene Wesley „Gene“ Roddenberry war ein US-amerikanischer Drehbuchautor, Fernseh- und Filmproduzent und der Schöpfer von Star Trek. In den 1950er Jahren schrieb er zeitweilig unter dem Pseudonym Robert Wesley.
+
 ## Serien-Credits (3)
 
 **⌀-Bewertung:** 9.00 ★

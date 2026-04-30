@@ -7,6 +7,8 @@ average_rating: 6.32
 ---
 # Woody Allen
 
+Woody Allen ist ein US-amerikanischer Filmregisseur, Autor, Schauspieler und Komiker. Darüber hinaus ist er ein passionierter Jazzmusiker.
+
 ## Gesehene Filme (19)
 
 **⌀-Bewertung:** 6.32 ★

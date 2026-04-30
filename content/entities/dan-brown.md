@@ -10,6 +10,8 @@ confidence: medium
 
 # Dan Brown
 
+Daniel „Dan“ Brown ist ein US-amerikanischer Thriller-Autor.
+
 ## Hörspiele/Hörbücher in der Sammlung
 
 - Sakrileg

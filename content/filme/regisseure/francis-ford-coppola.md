@@ -7,6 +7,8 @@ average_rating: 6.86
 ---
 # Francis Ford Coppola
 
+Francis Ford Coppola ist ein US-amerikanischer Regisseur, Drehbuchautor und Filmproduzent. Als Regisseur von Klassikern wie der Pate-Trilogie und Apocalypse Now zählt er zu den bedeutendsten Filmschaffenden des US-amerikanischen Kinos und als wichtiger Vertreter des New Hollywood..
+
 ## Gesehene Filme (14)
 
 **⌀-Bewertung:** 6.86 ★

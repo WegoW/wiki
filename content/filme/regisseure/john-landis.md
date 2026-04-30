@@ -7,6 +7,8 @@ average_rating: 6.87
 ---
 # John Landis
 
+John David Landis ist ein US-amerikanischer Filmregisseur, Drehbuchautor und Produzent. Seine größten Erfolge feierte er im Komödiengenre während der 1980er Jahre, zu seinen bekanntesten Filmen zählen Blues Brothers, American Werewolf, Die Glücksritter und Der Prinz aus Zamunda..
+
 ## Gesehene Filme (15)
 
 **⌀-Bewertung:** 6.87 ★

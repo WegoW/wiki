@@ -10,6 +10,8 @@ confidence: medium
 
 # Herbert W. Franke
 
+Herbert Werner Franke war ein österreichischer Science-Fiction-Schriftsteller und Sachbuchautor. Einige seiner Werke veröffentlichte er unter den Pseudonymen Sergius Both und Peter Parsival. Franke war außerdem aktiv in den Bereichen Zukunftsforschung, Höhlenforschung sowie Computergrafik und Computerkunst.
+
 ## Hörspiele/Hörbücher in der Sammlung
 
 - Expedition ins Niemandsland

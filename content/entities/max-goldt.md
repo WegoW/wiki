@@ -10,6 +10,8 @@ confidence: medium
 
 # Max Goldt
 
+Max Goldt ist ein deutscher Schriftsteller, Kolumnist, Musiker, Comic-Szenarist und Hörspielautor. Goldt schrieb von 1989 bis 2011 Kolumnen für das Satiremagazin Titanic und ist seit 1996 Teil des Comicduos Katz & Goldt, auf das sich seine literarische Tätigkeit seit den 2010er Jahren konzentriert. Außerdem ist er Mitglied der 1981 gegründeten Band Foyer des Arts.
+
 ## Hörspiele/Hörbücher in der Sammlung
 
 - Die Radiotrinkerin & Die legendäre letzte Zigarette

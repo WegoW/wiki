@@ -7,6 +7,8 @@ average_rating: 6.55
 ---
 # Phillip Noyce
 
+Phillip Noyce ist ein australischer Regisseur..
+
 ## Gesehene Filme (11)
 
 **⌀-Bewertung:** 6.55 ★

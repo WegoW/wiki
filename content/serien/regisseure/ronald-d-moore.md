@@ -7,6 +7,8 @@ average_rating: 8.5
 ---
 # Ronald D. Moore
 
+Ronald Dowl Moore ist ein US-amerikanischer Film- und Fernsehproduzent, Drehbuchautor und Schauspieler..
+
 ## Serien-Credits (2)
 
 **⌀-Bewertung:** 8.50 ★

@@ -10,6 +10,8 @@ confidence: medium
 
 # Frank Schätzing
 
+Frank Schätzing ist ein deutscher Schriftsteller, Musiker und Hörbuchsprecher. Sein bekanntestes Buch ist Der Schwarm. 2019 erschien sein Debütalbum Taxi Galaxi. Schätzing tritt auch als Fernsehmoderator in Wissenschaftssendungen auf.
+
 ## Hörspiele/Hörbücher in der Sammlung
 
 - **Mordshunger**

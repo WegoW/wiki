@@ -7,6 +7,8 @@ average_rating: 6.17
 ---
 # Oliver Stone
 
+William Oliver Stone ist ein US-amerikanischer Regisseur, Drehbuchautor und Produzent, der vor allem für politische Filme bekannt ist. Er wurde dreimal mit dem Oscar ausgezeichnet..
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 6.17 ★

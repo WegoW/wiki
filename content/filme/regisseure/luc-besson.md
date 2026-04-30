@@ -7,6 +7,8 @@ average_rating: 6.8
 ---
 # Luc Besson
 
+Luc Paul Maurice Besson ist ein französischer Filmregisseur, Filmproduzent und Autor..
+
 ## Gesehene Filme (10)
 
 **⌀-Bewertung:** 6.80 ★

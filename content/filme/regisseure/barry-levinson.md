@@ -7,6 +7,8 @@ average_rating: 6.13
 ---
 # Barry Levinson
 
+Barry Levinson ist ein US-amerikanischer Filmregisseur. Für Rain Man gewann er 1989 den Oscar in der Kategorie Beste Regie..
+
 ## Gesehene Filme (15)
 
 **⌀-Bewertung:** 6.13 ★

@@ -7,6 +7,8 @@ average_rating: 6.83
 ---
 # Wes Anderson
 
+Wesley Wales „Wes“ Anderson ist ein US-amerikanischer Filmproduzent, Drehbuchautor und Regisseur von Kinofilmen und Werbespots.
+
 ## Gesehene Filme (12)
 
 **⌀-Bewertung:** 6.83 ★
