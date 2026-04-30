@@ -129,6 +129,7 @@
 - [[filme/regisseure/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
 - [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
 
+
 ### Serien-Seiten
 - [[serien/top-10|Top 10 Serien]] — Meine persönliche Bestenliste
 - [[serien/statistiken|Serien-Statistiken]] — Übersicht, Verteilung, Top-Genres
