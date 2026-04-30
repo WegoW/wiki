@@ -88,7 +88,7 @@
 - [[entities/james-brown|James Brown]] — Blues Brothers ⭐9, Get On Up ⭐7
 - [[entities/macy-gray|Macy Gray]] — Training Day ⭐6, Spider-Man ⭐7, Scary Movie 3 ⭐6, In 80 Tagen um die Welt ⭐6, Domino ⭐3, Idlewild ⭐4
 - [[entities/kid-creole-and-the-coconuts|Kid Creole & The Coconuts]] — Against All Odds ⭐2, Be Kind Rewind ⭐8
-- [[entities/chaka-khan|Chaka Khan]] — Blues Brothers ⭐9
+- [[entities/chaka-khan|Chaka Khan]] — Blues Brothers 2000 ⭐6
 - [[entities/george-clinton|George Clinton]] — Graffiti Bridge ⭐6
 - [[entities/erykah-badu|Erykah Badu]] — Blues Brothers 2000 ⭐6
 - [[entities/the-b-52s|The B-52's]] — The Flintstones ⭐6

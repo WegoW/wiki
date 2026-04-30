@@ -51,4 +51,4 @@ US-amerikanische Sängerin, zehnfache Grammy-Gewinnerin. Frontfrau von Rufus, be
 - [[entities/prince|Prince]] — Support Act 1998
 - [[entities/mothers-finest|Mother's Finest]] — gemeinsames Konzert (Black Beat Night 1989)
 - [[entities/maze-feat-frankie-beverly|Maze feat. Frankie Beverly]] — gemeinsames Konzert (Black Beat Night 1989)
-- 🎬 *The Blues Brothers* (1980) — ⭐9 (IMDb 7.9) — Choir Solistin in der Kirchenszene
+- 🎬 *Blues Brothers 2000* (1998) — ⭐6 (IMDb 4.9) — Teil der Louisiana Gator Boys
