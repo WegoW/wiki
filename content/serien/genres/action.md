@@ -2,12 +2,12 @@
 title: Action
 type: entity
 tags: [genre, series, imdb]
-series_watched: 102
-average_rating: 7.35
+series_watched: 103
+average_rating: 7.34
 ---
 # Action (Serien)
 
-**Serien:** 102 | **⌀ ⭐:** 7.35
+**Serien:** 103 | **⌀ ⭐:** 7.34
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

@@ -2,12 +2,12 @@
 title: Liebesfilm
 type: entity
 tags: [genre, series, imdb]
-series_watched: 18
-average_rating: 7.39
+series_watched: 19
+average_rating: 7.37
 ---
 # Liebesfilm (Serien)
 
-**Serien:** 18 | **⌀ ⭐:** 7.39
+**Serien:** 19 | **⌀ ⭐:** 7.37
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

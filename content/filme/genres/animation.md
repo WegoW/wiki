@@ -2,12 +2,12 @@
 title: Animation
 type: entity
 tags: [genre, film, imdb]
-films_watched: 94
-average_rating: 6.51
+films_watched: 97
+average_rating: 6.49
 ---
 # Animation
 
-**Filme:** 94 | **⌀ ⭐:** 6.51
+**Filme:** 97 | **⌀ ⭐:** 6.49
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

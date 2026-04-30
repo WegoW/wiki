@@ -2,12 +2,12 @@
 title: Drama
 type: entity
 tags: [genre, film, imdb]
-films_watched: 2025
+films_watched: 2027
 average_rating: 6.45
 ---
 # Drama
 
-**Filme:** 2025 | **⌀ ⭐:** 6.45
+**Filme:** 2027 | **⌀ ⭐:** 6.45
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

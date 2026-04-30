@@ -2,12 +2,12 @@
 title: Western
 type: entity
 tags: [genre, series, imdb]
-series_watched: 6
-average_rating: 7.67
+series_watched: 7
+average_rating: 7.71
 ---
 # Western (Serien)
 
-**Serien:** 6 | **⌀ ⭐:** 7.67
+**Serien:** 7 | **⌀ ⭐:** 7.71
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

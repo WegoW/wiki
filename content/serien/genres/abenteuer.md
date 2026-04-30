@@ -2,12 +2,12 @@
 title: Abenteuer
 type: entity
 tags: [genre, series, imdb]
-series_watched: 86
-average_rating: 7.35
+series_watched: 87
+average_rating: 7.33
 ---
 # Abenteuer (Serien)
 
-**Serien:** 86 | **⌀ ⭐:** 7.35
+**Serien:** 87 | **⌀ ⭐:** 7.33
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|
