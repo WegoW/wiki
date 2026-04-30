@@ -57,4 +57,9 @@ US-amerikanische Multikulti-Band um August Darnell. Ihr Sound vereint Salsa, Cal
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
-- 🎬 *Against All Odds* (1984) — ⭐2 (IMDb 5.9) — „My Male Curiosity" von Kid Creole im Film
+- 🎬 *Downtown 81* (1981/2000) — Kunstfilm mit Jean-Michel Basquiat (nicht bewertet)
+- 🎬 *Against All Odds* (1984) — ⭐2 (IMDb 5.9) — „My Male Curiosity" im Film
+- 🎬 *Identity Crisis* (1989) — Rolle als „Thrift Shop Man" (nicht bewertet)
+- 🎬 *The Forbidden Dance is Lambada* (1990) — Auftritt als Kid Creole (nicht bewertet)
+- 🎬 *Only You* (1992) — Auftritt als er selbst (nicht bewertet)
+- 🎬 *Be Kind Rewind* (2008) — ⭐8 (IMDb 6.4) — Cameo als „West Coast Video Employee"
