@@ -1,7 +1,8 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme und Serien aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen.
-| Last updated: 2026-04-30 | Total pages: 130
+> Content catalog. Every wiki page listed under its type with a one-line summary.
+> Read this first to find relevant pages for any query.
+| Last updated: 2026-04-30 | Total pages: 100
 
 ## Konzerte (101)
 - [[entities/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -70,11 +71,25 @@
 - [[entities/wolf-maahn|Wolf Maahn]] — 1 Konzert
 - [[entities/ziggy-marley|Ziggy Marley]] — 1 Konzert
 
+## Hörbücher
+- [[entities/daniel-suarez|Daniel Suarez]] — Hörbuch in der Sammlung
+- [[entities/frank-schaetzing|Frank Schätzing]] — Hörbuch in der Sammlung
+- [[entities/max-goldt|Max Goldt]] — Hörbuch in der Sammlung
+- [[entities/perry-rhodan|Perry Rhodan]] — Hörbuch in der Sammlung
+- [[entities/peter-f-hamilton|Peter F. Hamilton]] — Hörbuch in der Sammlung
+- [[entities/philip-k-dick|Philip K. Dick]] — Hörbuch in der Sammlung
+- [[entities/stanislaw-lem|Stanislaw Lem]] — Hörbuch in der Sammlung
+- [[entities/terry-pratchett|Terry Pratchett]] — Hörbuch in der Sammlung
+
 ## Concepts
 - [[concepts/live-music|Live-Musik]] — Konzerterlebnisse als Kultur und persönliche Erinnerung
+- [[concepts/science-fiction|Science-Fiction]] — Dominierendes Genre der Hörbuchsammlung
 - [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
 
+## Comparisons
+
 ## Queries
+- [[queries/audiobook-collection|Gehörte Hörbücher und Hörspiele]] — Persönliche Sammlung von 119 Hörbüchern und Hörspielen
 - [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
 - [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
 
@@ -93,26 +108,6 @@
 - [[entities/tower-of-power|Tower Of Power]] — The Limey ⭐6
 - [[entities/leningrad-cowboys|Leningrad Cowboys]] — Leningrad Cowboys Go America ⭐4
 - [[entities/curtis-mayfield|Curtis Mayfield]] — Superfly ⭐6
-
-### Serien-Seiten
-- [[serien/top-10|Top 10 Serien]] — Meine persönliche Bestenliste
-- [[serien/statistiken|Serien-Statistiken]] — Übersicht, Verteilung, Top-Genres
-
-#### Serien-Creator
-- [[serien/regisseure/gene-roddenberry|Gene Roddenberry]] — 2 Serien
-- [[serien/regisseure/jj-abrams|J.J. Abrams]] — 2 Serien
-- [[serien/regisseure/ronald-d-moore|Ronald D. Moore]] — 2 Serien
-- [[serien/regisseure/taylor-sheridan|Taylor Sheridan]] — 2 Serien
-- [[serien/regisseure/vince-gilligan|Vince Gilligan]] — 2 Serien
-
-#### Serien nach Jahrzehnt
-- [[serien/jahrzehnte/1960er|1960er]] — 3 Serien
-- [[serien/jahrzehnte/1970er|1970er]] — 1 Serie
-- [[serien/jahrzehnte/1980er|1980er]] — 9 Serien
-- [[serien/jahrzehnte/1990er|1990er]] — 16 Serien
-- [[serien/jahrzehnte/2000er|2000er]] — 39 Serien
-- [[serien/jahrzehnte/2010er|2010er]] — 97 Serien
-- [[serien/jahrzehnte/2020er|2020er]] — 143 Serien
 
 ### Regisseur-Seiten
 - [[filme/regisseure/antoine-fuqua|Antoine Fuqua]] — 11 Filme, Ø 6.18
@@ -150,3 +145,23 @@
 - [[filme/regisseure/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
 - [[filme/regisseure/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
 - [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
+
+### Serien-Seiten
+- [[serien/top-10|Top 10 Serien]] — Meine persönliche Bestenliste
+- [[serien/statistiken|Serien-Statistiken]] — Übersicht, Verteilung, Top-Genres
+
+#### Serien-Creator
+- [[serien/regisseure/gene-roddenberry|Gene Roddenberry]] — 2 Serien
+- [[serien/regisseure/jj-abrams|J.J. Abrams]] — 2 Serien
+- [[serien/regisseure/ronald-d-moore|Ronald D. Moore]] — 2 Serien
+- [[serien/regisseure/taylor-sheridan|Taylor Sheridan]] — 2 Serien
+- [[serien/regisseure/vince-gilligan|Vince Gilligan]] — 2 Serien
+
+#### Serien nach Jahrzehnt
+- [[serien/jahrzehnte/1960er|1960er]] — 3 Serien
+- [[serien/jahrzehnte/1970er|1970er]] — 1 Serie
+- [[serien/jahrzehnte/1980er|1980er]] — 9 Serien
+- [[serien/jahrzehnte/1990er|1990er]] — 16 Serien
+- [[serien/jahrzehnte/2000er|2000er]] — 39 Serien
+- [[serien/jahrzehnte/2010er|2010er]] — 97 Serien
+- [[serien/jahrzehnte/2020er|2020er]] — 143 Serien
