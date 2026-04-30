@@ -38,3 +38,4 @@ US-amerikanische Soul- und R&B-Sängerin, bekannt für ihren einzigartigen Neo-S
 - [[queries/concert-collection|Konzertsammlung]]
 - [[concepts/live-music|Live-Musik]]
 - [[entities/roy-hargrove|Roy Hargrove]] — Opening Act 2008
+- 🎬 *Blues Brothers 2000* (1998) — ⭐6 (IMDb 4.9) — Cameo als Tango Queen
