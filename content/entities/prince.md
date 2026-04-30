@@ -85,5 +85,4 @@ US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
 ### 🎬 Filmbeteiligung
 
 - 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film
-- 🎬 *The Old Guard* (2020) — ⭐5 (IMDb 6.7) — Film
 - 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.0) — Film
