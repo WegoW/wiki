@@ -5,7 +5,7 @@ set -e
 # ins Quartz-Repo und pushed auf GitHub Pages.
 
 WIKI="/root/obsidian/wiki"
-REPO="/root/Konzerte"
+REPO="/root/wiki"
 
 echo "==> Syncing concert-only content to GitHub Pages repo..."
 
@@ -90,7 +90,7 @@ done
 python3 << 'PYEOF'
 import re
 
-index_path = "/root/Konzerte/content/index.md"
+index_path = "/root/wiki/content/index.md"
 with open(index_path, 'r') as f:
     content = f.read()
 
