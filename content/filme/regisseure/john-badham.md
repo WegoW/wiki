@@ -7,7 +7,7 @@ average_rating: 6.27
 ---
 # John Badham
 
-John Badham ist ein britischer Filmregisseur sowie Produzent..
+John MacDonald Badham (* 25. August 1939 in Luton, England) ist ein britisch-amerikanischer Filmregisseur und Produzent. Seinen Durchbruch hatte er 1977, als er die Regie von *Saturday Night Fever* übernahm und einen der größten Kinoerfolge der 1970er Jahre ablieferte. In den 1980er Jahren festigte er seinen Ruf mit Technik-Thrillern wie *WarGames* (1983) und *Blue Thunder* (1983) sowie der Science-Fiction-Komödie *Nummer 5 lebt!* (1986). Badham drehte über vier Jahrzehnte ein breites Spektrum an Genres, vom Horrordrama *Dracula* (1979) bis zur Actionkomödie *Stakeout* (1987), und erhielt für *WarGames* den Saturn Award als bester Regisseur. Heute ist er Professor an der Chapman University und wird für seinen vielseitigen, handwerklich soliden Regiestil geschätzt.
 
 ## Gesehene Filme (11)
 

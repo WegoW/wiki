@@ -7,7 +7,7 @@ average_rating: 6.83
 ---
 # Wes Anderson
 
-Wesley Wales „Wes“ Anderson ist ein US-amerikanischer Filmproduzent, Drehbuchautor und Regisseur von Kinofilmen und Werbespots.
+Wesley Wales „Wes“ Anderson, geboren am 1. Mai 1969 in Houston, Texas, ist ein US-amerikanischer Filmregisseur, Drehbuchautor und Produzent mit einem hochgradig eigenwilligen visuellen Stil. Nach seinem Debüt Bottle Rocket (1996) etablierte er sich mit Rushmore (1998) und Die Royal Tenenbaums (2001), wofür er eine Oscar-Nominierung für das beste Drehbuch erhielt. Sein Werk zeichnet sich durch symmetrische Bildkompositionen, Pastellfarben, detailverliebte Sets und skurrile Charaktere aus. The Grand Budapest Hotel (2014) gewann den Golden Globe für die beste Komödie, und sein Kurzfilm The Wonderful Story of Henry Sugar (2023) brachte ihm seinen ersten Oscar. Zu seinem wiederkehrenden Ensemble gehören Bill Murray, Owen Wilson und Jason Schwartzman.
 
 ## Gesehene Filme (12)
 

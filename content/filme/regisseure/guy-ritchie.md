@@ -7,7 +7,7 @@ average_rating: 6.53
 ---
 # Guy Ritchie
 
-Guy Stuart Ritchie ist ein britischer Filmregisseur, Drehbuchautor und Filmproduzent..
+Guy Stuart Ritchie (* 10. September 1968 in Hatfield, England) ist ein britischer Filmregisseur, Drehbuchautor und Filmproduzent. Bekannt wurde er durch seine rasanten, nonlinearen Gangsterfilme wie *Bube Dame König grAS* (1998) und *Snatch – Schweine und Diamanten* (2000), die ihm BAFTA-Nominierungen einbrachten und Jason Stathams Karriere starteten. Nach einem kreativen Tief Mitte der 2000er feierte er mit den *Sherlock Holmes*-Filmen (2009/2011) ein weltweites Comeback mit über 500 Millionen Dollar Einspiel pro Film. Mit dem Disney-Live-Action-Remake *Aladdin* (2019) durchbrach er die Milliardengrenze, während er mit *The Gentlemen* (2019) zu seinen kriminellen Wurzeln zurückkehrte. Ritchie ist bekannt für seinen stilisierten, von Cockney-Slang, schwarzem Humor und rasanter Schnittführung geprägten Regiestil.
 
 ## Gesehene Filme (15)
 

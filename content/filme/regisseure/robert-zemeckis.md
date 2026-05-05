@@ -7,7 +7,7 @@ average_rating: 7.08
 ---
 # Robert Zemeckis
 
-Robert Lee Zemeckis [ziːˈmekɪs] ist ein US-amerikanischer Regisseur und Filmproduzent. Seine Regiearbeit an Forrest Gump wurde 1995 mit einem Oscar prämiert, ebenso wurde er mehrfach für seine Film-Trilogie Zurück in die Zukunft ausgezeichnet..
+Robert Lee Zemeckis (* 14. Mai 1952 in Chicago, Illinois) ist ein US-amerikanischer Regisseur und Produzent, der vor allem für seine innovativen visuellen Effekte und technischen Pionierleistungen bekannt ist. Nach ersten Erfolgen mit *Auf der Jagd nach dem grünen Diamanten* (1984) und *Falsches Spiel mit Roger Rabbit* (1988) – einer bahnbrechenden Kombination von Zeichentrick und Realfilm – schuf er mit der *Zurück-in-die-Zukunft*-Trilogie (1985–1990) einen der größten Klassiker der Filmgeschichte. 1994 gelang ihm mit *Forrest Gump* der ganz große Wurf: Der Film gewann sechs Oscars, darunter den für die beste Regie und den besten Film. Zemeckis' Werk umfasst außerdem Dramen wie *Cast Away* (2000) und *Flight* (2012) sowie die bahnbrechende Performance-Capture-Technik in *Der Polarexpress* (2004). Sein Markenzeichen ist die nahtlose Verbindung von spektakulären Spezialeffekten mit emotionalen Geschichten.
 
 ## Gesehene Filme (13)
 

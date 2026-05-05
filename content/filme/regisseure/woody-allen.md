@@ -7,7 +7,7 @@ average_rating: 6.32
 ---
 # Woody Allen
 
-Woody Allen ist ein US-amerikanischer Filmregisseur, Autor, Schauspieler und Komiker. Darüber hinaus ist er ein passionierter Jazzmusiker.
+Woody Allen, geboren am 1. Dezember 1935 in New York als Allan Stewart Konigsberg, ist ein US-amerikanischer Filmregisseur, Autor, Schauspieler und Komiker. Er begann als Gag-Autor und Stand-up-Comedian, bevor er mit Annie Hall (1977) seinen Durchbruch feierte – der Film gewann vier Oscars, darunter für die beste Regie und das beste Drehbuch. Mit über 50 Filmen und 24 Oscar-Nominierungen (davon vier gewonnen) zählt er zu den produktivsten Filmemachern der Welt. Sein Stil ist geprägt von neurotischen, dialoglastigen Komödien, die oft in New York spielen, und seiner Leidenschaft für Jazz, den er selbst als Klarinettist spielt.
 
 ## Gesehene Filme (19)
 

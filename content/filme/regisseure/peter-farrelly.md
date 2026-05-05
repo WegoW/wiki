@@ -7,7 +7,7 @@ average_rating: 5.9
 ---
 # Peter Farrelly
 
-Die Brüder Peter John Farrelly und Robert Leo „Bobby“ Farrelly Jr. sind US-amerikanische Drehbuchautoren, Filmproduzenten und Filmregisseure, Peter ist darüber hinaus Romanautor..
+Peter John Farrelly (* 17. Dezember 1956 in Phoenixville, Pennsylvania) ist ein US-amerikanischer Drehbuchautor, Produzent und Regisseur. Gemeinsam mit seinem Bruder Bobby Farrelly bildete er jahrzehntelang das erfolgreiche Duo der Farrelly Brothers, das mit derben, aber herzlichen Komödien wie *Dumm und Dümmer* (1994), *Kingpin* (1996) und *Verrückt nach Mary* (1998) die 1990er-Jahre-Komödienlandschaft prägte. Ihr Markenzeichen war derbe Situationskomik gepaart mit unerwartet warmherzigen Figuren. 2018 überraschte Peter Farrelly mit dem Drama *Green Book – Eine besondere Freundschaft*, das den Oscar als Bester Film sowie für das Beste Originaldrehbuch gewann. Damit bewies er, dass sein komödiantisches Talent nur eine Facette seines filmischen Könnens ist.
 
 ## Gesehene Filme (10)
 

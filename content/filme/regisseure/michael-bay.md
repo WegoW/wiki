@@ -7,7 +7,7 @@ average_rating: 4.5
 ---
 # Michael Bay
 
-Michael Benjamin Bay ist ein US-amerikanischer Regisseur, Filmproduzent, Schauspieler und Kameraoperateur, der sich vor allem auf Actionfilme spezialisiert hat..
+Michael Benjamin Bay (* 17. Februar 1965 in Los Angeles, Kalifornien) ist ein US-amerikanischer Regisseur und Produzent, der für seine Big-Budget-Actionfilme mit rasanter Schnitttechnik und explosiven Bildern bekannt ist – ein Stil, der oft als „Bayhem" bezeichnet wird. Nach seinem Studium am Art Center College of Design drehte er Werbespots und Musikvideos, bevor er 1995 mit *Bad Boys – Harte Jungs* sein Spielfilmdebüt gab. Es folgten die Blockbuster *The Rock – Fels der Entscheidung* (1996), *Armageddon* (1998) und *Pearl Harbor* (2001), die ihn als Meister des Spektakelkinos etablierten. Weltberühmt wurde er vor allem durch die *Transformers*-Filmreihe (2007–2017), die zu den erfolgreichsten Filmfranchises aller Zeiten zählt. Trotz oft gemischter Kritiken landeten seine Filme regelmäßig an der Spitze der weltweiten Box-Office-Charts.
 
 ## Gesehene Filme (12)
 

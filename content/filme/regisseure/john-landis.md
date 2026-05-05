@@ -7,7 +7,7 @@ average_rating: 6.87
 ---
 # John Landis
 
-John David Landis ist ein US-amerikanischer Filmregisseur, Drehbuchautor und Produzent. Seine größten Erfolge feierte er im Komödiengenre während der 1980er Jahre, zu seinen bekanntesten Filmen zählen Blues Brothers, American Werewolf, Die Glücksritter und Der Prinz aus Zamunda..
+John David Landis (* 3. August 1950 in Chicago, Illinois) ist ein US-amerikanischer Filmregisseur, Drehbuchautor und Produzent. Seine Karriere begann er als Postbote bei 20th Century Fox, bevor er mit *Animal House* (1978) die damals erfolgreichste Filmkomödie aller Zeiten ablieferte und das Genre des derben Humors prägte. In den 1980er Jahren folgten mit *Blues Brothers* (1980), *Die Glücksritter* (1983) und *Der Prinz aus Zamunda* (1988) weitere Megahits, die ihn zur Komödien-Ikone seiner Generation machten. Mit *An American Werewolf in London* (1981) schuf er zudem eine geniale Mischung aus Horror und Komödie, und sein Musikvideo zu Michael Jacksons *Thriller* (1983) gilt als das einflussreichste aller Zeiten. Nach dem tragischen Unfall am Set von *Twilight Zone – Der Film* (1982) und einem Freispruch im folgenden Strafprozess verlagerte sich sein Schaffen zunehmend ins Fernsehen, wo er Serien wie *Dream On* und *Sliders* produzierte.
 
 ## Gesehene Filme (15)
 

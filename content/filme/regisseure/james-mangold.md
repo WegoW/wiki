@@ -7,7 +7,7 @@ average_rating: 6.82
 ---
 # James Mangold
 
-James Mangold ist ein US-amerikanischer Regisseur, Drehbuchautor und Filmproduzent..
+James Allen Mangold (* 16. Dezember 1963 in New York City) ist ein US-amerikanischer Regisseur, Drehbuchautor und Filmproduzent. Nach seinem Sundance-prämierten Debüt *Heavy* (1995) inszenierte er das Gefängnisdrama *Cop Land* (1997) und das Johnny-Cash-Biopic *Walk the Line* (2005), für das Reese Witherspoon den Oscar als beste Hauptdarstellerin gewann. Mit dem R-Rated-Superheldenfilm *Logan* (2017) setzte er neue Maßstäbe im Genre und erhielt eine Oscar-Nominierung für das beste adaptierte Drehbuch. Für *Ford v Ferrari* – Le Mans 66 (2019) folgte eine Oscar-Nominierung als Bester Film, und mit dem Bob-Dylan-Biopic *Like a Complete Unknown* (2024) erhielt er acht Oscar-Nominierungen, darunter für die Beste Regie. Mangold ist bekannt für seine außergewöhnliche Genre-Vielfalt, von Western über Biopics bis zu Blockbustern, stets mit Fokus auf emotionale Charaktertiefe.
 
 ## Gesehene Filme (11)
 

@@ -7,7 +7,7 @@ average_rating: 5.94
 ---
 # Roland Emmerich
 
-Roland Emmerich ist ein deutscher Filmproduzent, Regisseur und Drehbuchautor.. Er wurde bekannt durch Action- und Katastrophenfilme wie Independence Day, Godzilla, Der Patriot, The Day After Tomorrow und 2012 sowie mit dem Science-Fiction-Film Stargate, auf dem auch mehrere Serien und Filme basieren.
+Roland Emmerich (* 10. November 1955 in Stuttgart) ist ein deutscher Filmregisseur, Produzent und Drehbuchautor, der sich als Meister des modernen Katastrophenfilms einen Namen gemacht hat. Sein Studentenfilm *Das Arche Noah Prinzip* (1984) wurde bei den Berliner Filmfestspielen eröffnet und legte den Grundstein für seine Karriere. Mit *Stargate* (1994) gelang ihm der internationale Durchbruch, bevor *Independence Day* (1996) ihn endgültig in die Riege der erfolgreichsten Hollywood-Regisseure katapultierte – der Film war der erste, der weltweit über 100 Millionen Dollar in einer Woche einspielte. Seine Spektakel wie *Godzilla* (1998), *The Day After Tomorrow* (2004) und *2012* (2009) sind bekannt für epische Zerstörungsszenarien und hochentwickelte visuelle Effekte. Trotz oft gemischter Kritiken hat Emmerich ein untrügliches Gespür für Blockbuster-Unterhaltung und bleibt einer der erfolgreichsten deutschen Regisseure in Hollywood.
 
 ## Gesehene Filme (17)
 

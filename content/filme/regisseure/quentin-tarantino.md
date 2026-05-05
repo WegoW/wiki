@@ -7,7 +7,7 @@ average_rating: 8.08
 ---
 # Quentin Tarantino
 
-Quentin Jerome Tarantino [ˌtærənˈtiːnoʊ] ist ein US-amerikanischer Filmregisseur, Produzent, Drehbuchautor, Kameramann und Schauspieler. Er ist zweifacher Oscar- und dreifacher Golden-Globe-Preisträger sowie Gewinner der Goldenen Palme der Internationalen Filmfestspiele von Cannes..
+Quentin Jerome Tarantino (* 27. März 1963 in Knoxville, Tennessee) ist ein US-amerikanischer Filmregisseur, Drehbuchautor, Produzent und Schauspieler. Er begann seine Karriere in einer Videothek, wo er sich sein legendäres Filmwissen aneignete, und feierte 1992 mit *Reservoir Dogs* sein Regiedebüt. Seinen internationalen Durchbruch erzielte er 1994 mit *Pulp Fiction*, der die Goldene Palme in Cannes gewann und das unabhängige Kino der 1990er revolutionierte. Tarantinos Filme wie *Kill Bill*, *Inglourious Basterds* und *Django Unchained* sind bekannt für ihren stilisierten Gewalt, nichtlineare Erzählstrukturen und popkulturell geprägte Dialoge. Zweimal gewann er den Oscar für das beste Originaldrehbuch, und sein Schaffen hat das zeitgenössische Kino nachhaltig beeinflusst.
 
 ## Gesehene Filme (12)
 

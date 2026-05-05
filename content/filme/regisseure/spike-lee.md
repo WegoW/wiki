@@ -7,7 +7,7 @@ average_rating: 6.73
 ---
 # Spike Lee
 
-Shelton Jackson „Spike“ Lee ist ein US-amerikanischer Filmregisseur, Drehbuchautor, Produzent und Schauspieler.. In seinen Filmen behandelt er gesellschaftspolitische und soziale Themen, insbesondere den Rassismus in den Vereinigten Staaten gegenüber der afroamerikanischen Bevölkerung.
+Shelton Jackson „Spike“ Lee, geboren 1957 in Atlanta, Georgia, ist ein US-amerikanischer Filmregisseur, Drehbuchautor, Produzent und Schauspieler. Nach seinem Studium an der NYU gründete er 1983 seine Produktionsfirma 40 Acres & A Mule Filmworks und etablierte sich mit Filmen wie Do the Right Thing (1989) und Malcolm X (1992) als einer der wichtigsten Stimmen des afroamerikanischen Kinos. In seinen Werken thematisiert er unerschrocken Rassismus, soziale Ungerechtigkeit und Polizeigewalt, wobei er oft einen provokativen Stil mit dokumentarischen Elementen verbindet. Für seine Arbeit wurde er mehrfach ausgezeichnet, unter anderem mit dem Oscar für das beste adaptierte Drehbuch für BlacKkKlansman (2018) und dem Ehrenoscar 2020. Neben dem Kino inszenierte Lee auch Musikvideos für Michael Jackson und Public Enemy sowie die legendären Nike-Werbespots mit Michael Jordan.
 
 ## Gesehene Filme (11)
 

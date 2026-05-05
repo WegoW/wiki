@@ -7,7 +7,7 @@ average_rating: 7.25
 ---
 # Steven Spielberg
 
-Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent und Drehbuchautor..
+Steven Allan Spielberg, geboren am 18. Dezember 1946 in Cincinnati, Ohio, ist einer der erfolgreichsten und einflussreichsten Filmregisseure aller Zeiten. Nach seinem Durchbruch mit Der weiße Hai (1975) prägte er mit Meisterwerken wie Jäger des verlorenen Schatzes (1981), E.T. – Der Außerirdische (1982) und Jurassic Park (1993) die Popkultur nachhaltig. Für Schindlers Liste (1993) und Der Soldat James Ryan (1998) erhielt er zwei Oscars für die Beste Regie, und Schindlers Liste gewann zudem den Oscar als Bester Film. Der Mitbegründer von DreamWorks ist bekannt für seine enorme Vielseitigkeit und wechselt mühelos zwischen Blockbuster-Unterhaltung, Science-Fiction und tiefgründigen Historien- und Kriegsdramen.
 
 ## Gesehene Filme (32)
 

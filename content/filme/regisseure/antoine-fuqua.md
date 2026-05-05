@@ -7,7 +7,7 @@ average_rating: 6.18
 ---
 # Antoine Fuqua
 
-Antoine Fuqua ist ein US-amerikanischer Regisseur von Spielfilmen, Musikvideos und Werbespots. Bekanntheit erlangte er durch seinen Kriminalfilm Training Day, für den Denzel Washington 2002 den Oscar als bester Hauptdarsteller gewann..
+Antoine Fuqua (* 19. Januar 1966 in Pittsburgh, Pennsylvania) ist ein US-amerikanischer Regisseur von Spielfilmen, Musikvideos und Werbespots. Nach seinem Studium begann er seine Karriere mit Musikvideos für Künstler wie Prince und Coolio, bevor er 1998 mit dem Actionfilm The Replacement Killers sein Spielfilmdebüt gab. Den Durchbruch feierte er 2001 mit dem Kriminalfilm Training Day, für den Hauptdarsteller Denzel Washington den Oscar als bester Hauptdarsteller gewann. Fuqua ist bekannt für visuell kraftvolle, charaktergetriebene Actionfilme wie die Equalizer-Reihe (2014–2023), Olympus Has Fallen (2013) und Die glorreichen Sieben (2016). Sein Stil ist geprägt von düsteren urbanen Schauplätzen, intensiven Nahaufnahmen und einer engen Zusammenarbeit mit Denzel Washington, mit dem er mehrfach gedreht hat.
 
 ## Gesehene Filme (11)
 

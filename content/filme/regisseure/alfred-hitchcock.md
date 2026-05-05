@@ -7,7 +7,7 @@ average_rating: 7.7
 ---
 # Alfred Hitchcock
 
-Sir Alfred Joseph Hitchcock KBE war ein britischer Filmregisseur, Drehbuchautor, Filmproduzent und Filmeditor. Er siedelte 1939 in die USA über und nahm 1955 zusätzlich die US-amerikanische Staatsbürgerschaft an..
+Sir Alfred Joseph Hitchcock KBE (1899–1980) war ein britischer Filmregisseur, Drehbuchautor, Filmproduzent und Filmeditor, der als einer der einflussreichsten Regisseure der Filmgeschichte gilt. Der „Master of Suspense" revolutionierte das Thriller-Genre mit innovativen Techniken wie der Dolly-Zoom-Aufnahme („Vertigo-Effekt") und dem filmischen „MacGuffin"-Prinzip. 1939 siedelte er in die USA über und nahm 1955 zusätzlich die US-amerikanische Staatsbürgerschaft an. Obwohl er sechsmal für den Oscar nominiert wurde, erhielt er nie einen Regie-Oscar, wurde aber 1968 mit dem Irving G. Thalberg Memorial Award geehrt. Zu seinen zeitlosen Meisterwerken zählen Psycho (1960), Das Fenster zum Hof (1954), Vertigo (1958) und Der unsichtbare Dritte (1959).
 
 ## Gesehene Filme (10)
 

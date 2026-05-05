@@ -7,7 +7,7 @@ average_rating: 6.64
 ---
 # Danny Boyle
 
-Daniel „Danny“ Boyle ist ein britischer Regisseur, Golden-Globe- und Oscar-Preisträger..
+Daniel „Danny“ Boyle (* 20. Oktober 1956 in Radcliffe, England) ist ein britischer Regisseur, der mit seinem energiegeladenen visuellen Stil bekannt wurde. Seinen internationalen Durchbruch feierte er 1996 mit „Trainspotting“, einem der erfolgreichsten britischen Filme der 1990er-Jahre. 2008 gelang ihm mit „Slumdog Millionär“ der größte Erfolg seiner Karriere – der Film gewann acht Oscars, darunter die Preise für den besten Film und die beste Regie für Boyle. Mit „28 Days Later“ (2002) belebte er das Zombie-Genre neu, indem er erstmals mit digitalen Mini-DV-Kameras drehte und damit einen rohen, dokumentarischen Look erzeugte. Boyle inszenierte stets genreübergreifend, von Sozialdrama über Science-Fiction bis zum Biopic, und erhielt zahlreiche Auszeichnungen, darunter einen Oscar, einen Golden Globe und mehrere BAFTAs.
 
 ## Gesehene Filme (11)
 

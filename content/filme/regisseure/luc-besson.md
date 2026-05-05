@@ -7,7 +7,7 @@ average_rating: 6.8
 ---
 # Luc Besson
 
-Luc Paul Maurice Besson ist ein französischer Filmregisseur, Filmproduzent und Autor..
+Luc Paul Maurice Besson (* 18. März 1959 in Paris) ist ein französischer Filmregisseur, Drehbuchautor und Produzent, der mit der Cinéma-du-Look-Bewegung verbunden wird. Bereits 1980 gründete er seine eigene Produktionsfirma Les Films du Loup (später Les Films du Dauphin), aus der später das Studio EuropaCorp hervorging. International bekannt wurde er mit Actionthrillern wie *Nikita* (1990) und *Léon: Der Profi* (1994), bevor er mit der Sci-Fi-Oper *Das fünfte Element* (1997) einen Meilenstein des französischen Genrekinos schuf. Für seine Filme erhielt er mehrere César-Nominierungen als Bester Regisseur und Bester Film. Mit *Lucy* (2014), *Valerian – Die Stadt der tausend Planeten* (2017) und *DogMan* (2023) bewies er weiterhin sein Gespür für visuell opulente, hochkonzeptuelle Unterhaltung.
 
 ## Gesehene Filme (10)
 

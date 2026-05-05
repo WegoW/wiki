@@ -7,7 +7,7 @@ average_rating: 6.06
 ---
 # Steven Soderbergh
 
-Steven Andrew Soderbergh ist ein US-amerikanischer Filmregisseur, Filmproduzent, Drehbuchautor, Kameramann und Filmeditor.
+Steven Andrew Soderbergh, geboren 1963 in Atlanta, Georgia, ist ein US-amerikanischer Filmregisseur, Produzent, Drehbuchautor, Kameramann und Editor. Mit nur 26 Jahren gewann er 1989 für sein Debüt Sex, Lügen und Video die Goldene Palme in Cannes – bis heute ist er der jüngste Regisseur, dem dies gelang. Für Traffic (2000) erhielt er den Oscar für die beste Regie, während die Ocean's-Trilogie zu den erfolgreichsten Heist-Filmen aller Zeiten zählt. Soderbergh dreht oft unter Pseudonymen und gilt als technischer Pionier, der 2018 mit Unsane den ersten großen Kinofilm drehte, der komplett auf einem iPhone aufgenommen wurde. Nach einer angekündigten Pause 2013 kehrte er mit Produktionen wie Logan Lucky (2017) zurück und bleibt einer der vielseitigsten Filmemacher seiner Generation.
 
 ## Gesehene Filme (17)
 

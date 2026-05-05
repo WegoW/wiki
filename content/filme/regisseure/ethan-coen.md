@@ -7,7 +7,7 @@ average_rating: 6.75
 ---
 # Ethan Coen
 
-Die Brüder Joel David Coen und Ethan Jesse Coen, auch bekannt als die Coen-Brüder, sind oscarprämierte US-amerikanische Filmregisseure, Drehbuchautoren, Filmproduzenten und Filmeditoren..
+Ethan Jesse Coen (* 21. September 1957 in Minneapolis, Minnesota) ist der jüngere der Oscar-prämierten Coen-Brüder, die gemeinsam zu den eigenständigsten Stimmen des amerikanischen Kinos zählen. Zusammen mit seinem Bruder Joel schrieb, inszenierte und produzierte er Kultfilme wie „Fargo“ (1996), „The Big Lebowski“ (1998) und „No Country for Old Men“ (2007), das vier Oscars gewann, darunter die Preise für den besten Film und die beste Regie. Die Coen-Brüder sind bekannt für ihren unverwechselbaren Stil aus schwarzem Humor, neo-noirer Ästhetik und skurrilen, oft zum Scheitern verurteilten Figuren. Nach einer längeren Pause kehrte Ethan 2024 mit dem Soloprojekt „Drive-Away Dolls“ zurück, das er zusammen mit seiner Frau Tricia Cooke realisierte. Insgesamt wurden die Coen-Brüder mit mehreren Oscars, Golden Globes und der Goldenen Palme in Cannes ausgezeichnet.
 
 ## Gesehene Filme (20)
 

@@ -7,7 +7,7 @@ average_rating: 5.83
 ---
 # Joel Schumacher
 
-Joel Schumacher war ein US-amerikanischer Regisseur, Drehbuchautor und Produzent..
+Joel T. Schumacher (* 29. August 1939 in New York City; † 22. Juni 2020 ebenda) war ein US-amerikanischer Regisseur, Drehbuchautor und Produzent. Seine Karriere begann er als Kostümdesigner für Woody-Allen-Filme, bevor er mit dem Vampir-Horrorfilm *The Lost Boys* (1987), dem Psychothriller *Falling Down* (1993) und der John-Grisham-Adaption *Der Klient* (1994) große Erfolge feierte. Von Warner Bros. berufen, inszenierte er 1995 *Batman Forever* – ein kommerzieller Erfolg – sowie 1997 das berüchtigte *Batman & Robin*, das aufgrund seines überladenen Kitsches von Kritikern verrissen wurde und das Franchise fast ein Jahrzehnt lang beendete. In seinen späteren Jahren gelangen ihm mit dem Kriegsdrama *Tigerland* (2000) und dem Echtzeit-Thriller *Nicht auflegen!* (2002) wieder starke Filme. Schumacher, der offen homosexuell lebte, blieb bis zu seinem Tod im Alter von 80 Jahren dem Filmgeschäft treu und erhielt 2014 einen Preis für sein Lebenswerk.
 
 ## Gesehene Filme (12)
 

@@ -7,7 +7,7 @@ average_rating: 6.73
 ---
 # Sidney Lumet
 
-Sidney Lumet ['sɪdni luːˈmɛt] war ein US-amerikanischer Regisseur, Drehbuchautor und Schauspieler.
+Sidney Lumet (1924–2011) war ein US-amerikanischer Regisseur, Drehbuchautor und Schauspieler, der als einer der bedeutendsten New-Hollywood-Filmemacher gilt. Bereits als Kind stand er am Broadway, bevor er in den 1950er-Jahren zum Fernsehen wechselte und 1957 mit seinem Debütfilm Die zwölf Geschworenen (12 Angry Men) einen Klassiker des Kriminalgenres schuf. In den folgenden Jahrzehnten drehte er über 70 Filme, darunter Hundstage (1975) und Network (1976), die ihm mehrfache Oscar-Nominierungen einbrachten und bis heute als scharfe Gesellschaftsanalysen gelten. Seine Filme sind bekannt für ihr dichtes New Yorker Setting und ihren Fokus auf den Kampf eines Außenseiters gegen übermächtige Institutionen. 2005 wurde Lumet für sein Lebenswerk mit dem Ehrenoscar ausgezeichnet.
 
 ## Gesehene Filme (11)
 

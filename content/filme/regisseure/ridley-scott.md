@@ -7,7 +7,7 @@ average_rating: 6.77
 ---
 # Ridley Scott
 
-Sir Ridley Scott GBE ist ein britischer Filmregisseur und Filmproduzent. Er gilt heute als einer der renommiertesten und einflussreichsten Regisseure und hat die Erzählweisen mehrerer Filmgenres geprägt. Er wurde nie mit einem Oscar ausgezeichnet. Seine bekanntesten Filme sind Alien (1979), Blade Runner (1982), Thelma & Louise (1991), Gladiator (2000), Black Hawk Down (2001), Der Marsianer (2015) und Gladiator II (2024)..
+Sir Ridley Scott (* 30. November 1937 in South Shields, England) ist ein britischer Filmregisseur und Produzent, der für seine visuell beeindruckende Bildsprache und genreübergreifende Vielfalt bekannt ist. Nach einer erfolgreichen Karriere als Werbefilmer gab er 1977 mit *Die Duellisten* sein Spielfilmdebüt. Mit *Alien* (1979) und *Blade Runner* (1982) schuf er zwei Meilensteine des Science-Fiction-Kinos, die bis heute stilbildend sind. Für *Thelma &amp; Louise* (1991), *Gladiator* (2000) und *Black Hawk Down* (2001) erhielt er jeweils eine Oscar-Nominierung als bester Regisseur. Trotz über 30 Filmen – darunter *Der Marsianer* (2015) und *Gladiator II* (2024) – gewann er nie den Regie-Oscar, doch sein Werk macht ihn zu einem der beständigsten und einflussreichsten Filmemacher der Gegenwart.
 
 ## Gesehene Filme (26)
 

@@ -7,7 +7,7 @@ average_rating: 7.0
 ---
 # Seth MacFarlane
 
-Seth Woodbury MacFarlane ist ein US-amerikanischer Schauspieler, Synchronsprecher, Drehbuchautor, Komiker, Filmproduzent, Regisseur, Moderator und Sänger. Er ist der Schöpfer der Zeichentrick-Serien Family Guy, American Dad und The Cleveland Show sowie der Science-Fiction-Serie The Orville. Als Schauspieler hatte er mehrere Rollen in Film- und Fernsehproduktionen. Für seine Synchronisierung des Stewie Griffin erhielt er 2006 den Annie Award.
+Seth Woodbury MacFarlane (geboren am 26. Oktober 1973 in Kent, Connecticut) ist ein vielfach ausgezeichneter US-amerikanischer Animator, Schauspieler, Drehbuchautor, Produzent und Sänger. Mit nur 24 Jahren wurde er zum jüngsten Executive Producer im Fernsehen, als *Family Guy* 1999 Premiere feierte – die Serie entwickelte sich zu einer Milliardendollar-Franchise und brachte ihm zwei Primetime Emmys ein. Er ist zudem Co-Schöpfer von *American Dad!* und *The Cleveland Show* sowie Schöpfer und Hauptdarsteller der Science-Fiction-Serie *The Orville*. Als Filmregisseur gab er mit *Ted* (2012) sein Debüt, einer der erfolgreichsten Komödien des Jahres, und moderierte 2013 die Oscar-Verleihung. Neben seiner Fernsehkarriere ist MacFarlane ein leidenschaftlicher Sänger im Stil des Traditional Pop und Big Band Jazz und hat mehrere Studioalben veröffentlicht.
 
 ## Serien-Credits (2)
 

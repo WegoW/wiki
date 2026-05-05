@@ -7,7 +7,7 @@ average_rating: 7.1
 ---
 # Stanley Kubrick
 
-Stanley Kubrick war ein US-amerikanischer Filmregisseur, Filmproduzent und Drehbuchautor.. Er gilt als einer der bedeutendsten und einflussreichsten Filmemacher aller Zeiten.
+Stanley Kubrick (1928–1999) war ein US-amerikanischer Filmregisseur, Produzent und Drehbuchautor und gilt als einer der einflussreichsten Filmemacher des 20. Jahrhunderts. Nach einer Karriere als Fotograf bei der Zeitschrift Look drehte er zwischen 1953 und 1999 nur 13 Spielfilme, die jedoch allesamt als Meisterwerke ihrer Genres gelten – von der Anti-Kriegssatire Dr. Seltsam (1964) über den bahnbrechenden Science-Fiction-Film 2001: Odyssee im Weltraum (1968) bis zum Horror-Meisterwerk Shining (1980). Sein unverwechselbarer Stil zeichnet sich durch akribische Perfektion, innovative Kameratechnik und tiefgründige, oft düstere Themen aus. Er verließ das Hollywood-Studiosystem nach Spartacus (1960) und drehte fortan von England aus, wo er die vollständige kreative Kontrolle behielt. Seine Werke wurden insgesamt 27-mal für den Oscar nominiert, und 2022 kürten Regisseure weltweit 2001: Odyssee im Weltraum zum besten Film aller Zeiten.
 
 ## Gesehene Filme (10)
 

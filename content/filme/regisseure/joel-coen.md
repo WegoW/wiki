@@ -7,7 +7,7 @@ average_rating: 6.83
 ---
 # Joel Coen
 
-Die Brüder Joel David Coen und Ethan Jesse Coen, auch bekannt als die Coen-Brüder, sind oscarprämierte US-amerikanische Filmregisseure, Drehbuchautoren, Filmproduzenten und Filmeditoren..
+Joel Daniel Coen (* 29. November 1954 in St. Louis Park, Minnesota) ist ein US-amerikanischer Filmregisseur, Drehbuchautor und Produzent, der gemeinsam mit seinem Bruder Ethan als die Coen-Brüder bekannt wurde. Das Duo debütierte 1984 mit dem Neo-Noir *Blood Simple* und gewann 1996 mit *Fargo* den Oscar für das beste Originaldrehbuch. Ihr bislang größter Erfolg war *No Country for Old Men* (2007), der vier Oscars gewann, darunter Bester Film und Beste Regie. Der unverwechselbare Stil der Coens vereint schwarzen Humor, skurrile Figuren und kunstvolle Dialoge, von Kultklassikern wie *The Big Lebowski* (1998) bis zu Western wie *True Grit* (2010). Nach der kreativen Trennung von Ethan inszenierte Joel 2021 sein erstes Soloprojekt, die Shakespeare-Adaption *The Tragedy of Macbeth*, die für drei Oscars nominiert wurde.
 
 ## Gesehene Filme (18)
 

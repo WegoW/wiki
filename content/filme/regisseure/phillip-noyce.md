@@ -7,7 +7,7 @@ average_rating: 6.55
 ---
 # Phillip Noyce
 
-Phillip Noyce ist ein australischer Regisseur..
+Phillip Roger Noyce (* 29. April 1950 in Griffith, New South Wales) ist ein australischer Film- und Fernsehregisseur sowie Produzent. Sein internationaler Durchbruch gelang ihm mit dem packenden Seefahrerthriller *Todesstille* (1989) mit Sam Neill und Nicole Kidman. In den 1990er-Jahren etablierte er sich in Hollywood mit den Jack-Ryan-Adaptionen *Die Stunde der Patrioten* (1992) und *Das Kartell* (1994) sowie dem Thriller *Der Knochenjäger* (1999). Für seine einfühlsame Inszenierung von *Der stille Amerikaner* (2002) mit Michael Caine erhielt er zahlreiche Auszeichnungen, darunter den National Board of Review Award für die Beste Regie. Noyce gilt als vielseitiger Handwerker, der sowohl intime Dramen als auch große Thriller souverän beherrscht.
 
 ## Gesehene Filme (11)
 

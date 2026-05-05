@@ -7,7 +7,7 @@ average_rating: 9.5
 ---
 # Vince Gilligan
 
-George Vincent „Vince“ Gilligan junior ist ein US-amerikanischer Drehbuchautor, Fernsehproduzent und Regisseur. Bekannt wurde durch seine Arbeit an der Fernsehserie Akte X – Die unheimlichen Fälle des FBI und als Showrunner der vielfach ausgezeichneten Fernsehserie Breaking Bad (2008–2013) und deren Spin-off Better Call Saul (2015–2022)..
+George Vincent „Vince“ Gilligan Jr. (geboren am 10. Februar 1967 in Richmond, Virginia) ist ein vielfach ausgezeichneter US-amerikanischer Drehbuchautor, Produzent und Regisseur. Nach seinem Einstieg als Drehbuchautor bei *Akte X – Die unheimlichen Fälle des FBI* schuf er mit *Breaking Bad* (2008–2013) eine der gefeiertsten Dramaserien aller Zeiten, die mit vier Emmys ausgezeichnet wurde und den Wandel eines Chemielehrers zum Drogenbaron erzählt. Zusammen mit Peter Gould entwickelte er das Spin-off *Better Call Saul* (2015–2022), das ebenso hohe Kritikerlob erntete. 2019 schrieb und inszenierte er den *Breaking-Bad*-Abschlussfilm *El Camino*, und 2025 launchte er mit *Pluribus* (Apple TV+) seine erste Science-Fiction-Serie. Gilligan gilt als Meister des langsamen Spannungsaufbaus und der moralischen Komplexität – sein Motto „Mr. Chips wird zu Scarface“ wurde legendär.
 
 ## Serien-Credits (2)
 
