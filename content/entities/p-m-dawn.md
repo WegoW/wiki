@@ -10,7 +10,7 @@ confidence: medium
 
 # P.M. Dawn
 
-US-amerikanisches Hip-Hop-Duo aus New Jersey. Brüder Attrell Cordes (Prince Be) und Jarrett Cordes (DJ Minutemix). Bekannt für den Hit *Set Adrift on Memory Bliss* (1991).
+P.M. Dawn war ein US-amerikanisches Hip-Hop-Duo aus New Jersey, bestehend aus den Brüdern Attrell „Prince Be" Cordes und Jarrett „DJ Minutemix" Cordes. Ihr Stil verband Hip-Hop mit eingängigen Pop-Melodien, psychedelischen Elementen und atmosphärischen Samples, was sie deutlich von der damaligen Rap-Szene abhob. Mit ihrer Debütsingle *Set Adrift on Memory Bliss* (1991), die auf einem Sample von Spandau Ballets *True* basierte, erreichten sie als erster schwarzer Rap-Act die Spitze der Billboard Hot 100. Ihr Debütalbum *Of the Heart, of the Soul and of the Cross: The Utopian Experience* erreichte Goldstatus, und sie veröffentlichten bis 2002 insgesamt fünf Studioalben. Trotz ihres Einflusses auf den alternativen Hip-Hop blieben P.M. Dawn oft unterschätzt — *Set Adrift on Memory Bliss* gilt jedoch bis heute als zeitloser Klassiker.
 
 ## Gesehenes Konzert
 

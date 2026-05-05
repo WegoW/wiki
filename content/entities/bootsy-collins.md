@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Bootsy Collins
 
-US-amerikanischer Bassist, Sänger und Funk-Musiker. Mitglied von James Browns Band und Parliament-Funkadelic, bekannt für seinen extravaganten Stil und Space-Bass-Sound.
+US-amerikanischer Bassist, Sänger und Funk-Musiker. Er begann seine Karriere als Teenager in James Browns Begleitband The J.B.'s, bevor er Mitte der 1970er zur legendären Parliament-Funkadelic-Crew um George Clinton stieß. Mit seiner Band Bootsy's Rubber Band landete er Hits wie *Bootzilla* und wurde für seinen psychedelischen Space-Bass-Sound sowie seine extravaganten Bühnenoutfits und Alter Egos berühmt. Als gefragter Gastmusiker wirkte er unter anderem auf Fatboy Slims Grammy-prämiertem *Weapon of Choice* und Deee-Lites *Groove Is in the Heart* mit. 1997 wurde er in die Rock and Roll Hall of Fame aufgenommen, und das Rolling-Stone-Magazin kürte ihn 2020 zum viertbesten Bassisten aller Zeiten.
 
 ## Gesehene Konzerte
 

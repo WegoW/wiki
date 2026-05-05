@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Macy Gray
 
-US-amerikanische R&B-/Soul-Sängerin und Songwriterin. Bekannt durch ihren Hit *I Try* (1999) und ihre unverwechselbare raue Stimme.
+Macy Gray (* 6. September 1967 als Natalie Renée McIntyre in Canton, Ohio) ist eine US-amerikanische R&B- und Soul-Sängerin mit einer unverwechselbar rauen Stimme. Ihren internationalen Durchbruch feierte sie 1999 mit dem Album *On How Life Is* und der Hit-Single *I Try*, für die sie 2001 einen Grammy in der Kategorie 'Best Female Pop Vocal Performance' gewann. Das Album verkaufte sich weltweit über drei Millionen Mal und etablierte sie als eine der markantesten Soulstimmen ihrer Generation. Neben der Musik ist Gray auch als Schauspielerin aktiv und trat in Filmen wie *Training Day* (2001) und *Spider-Man* (2002) auf. Mit Alben wie *The Id* (2001), *Big* (2007) und *Stripped* (2016) hat sie ihre musikalische Vielseitigkeit zwischen Soul, Funk und Rock unter Beweis gestellt.
 
 ## Gesehenes Konzert
 

@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # The Blow Monkeys
 
-Britische Pop-/Soulband um Dr. Robert (bürgerl. Bruce Woolley). Bekannt für den Hit *Digging Your Scene* (1986).
+Britische Pop- und Sophisti-Pop-Band um Dr. Robert (bürgerl. Bruce Robert Howard, *1961 in Schottland), gegründet 1981 in London. International bekannt wurden sie 1986 mit dem Hit "Digging Your Scene", der sich kritisch mit der AIDS-Krise auseinandersetzte und in Großbritannien und den USA die Charts stürmte. Die Band veröffentlichte in den 80ern fünf Studioalben, darunter das politisch pointierte She Was Only a Grocer's Daughter (1987), eine Abrechnung mit Margaret Thatcher, und das erfolgreichste Album Whoops! There Goes the Neighbourhood (1989). Nach der Auflösung 1990 feierte die Band 2007 ein erfolgreiches Comeback und veröffentlicht seither kontinuierlich neue Alben, zuletzt Together/Alone (2024). The Blow Monkeys bleiben für ihren stilvollen Mix aus Pop, Soul und politischem Bewusstsein bekannt.
 
 ## Gesehenes Konzert
 

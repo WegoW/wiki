@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Triband
 
-Band, die als Vorgruppe bei Joss Stone im Rahmen der Jazz Open Stuttgart auftrat. Nähere Informationen zur Band nicht bekannt.
+Triband war ein 2005 gegründetes Berliner Jazz-Quartett, bestehend aus Sängerin Sandie Wollasch, Schlagzeuger Tommy Baldu, dem Trompeter und Keyboarder Sebastian Studnitzky sowie Bassist Michael Paucker. Die Band verband Jazz mit Pop und elektronischer Musik zu einem eigenständigen Sound und veröffentlichte drei Alben: *No Sleep* (2005), *Trip* (2007) und das in Reykjavík aufgenommene *So Together* (2009). 2007 erhielt Triband den renommierten Musikpreis des Verbandes der Deutschen Konzertdirektionen für ihre „originellen, interessanten Arrangements zwischen Jazz, Pop und Dance". Im Sommer 2007 trat die Band als Vorgruppe von Joss Stone bei den BW-Bank Jazz Open Stuttgart auf dem Pariser Platz auf. Nach sieben Jahren und drei Alben löste sich Triband 2012 auf; Sängerin Sandie Wollasch startete anschließend eine erfolgreiche Solokarriere unter anderem mit der SWR Big Band.
 
 ## Gesehenes Konzert
 

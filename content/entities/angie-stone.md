@@ -12,7 +12,7 @@ sources:
 
 # Angie Stone
 
-**Angela Laverne Stone** (* 18. Dezember 1961 in Columbia, South Carolina; † 1. März 2025 in Montgomery, Alabama) war eine US-amerikanische R&B- und Soul-Sängerin, Songwriterin, Rapperin und Schauspielerin.
+**Angela Laverne Stone** (* 18. Dezember 1961 in Columbia, South Carolina; † 1. März 2025 in Montgomery, Alabama) war eine US-amerikanische R&B- und Soul-Sängerin, Songwriterin, Rapperin und Schauspielerin. Sie begann ihre Karriere als Mitglied des Hip-Hop-Trios Sequence, der ersten weiblichen Rap-Gruppe, die 1979 auf dem Label Sugar Hill Records veröffentlichte. Ihr Solo-Debüt *Black Diamond* (1999) etablierte sie als feste Größe des Neo-Soul, das Nachfolgealbum *Mahogany Soul* (2001) enthielt den Hit *Wish I Didn't Miss You* und erreichte Gold-Status in den USA. Als Schauspielerin war sie in Filmen wie *The Hot Chick* und *The Fighting Temptations* zu sehen, und sie wirkte an mehreren Soundtracks mit. Stone starb 2025 bei einem Autounfall auf dem Highway in Alabama und hinterließ ein Vermächtnis als eine der prägendsten Stimmen des zeitgenössischen R&B.
 
 ## Gesehenes Konzert
 

@@ -10,7 +10,7 @@ sources: [raw/personal/concert-list-2026.md]
 
 # SoulBeAround
 
-Soul/Funk-Band aus Stuttgart mit drei Leadvocals (zwei Sängerinnen und ein Sänger), mehrstimmigen Chören und funky Grooves. Das abwechslungsreiche Programm umfasst Soul, Funk, Pop und Rock.
+SoulBeAround ist eine Soul/Funk-Band aus Stuttgart, die mit drei Leadvocals (zwei Sängerinnen und ein Sänger), mehrstimmigen Chören und funky Grooves begeistert. Das abwechslungsreiche Programm der Band umfasst Soul, Funk, Pop und Rock und macht sie zu einer festen Größe der Stuttgarter Livemusik-Szene. Mit energiegeladenen Bühnenshows und einem Sound zwischen klassischem Funk der 1970er Jahre und modernem Soul sorgen sie für tanzbare Partystimmung auf jedem Event. Die Band trat unter anderem im Rahmen der Veranstaltung "Lange Ostnacht" im Kulturwerk Stuttgart auf. Ihr Motto: gute Laune und mitreißende Grooves garantieren ein unvergessliches Live-Erlebnis.
 
 ## Gesehenes Konzert
 

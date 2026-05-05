@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Leningrad Cowboys
 
-Finnische Rockband, bekannt für ihre übertriebenen Pompadour-Frisuren, spitze Cowboystiefel und irrwitzigen Interpretationen westlicher Klassiker.
+Die Leningrad Cowboys sind eine 1986 gegründete finnische Rockband, die durch ihren skurrilen Stil mit überlangen Pompadour-Frisuren, spitz zulaufenden Cowboystiefeln und nasenschildförmigen Schuhen weltweit Kultstatus erlangte. Berühmt wurden sie durch ihre Zusammenarbeit mit dem finnischen Filmregisseur Aki Kaurismäki, der ihnen mit dem Spielfilm *Leningrad Cowboys Go America* (1989) ein filmisches Denkmal setzte. Ein weiterer Meilenstein war ihre legendäre Tournee mit dem Roten Armee Chor Anfang der 1990er Jahre, die Rock und russische Folklore auf einzigartige Weise verband. Die Band veröffentlichte zahlreiche Alben und ist bekannt für humorvolle Coverversionen westlicher Klassiker, die sie mit ironischem Augenzwinkern interpretiert. Trotz ihres skurrilen Auftretens sind die Leningrad Cowboys ernstzunehmende Musiker, die bis heute aktiv sind und live eine unvergessliche Bühnenshow bieten.
 
 ## Gesehenes Konzert
 

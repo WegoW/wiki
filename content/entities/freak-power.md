@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Freak Power
 
-Britische Funk-/Acid-Jazz-Band um Norman Cook (später Fatboy Slim). Veröffentlichten 1994 den Hit *Turn On, Tune In, Cop Out*.
+Freak Power (oft als Freakpower geschrieben) war eine britische Funk-/Acid-Jazz-Band, die in den frühen 1990er Jahren von Norman Cook (der später als Fatboy Slim weltberühmt wurde) und dem Posaunisten/Sänger Ashley Slater gegründet wurde. Ihr Sound ist eine energiegeladene Mischung aus Acid Jazz, Funk, Soul und Trip-Hop, die perfekt die Clubkultur der 90er einfing. Größter Erfolg der Band war die Single *Turn On, Tune In, Cop Out* (1994), die die Charts eroberte und zur Hymne der britischen Acid-Jazz-Szene wurde. 1995 folgte das Album *Drive-By Boogie*, das den Sound der Band weiter festigte. Nach zwei Alben trennte sich Norman Cook, um sich auf sein Soloprojekt Fatboy Slim zu konzentrieren – Freak Power bleibt ein kultiges Nebenprojekt in seiner beeindruckenden Karriere.
 
 ## Gesehene Konzerte
 

@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Amp Fiddler
 
-US-amerikanischer Funk- und Soul-Musiker, Sänger und Produzent. Mitglied bei Parliament-Funkadelic und Mentor für Künstler wie J Dilla.
+Amp Fiddler (eigentlich Joseph „Amp" Fiddler, * in Detroit; † 17. Dezember 2023) war ein US-amerikanischer Funk- und Soul-Musiker, Sänger, Keyboarder und Produzent, der über ein Jahrzehnt lang Mitglied der legendären Parliament-Funkadelic-Crew um George Clinton war. Der gebürtige Detroiter galt als eine der zentralen Figuren der dortigen Funk-, Soul- und Electronic-Szene und war bekannt für seinen vielseitigen Stil, der Elemente aus Funk, Soul, House und Hip-Hop verband. Als Mentor des früh verstorbenen Produzenten J Dilla spielte er eine entscheidende Rolle in dessen Karriere, indem er ihn mit Q-Tip von A Tribe Called Quest bekannt machte. Er arbeitete im Laufe seiner Karriere mit zahlreichen Größen zusammen, darunter Prince, Maxwell und Moodymann. Fiddler verstarb 2023 im Alter von 65 Jahren an den Folgen einer Krebserkrankung und hinterließ ein vielschichtiges musikalisches Erbe.
 
 ## Gesehenes Konzert
 

@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Candy Dulfer
 
-Niederländische Saxophonistin und Sängerin. Bekannt durch Hits wie *Lily Was Here* (mit David A. Stewart) und jahrelange Zusammenarbeit mit Prince.
+Niederländische Saxophonistin und Sängerin des Jazz, Funk und Soul. Bereits mit 14 Jahren gründete sie ihre eigene Band Funky Stuff und erlangte internationale Bekanntheit durch die Zusammenarbeit mit Madonna, Prince und Dave Stewart, mit dem sie den weltweiten Hit *Lily Was Here* aufnahm. Ihr Debütalbum *Saxuality* (1990) wurde für einen Grammy nominiert. Prince holte sie für sein *Partyman*-Video vor die Kamera und später als festes Mitglied seiner NPG Band auf der Musicology-Tournee. Mit über 35 Jahren Bühnenkarriere, zahlreichen Soloalben und Auftritten mit Größen wie Pink Floyd, Van Morrison und Aretha Franklin zählt sie zu den erfolgreichsten Saxophonistinnen Europas.
 
 ## Gesehene Konzerte
 

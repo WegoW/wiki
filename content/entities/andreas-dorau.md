@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Andreas Dorau
 
-Deutscher Musiker, Sänger und Produzent. Bekannt für den NDW-Hit *Fred vom Jupiter* und Mitglied der Band Die Doraus & Die Marinas.
+Andreas Dorau (* 19. Januar 1964 in Hamburg) ist ein deutscher Musiker, Sänger und Produzent, der vor allem durch den NDW-Hit *Fred vom Jupiter* (1981) bekannt wurde, den er im Alter von 15 Jahren als Schulprojekt schrieb und mit dem Kinderchor Die Marinas aufnahm. Das dazugehörige Album *Blumen und Narzissen* gilt als eines der wichtigsten Werke der Neuen Deutschen Welle und zeigt Doraus unverwechselbaren, skurril-minimalistischen Stil. 1997 landete er mit dem Grungerman-Remix von *Girls in Love* überraschend einen Top-10-Hit in Frankreich. Parallel zu seiner Musikkarriere studierte er Film an der Hochschule für Fernsehen und Film in München und arbeitete als Filmmusikkomponist sowie als Video-Berater für Künstler wie Mousse T. und Xavier Naidoo. Dorau lebt in Hamburg und veröffentlicht bis heute regelmäßig Alben, zuletzt 2025 das Werk *Wien*.
 
 ## Gesehenes Konzert
 

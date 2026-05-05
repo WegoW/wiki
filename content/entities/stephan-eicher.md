@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Stephan Eicher
 
-Schweizer Musiker und Sänger. International bekannt durch Hits wie *Hemmige* und sein Album *Engelberg*.
+Stephan Eicher (*1960 in Münchenbuchsee bei Bern) ist ein Schweizer Musiker und Sänger, der in mehreren Sprachen singt – darunter Französisch, Deutsch, Englisch, Italienisch und Berndeutsch. International bekannt wurde er durch seinen Hit "Hemmige" und das Album *Engelberg* (1991), das ihm in Deutschland und der Schweiz hohe Chartplatzierungen bescherte. Sein Stil vereint französischen Chanson mit Rock- und Popsounds, was ihm besonders im deutsch- und französischsprachigen Raum eine treue Fangemeinde einbrachte. In den 1980er Jahren begann er seine Karriere bei der Schweizer Band Grauzone, bevor er sich als Solokünstler etablierte. Mit einer über 40-jährigen Karriere und zahlreichen Alben zählt Stephan Eicher zu den erfolgreichsten und beständigsten Schweizer Musikern.
 
 ## Gesehenes Konzert
 

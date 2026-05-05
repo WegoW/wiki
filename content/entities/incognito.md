@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Incognito
 
-Britische Acid-Jazz-Band um Jean-Paul "Bluey" Maunick. Seit 1979 aktiv, bekannt für Hits wie *Always There*, *Don't You Worry 'Bout a Thing* und *Still a Friend of Mine*.
+Incognito ist eine britische Acid-Jazz-Band aus London, die 1979 von Jean-Paul "Bluey" Maunick und Paul "Tubbs" Williams als Ableger der Band Light of the World gegründet wurde. Den internationalen Durchbruch schaffte die Band 1991 mit dem Hit *Always There* (UK #6) featuring Jocelyn Brown, gefolgt vom Stevie-Wonder-Cover *Don't You Worry 'Bout a Thing* (UK #19) im Jahr 1992. Ihr Stil verbindet Jazz, Funk, Soul und House und machte sie zu einem Aushängeschild der Acid-Jazz-Bewegung der 1990er Jahre. Mit einem ständig wechselnden Line-up an herausragenden Sängerinnen und Sängern – darunter Maysa Leak, Carleen Anderson und Tony Momrelle – hat die Band über 15 Studioalben veröffentlicht. Bis heute ist Bluey Maunick das kreative Herz der Band, die auch im 21. Jahrhundert regelmäßig tourt und neue Musik veröffentlicht.
 
 ## Gesehenes Konzert
 

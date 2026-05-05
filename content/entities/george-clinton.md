@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # George Clinton
 
-US-amerikanischer Musiker und Produzent, Godfather of P-Funk. Mastermind von Parliament und Funkadelic.
+George Clinton (geb. 1941 in Kannapolis, North Carolina) ist ein US-amerikanischer Musiker, Produzent und Songwriter, der als „Godfather of P-Funk" die Funk-Musik entscheidend geprägt hat. Mit seinem ausufernden Kollektiv Parliament-Funkadelic (P-Funk) schuf er in den 1970er Jahren eine genreübergreifende, psychedelische Klangwelt aus Funk, Soul, Rock und Gospel, begleitet von surrealen Bühnenoutfits und extravaganten Live-Shows. Parliament-Funkadelic landete über 40 R&B-Hit-Singles und drei Platin-Alben, darunter Klassiker wie *Flash Light*, *One Nation Under a Groove* und *Give Up the Funk (Tear the Roof off the Sucker)*. Clinton wurde 1997 gemeinsam mit 15 weiteren Mitgliedern des P-Funk-Kollektivs in die Rock and Roll Hall of Fame aufgenommen. Sein Einfluss reicht weit über den Funk hinaus und ist bei Künstlern von Dr. Dre und Snoop Dogg bis zu Prince und den Red Hot Chili Peppers deutlich hörbar.
 
 ## Gesehene Konzerte
 

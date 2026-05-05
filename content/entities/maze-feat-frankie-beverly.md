@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Maze feat. Frankie Beverly
 
-US-amerikanische Soul-/Funk-Band aus San Francisco, angeführt von Frankie Beverly. Bekannt für Hits wie *Before I Let Go*, *Joy and Pain* und *Golden Time of Day*. Kultstatus besonders in der afroamerikanischen Community.
+Maze ist eine US-amerikanische Soul- und Funk-Band aus San Francisco, angeführt von Frankie Beverly. Gegründet wurde die Band ursprünglich als Raw Soul in Philadelphia, bevor sie auf Anraten von Marvin Gaye 1976 den Namen Maze annahm und bei Capitol Records unter Vertrag kam. Mit ihrem selbstbetitelten Debütalbum *Maze featuring Frankie Beverly* (1977) landeten sie auf Anhieb in den Charts und veröffentlichten bis 1993 insgesamt acht Studioalben. Zu ihren größten Erfolgen zählen die Nummer-eins-R&B-Alben *Can't Stop the Love* (1985) und *Silky Soul* (1989) sowie zeitlose Hits wie *Before I Let Go*, *Joy and Pain*, *Golden Time of Day* und *Back in Stride*. Maze genießt bis heute Kultstatus, besonders in der afroamerikanischen Community — Frankie Beverly verstarb am 10. September 2024 im Alter von 77 Jahren.
 
 ## Gesehenes Konzert
 

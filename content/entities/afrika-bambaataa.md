@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Afrika Bambaataa
 
-US-amerikanischer DJ und Musikproduzent, einer der Pioniere des Hip-Hop. Begründer der Zulu Nation.
+Afrika Bambaataa (eigentlich Lance Taylor, * 17. April 1957 in Bronx, New York; † 9. April 2026 in Pennsylvania) war ein US-amerikanischer DJ und Musikproduzent und gilt neben DJ Kool Herc und Grandmaster Flash als einer der drei „Godfathers" des Hip-Hop. In den frühen 1970er Jahren gründete er die Universal Zulu Nation, eine musikbasierte Jugendorganisation, die aus der Streetgang Black Spades hervorging und maßgeblich zur gewaltfreien Verbreitung der Hip-Hop-Kultur beitrug. Mit seinem Song *Planet Rock* (1982), aufgenommen mit Soulsonic Force, schuf er einen wegweisenden Electro-Funk-Sound, der die Entwicklung der elektronischen Tanzmusik nachhaltig beeinflusste. Die Cornell University erwarb 2013 seine Sammlung von über 30.000 Schallplatten, CDs und Kassetten als Teil der Cornell Hip Hop Collection. Seine Karriere war jedoch in späteren Jahren von schweren Missbrauchsvorwürfen überschattet, die sein Vermächtnis nachhaltig belasteten.
 
 ## Gesehenes Konzert
 

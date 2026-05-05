@@ -10,7 +10,7 @@ confidence: medium
 
 # Larry Graham & Graham Central Station
 
-US-amerikanischer Bassist und Sänger. Als Mitglied von **Sly & The Family Stone** und Gründer von **Graham Central Station** gilt er als Erfinder des Slap-Bass. Enger Freund von Prince, der in den späten 1990ern mit ihm zusammenarbeitete.
+Larry Graham Jr. (* 14. August 1946 in Beaumont, Texas) ist ein US-amerikanischer Bassist und Sänger, der als Mitglied von Sly & The Family Stone und Gründer von Graham Central Station Bassgeschichte schrieb — ihm wird die Erfindung der Slap-Bass-Technik („Thumpin' and Pluckin'“) zugeschrieben. Mit Sly & The Family Stone feierte er in den späten 1960ern Hits wie *Dance to the Music* und *Everyday People* und wurde 1993 in die Rock and Roll Hall of Fame aufgenommen. Seine eigene Band Graham Central Station landete in den 1970ern mit funkigen Hits wie *Can You Handle It?* und *Your Love* in den Charts, während seine Solokarriere mit der Ballade *One in a Million You* (1980) einen Top-10-Pophit hervorbrachte. Er war eng mit Prince befreundet, tourte in den späten 1990ern als dessen Bassist und führte ihn zu den Zeugen Jehovas. Das Magazin *Rolling Stone* setzte ihn 2020 auf Platz 7 der 50 größten Bassisten aller Zeiten.
 
 ## Gesehenes Konzert
 

@@ -10,9 +10,7 @@ confidence: medium
 
 # The Wright Thing
 
-**The Wright Thing** war eine Band aus Stuttgart, angeführt von Bandleader **Jason Wright**. Von 1997 bis 2003 hatte die Band eine feste Residency im Stuttgarter Club **ZAP** — mit wöchentlichen Auftritten jeden **Donnerstagabend**.
-
-Die Shows waren bekannt für ihre mitreißende Mischung aus **Soul, Funk, R'n'B und Pop**. Die Band war eine feste Institution im ZAP und zog über Jahre hinweg ein treues Stammpublikum an.
+**The Wright Thing** war eine Band aus Stuttgart, angeführt von Bandleader **Jason Wright**. Von 1997 bis 2003 hatte die Band eine feste Residency im Stuttgarter Club **ZAP** — mit wöchentlichen Auftritten jeden **Donnerstagabend**. Die Shows waren bekannt für ihre mitreißende Mischung aus **Soul, Funk, R'n'B und Pop** und zogen über Jahre hinweg ein treues Stammpublikum an. Mit ihrer langjährigen Club-Residency schuf die Band einen einzigartigen Live-Treffpunkt in der Stuttgarter Nachtlandschaft, der weit über die Stadtgrenzen hinaus Beachtung fand. Unterstützt durch die Berichterstattung der Allgemeinen Hotel- und Gastronomie-Zeitung (ahgz) bleibt die Geschichte der Band als Stuttgarter Soul-Institution lebendig.
 
 ## Gesehene Konzerte
 

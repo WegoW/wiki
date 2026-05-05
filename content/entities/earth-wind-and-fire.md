@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Earth, Wind & Fire
 
-US-amerikanische Funk- und Soul-Band, eine der erfolgreichsten und einflussreichsten Bands aller Zeiten. Hits wie *September*, *Boogie Wonderland* und *Let's Groove*.
+Earth, Wind & Fire ist eine US-amerikanische Funk- und Soul-Band, die 1969 von Maurice White in Chicago gegründet wurde und als eine der erfolgreichsten und einflussreichsten Bands aller Zeiten gilt. Ihr unverwechselbarer Sound verbindet Elemente aus Funk, Soul, Jazz, R&B, Rock und afrikanischer Musik – ergänzt durch eine spektakuläre Bühnenshow mit Bläsersektion, Percussion und choreografierten Auftritten. Die Band landete zahlreiche zeitlose Hits wie *September*, *Boogie Wonderland*, *Let's Groove*, *Shining Star* und *Fantasy*, die bis heute in Filmen, Werbung und Clubs weltweit präsent sind. Earth, Wind & Fire gewannen sechs Grammy Awards und wurden 2000 in die Rock and Roll Hall of Fame aufgenommen. Ihr Album *That's the Way of the World* (1975) gilt als funkiges Meisterwerk und zählt zu den wichtigsten Alben der 1970er Jahre.
 
 ## Gesehenes Konzert
 

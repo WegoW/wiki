@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Ziggy Marley
 
-Jamaikanischer Reggae-Musiker und Sänger. Ältester Sohn von Bob Marley. Mehrfacher Grammy-Gewinner.
+Ziggy Marley (*1968 in Kingston) ist ein jamaikanischer Reggae-Musiker und der älteste Sohn von Bob Marley, der bereits als Zehnjähriger mit den Wailers im Studio aufnahm. Mit seinen Geschwistern gründete er 1979 die Band Ziggy Marley and the Melody Makers, die mit *Conscious Party* (1988) den weltweiten Durchbruch schaffte und drei Grammys gewann. Seit 2003 ist er solo unterwegs und veröffentlicht auf seinem eigenen Label Tuff Gong Worldwide – fünf weitere Grammy-prämierte Alben inklusive, darunter *Love Is My Religion* (2006) und *Fly Rasta* (2014). Mit insgesamt acht Grammys und einem Daytime Emmy ist er einer der erfolgreichsten Reggae-Künstler der Welt, der sich längst ein eigenständiges musikalisches Erbe aufgebaut hat. Neben der Musik engagiert sich der siebenfache Vater über seine U.R.G.E. Foundation für Bildungs-, Gesundheits- und Umweltprojekte in Jamaika, Afrika und Nordamerika.
 
 ## Gesehene Konzerte
 

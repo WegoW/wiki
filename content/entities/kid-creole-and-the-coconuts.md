@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Kid Creole & The Coconuts
 
-US-amerikanische Multikulti-Band um August Darnell. Ihr Sound vereint Salsa, Calypso, Funk und Bigband-Jazz — immer mit einer Prise Show und Humor.
+Kid Creole & The Coconuts sind eine US-amerikanische Multikulti-Band um Frontmann August Darnell (* 12. August 1950 in der Bronx, New York), die 1980 aus der früheren Band Dr. Buzzard's Original Savannah Band hervorging. Ihr eklektischer Sound vereint Salsa, Calypso, Funk, Disco und Cab-Calloway-artigen Bigband-Jazz, garniert mit schrillen Zoot-Suits, aufwendiger Choreografie und einer gehörigen Prise Show und Humor. Der Durchbruch gelang 1982 mit dem Album *Tropical Gangsters* (in den USA *Wise Guy*), das in Großbritannien Platz 3 erreichte und die Hitsingles *Stool Pigeon*, *Annie, I'm Not Your Daddy* und *I'm a Wonderful Thing, Baby* hervorbrachte. 1983 gewann die Band den Brit Award als International Artist, und die Coconuts sangen im selben Jahr auf U2s Album *War*. Bis heute tourt Darnell mit wechselnden Besetzungen und veröffentlicht gelegentlich neue Musik, zuletzt das Album *Nothin' Left but the Rest* (2021).
 
 ## Gesehene Konzerte
 

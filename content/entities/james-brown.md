@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # James Brown
 
-US-amerikanischer Musiker, Godfather of Soul. Einer der einflussreichsten Künstler des 20. Jahrhunderts.
+James Brown (1933–2006) war ein US-amerikanischer Sänger, Songwriter, Bandleader und Tänzer, der als "Godfather of Soul" und Wegbereiter des Funk in die Musikgeschichte einging. Mit Hits wie *Papa's Got a Brand New Bag*, *I Got You (I Feel Good)* und *Cold Sweat* – letzteres gilt als erster Funk-Song – revolutionierte er die populäre Musik. Seine kraftvollen, fast athletischen Live-Auftritte mit der berühmten Cape-Routine und seiner perfekt gedrillten Band waren legendär; auf dem Höhepunkt seiner Karriere absolvierte er über 350 Shows pro Jahr. Brown war auch politisch aktiv – sein Song *Say It Loud – I'm Black and I'm Proud* (1968) wurde zur Bürgerrechtshymne. Er ist der meistgesampelte Künstler aller Zeiten, wurde 1986 als einer der ersten Künstler in die Rock and Roll Hall of Fame aufgenommen und belegt Platz 7 der *Rolling-Stone*-Liste der 100 größten Künstler.
 
 ## Gesehene Konzerte
 

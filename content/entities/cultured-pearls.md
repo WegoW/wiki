@@ -10,7 +10,7 @@ confidence: medium
 
 # Cultured Pearls
 
-Deutsche Band, die als Special Guest/Vorband bei Jazzkantine aufgetreten ist.
+Deutsche Soul-Pop-Band aus Hamburg, die 1991 von B. La (Schlagzeug) und Tex Super (Bass, Keyboards) gegründet wurde. Mit der charismatischen Sängerin Astrid North (1973–2019) an der Spitze entwickelte die Band einen unverwechselbaren Mix aus Soul, Funk, Rock und Jazz. Ihr Durchbruch gelang 1995 mit der Hitsingle *Tic Toc*, gefolgt von den Alben *Spaceage Honeymoon* (1997) und *Liquefied Days* (1999). Die Band war für ihren entspannten, soulig-geschmeidigen Sound bekannt und tourte ausgiebig durch Deutschland. Nach mehreren Alben und der Best-Of-Veröffentlichung *Pearls of a Decade* (2003) löste sich die Band auf; Astrid North startete eine Solokarriere und arbeitete zudem als Dozentin und Yoga-Lehrerin.
 
 ## Gesehenes Konzert
 

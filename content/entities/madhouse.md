@@ -10,7 +10,7 @@ confidence: medium
 
 # Madhouse
 
-Prince' instrumentales Jazz-/Funk-Side-Project. Madhouse veröffentlichte zwischen 1987 und 1990 mehrere Alben und trat als Support/Teil von Prince' Shows auf. Die Band bestand aus Mitgliedern von Prince' damaliger Live-Band.
+Madhouse war das instrumentale Jazz-Funk-Side-Projekt von Prince, das er 1986 nach der Auflösung von The Revolution ins Leben rief. Im Zentrum des Projekts stand der Saxophonist Eric Leeds, während Prince selbst unter Pseudonymen wie *Austra Chanel* die meisten Instrumente einspielte. Zwischen 1987 und 1990 veröffentlichte Madhouse zwei vollinstrumentale Studioalben, *8* (1987) und *16* (1988), deren Tracks schlicht nummeriert waren — ein ungewöhnliches Konzept, das Prince' experimentelle Seite jenseits seines Pop-Funk-Sounds zeigte. Die Alben erschienen auf Prince' Label Paisley Park Records und gelten heute als Geheimtipp für Liebhaber von Jazz-Funk und Fusion. Madhouse trat auch als Support-Act auf der Sign o' the Times-Tour 1987 auf, wo Prince die Band mit *"introducing madhouse"* ankündigte.
 
 ## Gesehenes Konzert
 

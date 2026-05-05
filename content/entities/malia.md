@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Malia
 
-Britische Sängerin malawischer Abstammung. Ihr Stil verbindet Soul, Jazz und elektronische Elemente.
+Malia (* 1978 in Malawi) ist eine britische Sängerin malawischer Abstammung, deren Stil Soul, Jazz, Blues und elektronische Elemente auf einzigartige Weise verbindet. Als Teenager zog sie nach London, wo sie unter dem Einfluss von Jazz-Ikonen wie Billie Holiday, Sarah Vaughan und Nina Simone ihren eigenen musikalischen Stil entwickelte. Internationale Anerkennung erlangte sie 2013 mit dem Echo Jazz Award als 'Internationale Sängerin des Jahres'. Auf ihrem Album *Malawi Blues/Njira* (2016) setzte sie sich intensiv mit ihren afrikanischen Wurzeln auseinander, gefolgt von *The Garden of Eve* (2020), einer Hommage an die Blues-Tradition. Ihr bisheriges Schaffen umfasst sieben Studioalben, die von Kritikern für ihre stimmliche Tiefe und die gelungene Verbindung von Tradition und Moderne gelobt werden.
 
 ## Gesehenes Konzert
 

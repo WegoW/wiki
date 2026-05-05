@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Tab Two
 
-Deutsches Jazz-Pop-Duo bestehend aus Janne Schra (Gesang) und Niels Klein (Saxophon, Clarinet). Bekannt für ihren unkonventionellen Mix aus Jazz, Pop und experimentellen Elementen.
+Deutsches Jazz-Pop-Duo bestehend aus Janne Schra (Gesang) und Niels Klein (Saxophon, Klarinette), das sich durch einen unkonventionellen Mix aus Jazz, Pop und experimentellen Elementen auszeichnet. Niels Klein (*1978 in Hamburg) ist ein vielfach ausgezeichneter Jazzmusiker und Komponist, der unter anderem mit dem Jazz-Dock-Orchestra und seinem eigenen Quartett Tubes & Wires international auftritt und für den Deutschen Jazzpreis nominiert wurde. Janne Schra (*1981 in Laren, Niederlande) ist eine niederländische Soulsängerin mit Einflüssen aus Jazz, Country und R&B, die 2021 mit ihrer Band De Vogels einen Edison Jazz Award gewann. Gemeinsam schaffen sie eine vielseitige Klangwelt, die improvisatorische Freiheit mit eingängigen Popmelodien verbindet.
 
 ## Gesehenes Konzert
 

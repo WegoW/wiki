@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Erykah Badu
 
-US-amerikanische Soul- und R&B-Sängerin, bekannt für ihren einzigartigen Neo-Soul-Stil. Icon mit Hüten und feministischer Attitüde.
+Erykah Badu (geb. 1971 in Dallas, Texas) ist eine US-amerikanische Soul- und R&B-Sängerin, die als Pionierin des Neo-Soul gilt und von Kritikern oft als „Queen of Neo-Soul" bezeichnet wird. Ihr Debütalbum *Baduizm* (1997) war ein sensationeller Erfolg, erreichte Multi-Platin-Status und brachte ihr zwei Grammy Awards ein, darunter Best Female R&B Vocal Performance für die Single *On & On*. Mit ihrem unverwechselbaren Stil – markante Hüte, feministische Haltung und eine Stimme, die oft mit Billie Holiday verglichen wird – wurde sie zur Stilikone und Vorbild für Generationen von Sängerinnen. Weitere wichtige Alben wie *Mama's Gun* (2000) und *New Amerykah* (2008) unterstreichen ihren experimentellen Ansatz und ihre gesellschaftskritischen Texte. Badu ist außerdem für ihr politisches Engagement bekannt und hat mit Künstlern wie The Roots, OutKast und Questlove zusammengearbeitet.
 
 ## Gesehenes Konzert
 

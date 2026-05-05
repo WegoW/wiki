@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Trombone Shorty
 
-US-amerikanischer Posaunist, Trompeter und Bandleader aus New Orleans. Bekannt für seine energiegeladene Mischung aus Jazz, Funk und Rock. Grammy-nominierter Künstler.
+Troy „Trombone Shorty" Andrews (* 2. Januar 1986 in New Orleans) ist ein US-amerikanischer Posaunist, Trompeter und Bandleader, der bereits als Vierjähriger mit Bo Diddley beim New Orleans Jazz & Heritage Festival auftrat und sich früh einen Namen in der Brass-Band-Tradition seiner Heimatstadt machte. Mit seiner Band Orleans Avenue verbindet er Jazz, Funk, Rock und Hip-Hop zu einem mitreißenden Sound, der ihm mehrere Grammy-Nominierungen und ein weltweites Publikum einbrachte. Sein Durchbruch gelang 2010 mit dem Album *Backatown* (Platz 1 der Billboard Contemporary Jazz Charts), produziert von Ben Ellman von Galactic. Er trat mehrfach bei den Grammy Awards auf, spielte sechsmal im Weißen Haus und gründete die Trombone Shorty Foundation zur Förderung der Musikausbildung benachteiligter Jugendlicher in New Orleans. Mit sieben Studioalben, einem Caldecott-prämierten Kinderbuch und zahlreichen Kollaborationen — von Pharrell über Bruno Mars bis zu den Foo Fighters — hat sich Trombone Shorty als einer der vielseitigsten Botschafter der New-Orleans-Musik etabliert.
 
 ## Gesehenes Konzert
 

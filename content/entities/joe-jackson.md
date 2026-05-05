@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Joe Jackson
 
-Britischer Musiker und Singer-Songwriter. Bekannt für Hits wie *Is She Really Going Out With Him?*, *Steppin' Out* und *Breaking Us in Two*.
+Joe Jackson (* 11. August 1954 in Burton upon Trent, England) ist ein britischer Musiker, Singer-Songwriter und mehrfacher Grammy-Nominierter, der mit seinem Debütalbum *Look Sharp!* (1979) und dem Hit *Is She Really Going Out With Him?* schlagartig bekannt wurde. Sein Stil wandelte sich im Laufe seiner Karriere mehrfach: Von New Wave und Power-Pop über Swing (*Jumpin' Jive*, 1981) bis hin zu jazzbeeinflussten Klängen auf dem Meisterwerk *Night and Day* (1982) mit dem Grammy-nominierten Hit *Steppin' Out*. In den 1990er Jahren wandte er sich der klassischen Musik zu und gewann 2001 einen Grammy für das beste Pop-Instrumental-Album (*Symphony No. 1*). *Rolling Stone* setzte sein Debütalbum auf Platz 98 der besten Debütalben aller Zeiten, und Jackson wurde insgesamt für fünf Grammys nominiert. Seit 2006 lebt er in Berlin und veröffentlichte zuletzt die Alben *What a Racket!* (2023) und *Hope and Fury* (2026).
 
 ## Gesehene Konzerte
 

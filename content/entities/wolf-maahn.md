@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Wolf Maahn
 
-Deutscher Rockmusiker, Sänger und Songwriter. Bekannt für Hits wie *Ich bin ein Wolf* und *Irgendwo in Deutschland*.
+Wolf Maahn (*1955 in Berlin) ist ein deutscher Rockmusiker und Songwriter, der in den 1980er Jahren mit Hits wie *Fieber*, *Irgendwo in Deutschland* und *Ich bin ein Wolf* zu einem der erfolgreichsten deutschsprachigen Rockkünstler wurde. Nach ersten Erfolgen mit der Food Band (Vorgruppe für Bob Marley und Fleetwood Mac) startete er 1982 seine Solokarriere und feierte 1985 mit seinem Auftritt in der ARD-Rockpalast-Nacht, die live in 17 Länder übertragen wurde, den Durchbruch. 15 seiner 19 Soloalben charteten in Deutschland; sein Unplugged-Album *Direkt ins Blut* (1993) wurde weltweit in 167 Länder ausgestrahlt. Neben seiner eigenen Karriere produzierte Maahn erfolgreich unter anderem für die Klaus Lage Band (Platin) und engagierte sich bei sozialen Projekten wie *Band für Afrika* und *Rock for Bosnia*. Der Wahl-Kölner lebt in Dellbrück und veröffentlichte zuletzt 2020 das Album *Break out of Babylon* – ein Zeugnis seiner beständigen Schaffenskraft über fünf Jahrzehnte.
 
 ## Gesehenes Konzert
 

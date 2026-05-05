@@ -10,7 +10,7 @@ confidence: medium
 
 # Loïs Lane
 
-Loïs Lane ist eine niederländische Band der Schwestern Suzanne (* 25. Januar 1963) und Monique Klemann (* 18. Juli 1965).
+Loïs Lane ist eine niederländische Popband, die 1984 von den Schwestern Monique (* 1965) und Suzanne Klemann (* 1963) gegründet wurde und nach Supermans Freundin Lois Lane aus den DC-Comics benannt ist. Ihr Durchbruch gelang 1989 mit dem selbstbetitelten Debütalbum, das nach der Hitsingle *It's The First Time* Platz 1 der niederländischen Charts erreichte und mit Platin ausgezeichnet wurde. In den USA musste die Band ihren Namen aufgrund von Urheberrechtsverletzungen aufgeben. Weitere erfolgreiche Alben wie *Fireflight* (1995) folgten, und die Gruppe tourte als Support-Act für internationale Stars wie Prince. Monique Klemann startete 2007 eine eigene Solokarriere, während die Band bis heute gelegentlich auftritt und ihren Status als niederländische Pop-Institution bewahrt.
 
 ## Gesehenes Konzert
 

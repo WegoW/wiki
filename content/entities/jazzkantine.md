@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Jazzkantine
 
-Deutsche Band, die Jazz mit Hip-Hop und Funk verbindet. Gegründet 1993 in Braunschweig, bekannt für Live-Improvisationen und deutschsprachigen Rap.
+Die Jazzkantine ist eine deutsche Jazz-Rap-Band aus Braunschweig, die 1994 von Ole Sander, Matthias Lanzer und Christian Eitner gegründet wurde. Inspiriert vom US-Projekt Jazzmatazz von Guru, verbindet die Band Jazz, Funk und Hip-Hop zu einem eigenständigen Sound mit deutschem Rap und Live-Improvisation. Bereits das Debütalbum *Jazzkantine* (1994) bei BMG chartete und erhielt den Goldenen Deutschen Jazzpreis, 1996 folgte der Echo Award für die beste Jazz-Produktion. Ihr größter kommerzieller Erfolg war das Album *Geheimrezept* (1998), das Platz 18 der deutschen Albumcharts erreichte. Mit über 2.000 Konzerten – unter anderem beim Montreux Jazz Festival – und langjährigen Kooperationen mit dem Staatstheater Braunschweig hat sich die Band als feste Größe der deutschen Musikszene etabliert.
 
 ## Gesehene Konzerte
 

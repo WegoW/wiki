@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Sheryl Crow
 
-US-amerikanische Sängerin, Songwriterin und Multiinstrumentalistin. Mit neun Grammys eine der erfolgreichsten Rockmusikerinnen.
+Sheryl Suzanne Crow (*1962) ist eine US-amerikanische Sängerin, Songwriterin und Multiinstrumentalistin, die mit neun Grammy Awards zu den erfolgreichsten Rockmusikerinnen weltweit zählt. Ihr internationaler Durchbruch gelang ihr 1993 mit dem Album *Tuesday Night Music Club* und der Hitsingle "All I Wanna Do", die drei Grammys einbrachte – darunter den für den Best New Artist. In den folgenden Jahrzehnten veröffentlichte sie erfolgreiche Alben wie *Sheryl Crow* (1996) und *The Globe Sessions* (1999), die jeweils mit Grammys für das Beste Rock-Album ausgezeichnet wurden. Ihr Stil verbindet Rock, Pop, Country und Roots-Musik zu einem sonnigen, unverwechselbaren Sound. Mit über 50 Millionen verkauften Alben weltweit und einem Engagement für soziale Anliegen ist Sheryl Crow eine feste Größe der internationalen Musikszene.
 
 ## Gesehenes Konzert
 

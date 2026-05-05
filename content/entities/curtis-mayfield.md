@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Curtis Mayfield
 
-US-amerikanischer Soul-, Funk- und Gospel-Sänger, Songwriter und Produzent. Legendär für sein sozialkritisches Songwriting und das *Superfly*-Soundtrack-Album. Mitglied der Rock and Roll Hall of Fame.
+US-amerikanischer Soul-, Funk- und Gospel-Sänger, Songwriter und Produzent, der als „Gentle Genius" des Soul in die Musikgeschichte einging. Als Leadsänger der Impressions schrieb er Bürgerrechtshymnen wie *People Get Ready* und *Keep On Pushing*, die zur musikalischen Untermalung der amerikanischen Bürgerrechtsbewegung wurden. Sein Meisterwerk ist der Soundtrack zum Blaxploitation-Film *Superfly* (1972), der mit sozialkritischen Songs wie *Freddie's Dead* und *Pusherman* die Schattenseiten des Drogenhandels thematisierte und über 12 Millionen Mal verkauft wurde. 1990 wurde er bei einem Bühneneunfall von den Schultern abwärts gelähmt, nahm aber weiterhin im Liegen Musik auf – sein finales Album *New World Order* erschien 1996. Er wurde sowohl als Mitglied der Impressions (1991) als auch als Solokünstler (1999) in die Rock and Roll Hall of Fame aufgenommen und erhielt 1995 den Grammy für sein Lebenswerk.
 
 ## Gesehenes Konzert
 

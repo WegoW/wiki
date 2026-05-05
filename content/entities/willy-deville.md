@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Willy DeVille
 
-US-amerikanischer Sänger und Songwriter, bekannt als *The King Of New Orleans*. Ehemaliger Frontmann von Mink DeVille.
+Willy DeVille (1950–2009) war ein US-amerikanischer Sänger und Songwriter, der mit seiner Band Mink DeVille als Hausband des legendären CBGB-Clubs in New York Berühmtheit erlangte. Sein unverwechselbarer Sound, den Kritiker als „Spanish-Americana" bezeichneten, vermischte Roots Rock, Soul, New Orleans R&B und Latin-Rhythmen zu einem der originellsten Stile seiner Zeit. Sein Song *Storybook Love* aus dem Film *Die Braut des Prinzen* wurde 1988 für einen Oscar nominiert; Bob Dylan und Mark Knopfler zählten zu seinen Bewunderern. Nach dem Ende von Mink DeVille zog er nach New Orleans, wo er mit Alben wie *Victory Mixture* (1990) und dem Meisterwerk *Backstreets of Desire* (1992) an seine Erfolge anknüpfte. Der mehrfach für den Grammy nominierte Musiker starb 2009 an Krebs und hinterließ ein vielseitiges Werk, das ihm den Titel „King of New Orleans" für immer sicherte.
 
 ## Gesehenes Konzert
 

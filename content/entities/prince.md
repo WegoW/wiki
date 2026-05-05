@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Prince
 
-US-amerikanischer Musiker, Sänger, Songwriter und Multiinstrumentalist.
+Prince Rogers Nelson (1958–2016) war ein US-amerikanischer Musiker, Sänger, Songwriter und Produzent, der zu den einflussreichsten Künstlern seiner Generation zählt. Sein Stil vereinte Funk, Soul, Rock, Pop und R&B zu einem unverwechselbaren Sound, der sämtliche Genregrenzen sprengte. Mit dem Album *Purple Rain* (1984) und Hits wie "When Doves Cry" gelang ihm der weltweite Durchbruch; der dazugehörige Film brachte ihm einen Oscar ein. Im Laufe seiner Karriere gewann er sieben Grammy Awards, wurde 2004 in die Rock and Roll Hall of Fame aufgenommen und verkaufte über 100 Millionen Tonträger. Mit seinem legendären Tresor voller unveröffentlichter Aufnahmen und seinem unermüdlichen Schaffensdrang bleibt Prince eine unvergessliche Ikone der Popkultur.
 
 ## Gesehene Konzerte
 

@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Keith Sweat
 
-US-amerikanischer R&B-Sänger und Songwriter. Pionier des New Jack Swing, bekannt für Hits wie *I Want Her*, *Make It Last Forever* und *Twisted*.
+Keith Sweat (* 22. Juli 1961 in Harlem, New York) ist ein US-amerikanischer R&B-Sänger, Songwriter und Produzent, der als Pionier des New Jack Swing die R&B-Landschaft der späten 1980er und 1990er Jahre maßgeblich prägte. Sein Debütalbum *Make It Last Forever* (1987) verkaufte sich über drei Millionen Mal und brachte mit *I Want Her* einen Nummer-1-R&B-Hit hervor. Mit *Twisted* (Platz 2 der Billboard Hot 100) und *Nobody* (Platz 3) feierte er seine größten Charterfolge und gewann 1997 den American Music Award als beliebtester männlicher R&B/Soul-Künstler. Als Talentscout entdeckte er die Gruppen Silk und Kut Klose und war Mitglied der Supergroup LSG (mit Gerald Levert und Johnny Gill). Seit 2007 moderiert er die landesweit syndizierte Radiosendung *The Keith Sweat Hotel* und veröffentlichte 2023 mit *Dress to Impress* sein 13. Studioalbum.
 
 ## Gesehenes Konzert
 

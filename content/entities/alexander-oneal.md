@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Alexander O'Neal
 
-US-amerikanischer R&B- und Soul-Sänger. Bekannt für Hits wie *Criticize*, *Fake* und *If You Were Here Tonight*.
+Alexander O'Neal (* 15. November 1953 in Natchez, Mississippi) ist ein US-amerikanischer R&B- und Soul-Sänger, Songwriter und Arrangeur, der Mitte der 1980er Jahre mit Unterstützung des Produzenten-Duos Jimmy Jam & Terry Lewis seinen Durchbruch feierte. Sein 1987 erschienenes Album *Hearsay* wurde in Großbritannien mit Dreifach-Platin ausgezeichnet und enthielt mit *Fake* seinen einzigen Nummer-1-Hit in den US-R&B-Charts. Besonders erfolgreich war er in Großbritannien, wo er zwischen 1985 und 1996 insgesamt 14 Top-40-Singles und drei Top-10-Alben landete. Sein Duett *Saturday Love* mit Cherrelle gilt als einer der prägendsten Slow-Jams der 1980er Jahre. Nach über 50 Jahren im Musikgeschäft verabschiedete sich O'Neal 2024 mit einer Abschiedstournee endgültig von der Bühne.
 
 ## Gesehenes Konzert
 

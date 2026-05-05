@@ -10,7 +10,7 @@ confidence: medium
 
 # Daran & Et Les Chaises
 
-Band/Act, die/der als Support für Willy DeVille aufgetreten ist.
+Französische Band um den Sänger und Gitarristen Daran (Jean-Jacques Daran), die 1991 gegründet wurde und schnell einen Plattenvertrag bei einem Major-Label erhielt. Ihr Stil bewegt sich zwischen Chanson Français, Pop und Rock – bekannt wurde sie vor allem durch Songs wie *Dormir dehors* und *Aquarium*, die im französischsprachigen Raum große Beachtung fanden. Die Band veröffentlichte in den 1990er Jahren mehrere Alben, darunter *J'évite le soleil* (1992) und *Huit Barré* (1994), und war auf Festivals wie den Francofolies vertreten. 1996 tourte sie als Support für den legendären US-amerikanischen Sänger Willy DeVille durch Europa.
 
 ## Gesehenes Konzert
 

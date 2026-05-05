@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Roy Hargrove
 
-US-amerikanischer Jazz-Trompeter und Flügelhornist. Einer der herausragendsten Jazztrompeter seiner Generation, Grammy-Gewinner. Bekannt für das Album *Earfood*.
+Roy Anthony Hargrove (1969–2018) war ein US-amerikanischer Jazz-Trompeter und Flügelhornist, der zu den herausragendsten Musikern seiner Generation zählte. Nach seinem Studium an der Berklee College of Music und der Juilliard School etablierte er sich in den 1990er Jahren als gefragter Bandleader und Sideman. Mit seinem Afro-Cuban-Projekt Crisol gewann er 1998 einen Grammy für das Beste Latin Jazz Album (*Habana*); einen zweiten Grammy erhielt er 2002 für *Directions in Music: Live at Massey Hall* mit Herbie Hancock. Sein Quintett-Album *Earfood* (2008) mit dem legendären Stück "Strasbourg / St Denis" gilt als eines seiner Meisterwerke. Mit The RH Factor erforschte er zudem die Fusion von Jazz mit Hip-Hop, Funk und Soul und beeinflusste damit eine ganze Generation junger Jazzmusiker.
 
 ## Gesehenes Konzert
 

@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Tower Of Power
 
-US-amerikanische Funk-/Soul-Band aus Oakland, Kalifornien. Seit 1968 aktiv, bekannt für ihre kraftvolle Bläsersektion.
+Die 1968 gegründete US-amerikanische Funk- und Soul-Band aus Oakland, Kalifornien, ist berühmt für ihre kraftvolle Bläsersektion, die als eine der einflussreichsten Horn Sections der Musikgeschichte gilt. Mit Hits wie *You're Still a Young Man* (1972), dem funkigen Klassiker *What Is Hip?* (1973) und *So Very Hard to Go* eroberten sie die Charts und prägten den Funk- und Soulsound der 70er Jahre nachhaltig. Die Band veröffentlichte über 20 Alben, darunter das goldene Album *Tower of Power* (1973), und spielte sich in die Riege der wichtigsten Funk-Bands aller Zeiten. Ihre legendäre Horn Section hat mit unzähligen Größen von Elton John über Santana bis zu den Rolling Stones zusammengearbeitet und ist auf Hunderten von Aufnahmen zu hören. Bis heute ist Tower of Power live aktiv und gilt als eine der beständigsten und authentischsten Funk-Institutionen der Vereinigten Staaten.
 
 ## Gesehene Konzerte
 

@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Chaka Khan
 
-US-amerikanische Sängerin, zehnfache Grammy-Gewinnerin. Frontfrau von Rufus, bekannt für Hits wie *Ain't Nobody*, *I Feel for You* und *Through the Fire*.
+US-amerikanische Sängerin, die als „Queen of Funk" weltberühmt wurde. Sie startete ihre Karriere als Leadsängerin der Band Rufus, mit der sie Hits wie *Tell Me Something Good* und *Sweet Thing* landete und ihren ersten Grammy gewann. In ihrer Solokarriere feierte sie mit Songs wie *I'm Every Woman*, *I Feel for You* (einem Prince-Cover mit dem ersten Rap-Feature in einem R&B-Crossover-Hit) und *Through the Fire* riesige Erfolge. Mit elf Grammys und über 70 Millionen verkauften Tonträgern zählt sie zu den einflussreichsten Sängerinnen der Musikgeschichte. 2023 wurde sie in die Rock and Roll Hall of Fame aufgenommen.
 
 ## Gesehene Konzerte
 

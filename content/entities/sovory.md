@@ -10,7 +10,7 @@ confidence: medium
 
 # Sovory
 
-Band/Act, die/der als Support für Sheryl Crow aufgetreten ist.
+Sovory ist das Musikprojekt des US-amerikanischen Sängers, Songwriters und Produzenten Allen Savory mit Sitz in Los Angeles, Kalifornien. Sein selbstbetiteltes Debütalbum *Sovory* (1996) vereint Elemente aus Soul, Funk, Groove, Jazz und Rock zu einem vielseitigen Sound. Die Single "Soul" und weitere Tracks wie "Right Back" und "Love Is Still Enough" zeigen sein Talent für eingängige Melodien und soulvolle Vocals. Internationale Aufmerksamkeit erlangte er als Support-Act für Sheryl Crow auf deren Tournee 1996, wo er im LKA Longhorn in Stuttgart auftrat. Neben seiner Solokarriere arbeitete Sovory als Produzent und Songwriter mit verschiedenen Künstlern zusammen.
 
 ## Gesehenes Konzert
 

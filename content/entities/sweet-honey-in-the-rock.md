@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Sweet Honey In The Rock
 
-US-amerikanische A-cappella-Gruppe aus Washington, D.C. Seit 1973 aktiv, bekannt für ihre kraftvollen Stimmen und politischen Texte, die afroamerikanische Traditionen bewahren.
+Sweet Honey In The Rock ist ein afroamerikanisches A-cappella-Ensemble aus Washington, D.C., das 1973 von der Bürgerrechtlerin und Sängerin Bernice Johnson Reagon gegründet wurde. Die mehrfach für den Grammy nominierte Gruppe verbindet Gospel, Blues, Spirituals und Spoken Word mit politischen Botschaften zu Themen wie Bürgerrechten, Feminismus und sozialer Gerechtigkeit. Charakteristisch für ihre Auftritte ist die Integration von Gebärdensprachdolmetschern (ASL), die die Lieder simultan übersetzen. Mit über 20 Alben und Jahrzehnten internationaler Tourneen haben sie sich als eine der einflussreichsten A-cappella-Formationen der Welt etabliert. Ihr Repertoire umfasst sowohl traditionelle Spirituals als auch Eigenkompositionen und zeitgenössische Werke.
 
 ## Gesehenes Konzert
 

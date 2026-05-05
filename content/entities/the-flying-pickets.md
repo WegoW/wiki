@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # The Flying Pickets
 
-Britische A-cappella-Gruppe. Bekannt für ihren Weihnachtshit *Only You* und ihre energiegeladenen Vocal-Performances.
+Britische A-cappella-Gruppe, 1982 aus Mitgliedern der sozialistischen Theatergruppe 7:84 hervorgegangen. Ihr Durchbruch gelang 1983 mit der Coverversion von Yazoos "Only You", die über fünf Wochen Platz 1 der britischen Charts eroberte und bis heute der einzige A-cappella-Titel ist, der länger als eine Woche auf der Spitzenposition verweilte. Die Gruppe gewann einen BAFTA Award für die Filmmusik zur BBC-Serie Porterhouse Blue und wurde in den USA für einen CARA Award (A-cappella-Grammy) nominiert. Mit über zwölf Studioalben und jahrzehntelanger Tourneetätigkeit haben sie sich als eine der langlebigsten und einflussreichsten Vokalformationen Europas etabliert. Ihr Repertoire umfasst Eigenkompositionen, Pop-Cover und politisch engagierte Stücke.
 
 ## Gesehene Konzerte
 

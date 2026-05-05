@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # The Commodores
 
-US-amerikanische Funk- und Soul-Band aus Tuskegee, Alabama. Weltbekannt durch Hits wie *Brick House*, *Easy* und *Three Times a Lady*.
+US-amerikanische Funk- und Soul-Band aus Tuskegee, Alabama, gegründet Ende der 1960er Jahre von Studenten des Tuskegee Institute. Als erste sich selbst verwaltende Band von Motown unter Vertrag genommen, landeten sie 1974 mit Machine Gun ihren ersten Millionenseller. Weltbekannt wurden sie durch Hits wie "Brick House", "Easy" und "Three Times a Lady", letzterer eine Nummer 1 in den USA und Großbritannien. Lionel Richie, das bekannteste Mitglied der Band, verließ die Commodores 1982 für eine noch erfolgreichere Solokarriere. Die Band wurde 1995 in die Alabama Music Hall of Fame aufgenommen und bleibt eine der prägendsten Funk- und Soul-Formationen der 1970er Jahre.
 
 ## Gesehenes Konzert
 

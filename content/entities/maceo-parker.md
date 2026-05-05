@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Maceo Parker
 
-US-amerikanischer Saxophonist, Funk-Legende. Mitglied bei James Browns Band, Parliament-Funkadelic und später erfolgreicher Solokünstler.
+Maceo Parker (* 14. Februar 1943 in Kinston, North Carolina) ist ein US-amerikanischer Funk- und Soul-Jazz-Saxophonist und eine der prägendsten Figuren der Funkmusik. Als langjähriges Mitglied von James Browns Band prägte er mit seinen markanten Saxophon-Soli unzählige Klassiker wie *Papa's Got a Brand New Bag* und *I Feel Good* — James Brown rief oft *"Maceo, I want you to blow!"* wenn ein Solo fällig war. In den 1970er Jahren wechselte er zu George Clintons Parliament-Funkadelic-Kollektiv und wurde Teil des legendären P-Funk-Universums. Ab den 1990er Jahren feierte er als Solokünstler große Erfolge mit Alben wie *Roots Revisited* (1990) und tourte unter anderem mit Prince. Für seine Verdienste um die Rhythm & Blues-Musik wurde Parker von der Rhythm and Blues Foundation mit einem Pioneer Award ausgezeichnet.
 
 ## Gesehene Konzerte
 

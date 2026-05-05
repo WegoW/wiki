@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # De La Soul
 
-US-amerikanisches Hip-Hop-Trio aus Long Island. Mitglieder: Posdnuos, Maseo und Trugoy. Bekannt für ihre kreativen Samples, Wortspiele und flower-power-Ästhetik.
+De La Soul ist ein US-amerikanisches Hip-Hop-Trio aus Long Island, bestehend aus Posdnuos, Maseo und Trugoy (David Jolicoeur, † 2023). Ihr bahnbrechendes Debütalbum *3 Feet High and Rising* (1989) gilt als Meilenstein des Golden Age Hip-Hop und etablierte ihren verspielten, sample-reichen Stil mit Flower-Power-Ästhetik. Mit Alben wie *De La Soul Is Dead* (1991) und *Stakes Is High* (1996) bewiesen sie musikalische Tiefe und textliche Reife jenseits konventioneller Hip-Hop-Klischees. Ihr Hit *Me Myself and I* wurde zur Hymne der späten 80er, und ihr Song *The Magic Number* diente später als Sample für Gorillaz' *Feel Good Inc.* Nach jahrelangen Rechtsstreitigkeiten um Sampling-Lizenzen wurde ihr Backkatalog 2023 endlich auf Streaming-Plattformen veröffentlicht – ein long-overduer Meilenstein für die Hip-Hop-Geschichte.
 
 ## Gesehenes Konzert
 

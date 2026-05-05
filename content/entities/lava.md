@@ -9,7 +9,7 @@ sources: [raw/personal/concert-list-2026.md, tickets-sammlung-wego]
 
 # Lava
 
-Band, aufgetreten im ZAP in Stuttgart. Nähere Informationen zur Band nicht bekannt.
+Lava war eine lokale Stuttgarter Band, deren genaue Besetzung und Hintergrund weitgehend unbekannt sind. Die Formation entstand als kurzfristiger Ersatz für The Wright Thing, die nicht auftreten konnten, und wurde von einem der Gitarristen von The Wright Thing ins Leben gerufen. Der Auftritt fand im Stuttgarter ZAP (Zentrum für Aktuelle Präsentation) statt, vermutlich im Februar eines unbekannten Jahres. Da es sich offenbar um eine einmalige oder kurzlebige Formation handelte, sind keine Tonträger, Veröffentlichungen oder weiterführenden Informationen über die Band überliefert. Der Eintrag basiert ausschließlich auf der Sammlung Walter Wego.
 
 ## Gesehenes Konzert
 
