@@ -55,7 +55,7 @@ Prince Rogers Nelson (1958–2016) war ein US-amerikanischer Musiker, Sänger, S
 ## Anmerkungen
 - Das Konzert am **27. August 1988** fand im Rahmen des **hr3 Open Air** im **Stadion Bieberer Berg** in Offenbach statt (nicht im Frankfurter Waldstadion)
 - **Madhouse** (Prince' Side-Project) trat als Support/Teil der Show beim Konzert am **4. Juni 1987** in der Schleyerhalle auf (Ticket-Vermerk: *"introducing madhouse"*)
-- Dresscode 1987: *"wear something beach... or black"* 🏖️🖤
+- Dresscode 1987: Eigentlich *"wear something **peach**... or black"* (Tour-Motto), aber durch einen **Druckfehler** auf dem Stuttgarter Ticket stand *"wear something **beach**... or black"* – was tatsächlich Leute in Strandklamotten anlockte! 🏖️🖤😄
 - **Lois Lane** war Support Act beim Konzert am **8. August 1990** in der Maimarkthalle Mannheim (Nude Tour)
 - **Chaka Khan** und **Larry Graham & Graham Central Station** waren Support Acts beim Zürich-Konzert am **23. August 1998** (Hallenstadion, New Power Soul Tour)
 - **Larry Graham & Graham Central Station** waren auch Support beim Stuttgarter Konzert am **26. Dezember 1998** (Schleyerhalle)
