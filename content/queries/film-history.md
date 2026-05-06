@@ -120,10 +120,10 @@ Folgende Künstler, die ich live gesehen habe, tauchen auch in meiner IMDb-Histo
 
 | Künstler | Film(e) | ⭐ |
 |----------|---------|----|
-| [[entities/prince|Prince]] | *Purple Rain* (1984, Regie), *Graffiti Bridge* (1990, Regie), *Under the Cherry Moon* (1986, Regie) | ⭐8 / ⭐6 / ⭐5 |
-| [[entities/david-bowie|David Bowie]] | *Die Reise ins Labyrinth* / *Labyrinth* (1986) | ⭐7 |
-| [[entities/james-brown|James Brown]] | *Blues Brothers* (1980, Cameo), *Get On Up* (2014, Biopic) | ⭐9 / ⭐7 |
-| [[entities/curtis-mayfield|Curtis Mayfield]] | *Superfly* (1972, Soundtrack) | ⭐6 |
+| [[konzerte/prince|Prince]] | *Purple Rain* (1984, Regie), *Graffiti Bridge* (1990, Regie), *Under the Cherry Moon* (1986, Regie) | ⭐8 / ⭐6 / ⭐5 |
+| [[konzerte/david-bowie|David Bowie]] | *Die Reise ins Labyrinth* / *Labyrinth* (1986) | ⭐7 |
+| [[konzerte/james-brown|James Brown]] | *Blues Brothers* (1980, Cameo), *Get On Up* (2014, Biopic) | ⭐9 / ⭐7 |
+| [[konzerte/curtis-mayfield|Curtis Mayfield]] | *Superfly* (1972, Soundtrack) | ⭐6 |
 
 ### 🎬 Musikfilme mit ⭐8+
 

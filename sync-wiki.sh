@@ -1,13 +1,13 @@
 #!/bin/bash
 set -e
 
-# Sync-Skript: Kopiert nur Konzert-relevante Inhalte aus dem Wiki
+# Sync-Skript: Kopiert Wiki-Inhalte (Konzerte + Hörbücher + Filme + Serien)
 # ins Quartz-Repo und pushed auf GitHub Pages.
 
 WIKI="/root/obsidian/wiki"
 REPO="/root/wiki"
 
-echo "==> Syncing concert-only content to GitHub Pages repo..."
+echo "==> Syncing wiki content to GitHub Pages repo..."
 
 # 0. Auto-update counts in Wiki index.md BEFORE sync
 python3 << 'PYEOF'
@@ -23,9 +23,10 @@ match = re.search(r'\*\*Gesamtzahl:\*\*\s*(\d+)\s*Konzerte', query_content)
 if match:
     concert_count = int(match.group(1))
 else:
+    # Fallback: entities existieren nicht mehr – Ordner sind konzerte/ und hoerbuecher/
     import glob
     concert_count = 0
-    for path in glob.glob("/root/obsidian/wiki/entities/*.md"):
+    for path in glob.glob("/root/obsidian/wiki/konzerte/*.md"):
         with open(path) as f:
             text = f.read()
         concert_count += len(re.findall(r'\|\s*\d+\s*\|\s*\*\*\d', text))
@@ -73,20 +74,11 @@ rsync -av --delete \
 rm -f "$REPO/content/concepts/science-fiction.md"
 # Audiobooks are now included on the site
 
-# 3. Nicht-Konzert Entities automatisch erkennen und entfernen
-#    Behält: Konzert-Entities + Film/Regisseur-Entities + Film-Entities
-for file in "$REPO/content/entities"/*.md; do
-  [ -f "$file" ] || continue
-  # Prüfe nur das Frontmatter (erste 20 Zeilen, zwischen --- und ---)
-  frontmatter=$(head -20 "$file" | sed -n '/^---$/,/^---$/p' 2>/dev/null)
-  if echo "$frontmatter" | grep -qiE '(culture|art|director|film|imdb)'; then
-    continue  # Hat relevantes Tag — behalten
-  fi
-  echo "  Removing non-concert entity: $(basename "$file")"
-  rm -f "$file"
-done
+# 3. Alte entities/ entfernen (wird seit Umbau nicht mehr aus Wiki gesynct)
+rm -rf "$REPO/content/entities" 2>/dev/null || true
+echo "  Cleaned old entities/ directory"
 
-# 4. index.md bereinigen – Hörbuch/SciFi-Einträge und leere Sektionen entfernen
+# 4. index.md aufräumen – SciFi-Konzept-Eintrag, leere Sektionen entfernen, Zählungen aktualisieren
 python3 << 'PYEOF'
 import re
 
@@ -133,7 +125,7 @@ if git diff --cached --quiet; then
   exit 0
 fi
 
-git commit -m "Sync concert wiki content $(date +%Y-%m-%d)"
+git commit -m "Sync wiki content $(date +%Y-%m-%d)"
 
 # Push via Token aus .env
 set -a

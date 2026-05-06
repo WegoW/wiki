@@ -167,5 +167,5 @@ Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 119 Titel von
 
 ## Siehe auch
 
-- [[entities/max-goldt|Max Goldt]] — meistgehörter Autor
-- [[entities/perry-rhodan|Perry Rhodan]] — meistgehörte Serie
+- [[hoerbuecher/max-goldt|Max Goldt]] — meistgehörter Autor
+- [[hoerbuecher/perry-rhodan|Perry Rhodan]] — meistgehörte Serie
