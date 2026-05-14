@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme, Serien und Hörbücher aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 156
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme, Serien und Hörbücher aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 158
 
 ## Konzerte (101)
 - [[konzerte/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -168,8 +168,10 @@
 
 ## Hörbücher (119)
 > Nur Autoren mit mindestens 3 Hörbüchern in der Sammlung.
+- [[hoerbuecher/andy-weir|Andy Weir]] — 2 Hörbücher
 - [[hoerbuecher/dan-brown|Dan Brown]] — 3 Hörbücher
 - [[hoerbuecher/daniel-suarez|Daniel Suarez]] — 6 Hörbücher
+- [[hoerbuecher/dennis-e-taylor|Dennis E. Taylor]] — 4 Hörbücher
 - [[hoerbuecher/frank-schaetzing|Frank Schätzing]] — 4 Hörbücher
 - [[hoerbuecher/herbert-w-franke|Herbert W. Franke]] — 3 Hörbücher
 - [[hoerbuecher/isaac-asimov|Isaac Asimov]] — 3 Hörbücher
