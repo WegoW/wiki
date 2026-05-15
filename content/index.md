@@ -166,7 +166,7 @@
 - [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
 - [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
 
-## Hörbücher (119)
+## Hörbücher (120)
 > Nur Autoren mit mindestens 3 Hörbüchern in der Sammlung.
 - [[hoerbuecher/andy-weir|Andy Weir]] — 2 Hörbücher
 - [[hoerbuecher/dan-brown|Dan Brown]] — 3 Hörbücher

@@ -1,7 +1,7 @@
 ---
 title: Gehörte Hörbücher und Hörspiele
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-15
 type: summary
 tags: [personal, bookmark, culture]
 sources: [raw/personal/audiobook-list-2026.md]
@@ -10,11 +10,11 @@ confidence: medium
 
 # Gehörte Hörbücher und Hörspiele
 
-Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 119 Titel von 52 Autoren.
+Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 120 Titel von 53 Autoren.
 
 ## Genre-Übersicht
 
-- **Science-Fiction**: 77 Titel
+- **Science-Fiction**: 78 Titel
 - **Satire / Humor**: 13 Titel
 - **Fantasy**: 10 Titel
 - **Thriller**: 6 Titel
@@ -146,7 +146,8 @@ Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 119 Titel von
 | 116 | Umberto Eco | Das Foucaultsche Pendel | Sonstiges |
 | 117 | Walter Adler | Centropolis | Science-Fiction |
 | 118 | Walter Knaus | Welt ohne Schlaf | Science-Fiction |
-| 119 | William Gibson | Neuromancer | Sonstiges |
+|| 119 | William Gibson | Neuromancer | Sonstiges |
+|| 120 | Dennis E. Taylor | We Are Legion (We Are Bob) (Bobiverse, #1) | Science-Fiction |
 
 ## Top-Autoren
 
