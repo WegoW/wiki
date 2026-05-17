@@ -1,25 +1,25 @@
 ---
 title: Meine Film- und Serien-History
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-05-17
 type: query
 tags: [film, series, personal, culture]
-source: CSV-Export IMDb (Stand Apr 2026)
+source: CSV-Export IMDb (Stand Mai 2026)
 ---
 
 # Meine Film- und Serien-History
 
 > Komplette Übersicht über meine bewerteten Filme und Serien auf IMDb.
-> Datenbasis: 3.993 bewertete Titel (CSV-Export)
+> Datenbasis: 4.003 bewertete Titel (CSV-Export)
 
 ## Auf einen Blick
 
-| Kennzahl | Wert |
-|----------|------|
-| **Titel gesamt** | 3.993 |
-| **Filme** | 3.589 |
-| **Serien (inkl. Miniserien)** | 305 |
-| **Sonstige** (Fernsehfilme, Kurzfilme, etc.) | 99 |
+|| Kennzahl | Wert |
+||----------|------|
+|| **Titel gesamt** | 4.003 |
+|| **Filme** | 3.595 |
+|| **Serien (inkl. Miniserien)** | 309 |
+|| **Sonstige** (Fernsehfilme, Kurzfilme, etc.) | 99 |
 | **Ø-Bewertung** | ⭐ 6,41 |
 | **Spannweite** | 1922 – 2026 (95 Jahrgänge) |
 | **Lieblingsjahrzehnt** | 1990er (897 Filme) |
@@ -142,4 +142,4 @@ Folgende Künstler, die ich live gesehen habe, tauchen auch in meiner IMDb-Histo
 
 ---
 
-*Zuletzt aktualisiert: 2026-04-30*
+*Zuletzt aktualisiert: 2026-05-17*

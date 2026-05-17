@@ -72,7 +72,7 @@
 ### Sammlungen
 - [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
 
-## Filme & Serien (3.993)
+## Filme & Serien (4.003)
 ### Konzert-Künstler mit Filmbeteiligung
 - [[konzerte/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
 - [[konzerte/prince|Prince]] — Purple Rain ⭐8, Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
