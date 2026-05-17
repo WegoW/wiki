@@ -7,7 +7,7 @@ average_rating: 6.7
 ---
 # Doug Liman
 
-Douglas Eric Liman (* 24. Juli 1965 in New York City) ist ein US-amerikanischer Filmregisseur und Produzent, der mit dem Indie-Hit „Swingers“ (1996) sein Regiedebüt feierte. Seinen großen Durchbruch im Action-Genre erzielte er 2002 mit „Die Bourne Identität“, das mit seinem dokumentarischen, handgehaltenen Kamerastil das Actionkino nachhaltig neu definierte. Es folgten kommerzielle Erfolge wie „Mr. & Mrs. Smith“ (2005) und der Sci-Fi-Blockbuster „Edge of Tomorrow – Live. Die. Repeat.“ (2014). Liman ist bekannt für seine Vielseitigkeit und wechselt mühelos zwischen Komödien, Thrillern und Actionfilmen, wobei er oft mit großen Stars zusammenarbeitet. Neben der Regie arbeitet er auch als Produzent und war unter anderem an der erfolgreichen Serie „O.C., California“ beteiligt.
+Douglas Eric Liman ist ein US-amerikanischer Filmregisseur, Film- und Fernsehproduzent und Kameramann..
 
 ## Gesehene Filme (10)
 

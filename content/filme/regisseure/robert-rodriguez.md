@@ -7,7 +7,7 @@ average_rating: 6.17
 ---
 # Robert Rodriguez
 
-Robert Anthony Rodriguez (* 20. Juni 1968 in San Antonio, Texas) ist ein US-amerikanischer Filmregisseur, Drehbuchautor, Produzent und Komponist mexikanischer Abstammung. Mit nur 7.000 Dollar drehte er 1992 sein Debüt *El Mariachi*, das als Lehrstück für effizientes Low-Budget-Filmemachen gilt und ihm den Durchbruch in Hollywood bescherte. Gemeinsam mit seinem Freund Quentin Tarantino drehte er den Vampir-Horrorfilm *From Dusk Till Dawn* (1996) und später die neo-noire Graphic-Novel-Adaption *Sin City* (2005). Rodriguez erschuf mit der *Spy-Kids*-Reihe (ab 2001) und der *Machete*-Trilogie zwei völlig unterschiedliche Filmwelten und beweist damit eine bemerkenswerte Bandbreite zwischen Familienkino und Exploitation. Neben seiner Regiearbeit komponiert er oft selbst die Filmmusik und betreibt seit 2013 mit *El Rey Network* seinen eigenen Fernsehsender.
+Robert Anthony Rodriguez ist ein US-amerikanischer Filmregisseur, Drehbuchautor, Filmkomponist und Filmproduzent mexikanischer Abstammung. Er hat bei einigen seiner Filme zudem als Kameramann und Filmeditor mitgewirkt. Seit 2013 hat er mit El Rey Network seinen eigenen Fernsehsender..
 
 ## Gesehene Filme (12)
 
@@ -34,7 +34,7 @@ Robert Anthony Rodriguez (* 20. Juni 1968 in San Antonio, Texas) ist ein US-amer
 | Film | Jahr | ⭐ | Genres |
 |------|------|-----|--------|
 | *Sin City* | 2005 | ⭐8 | Krimi, Thriller |
-| *Alita: Battle Angel* | 2019 | ⭐7 | Science-Fiction, Action, Thriller, Abenteuer |
+| *Alita: Battle Angel* | 2019 | ⭐7 | Animation, Science-Fiction, Action, Thriller, Abenteuer |
 | *Silvester in fremden Betten* | 1995 | ⭐7 | Komödie |
 | *From Dusk Till Dawn* | 1996 | ⭐7 | Krimi, Action, Horror |
 | *The Faculty* | 1998 | ⭐7 | Mystery, Science-Fiction, Horror |

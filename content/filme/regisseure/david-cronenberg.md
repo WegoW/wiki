@@ -7,7 +7,7 @@ average_rating: 5.9
 ---
 # David Cronenberg
 
-David Paul Cronenberg (* 15. März 1943 in Toronto, Kanada) ist ein kanadischer Filmregisseur und Drehbuchautor, der als Pionier des Body-Horror-Genres gilt. Seine frühen Filme wie „Videodrome“ (1983), „Scanners“ (1981) und „Die Fliege“ (1986) erforschen die Verschmelzung von Mensch, Technologie und Biologie auf verstörende, bildgewaltige Weise. In den 1990er-Jahren erweiterte er sein Spektrum mit Literaturverfilmungen wie „Naked Lunch“ (1991), während „Crash“ (1996) in Cannes mit dem Sonderpreis der Jury ausgezeichnet wurde. Spätere Werke wie „A History of Violence“ (2005) und „Tödliche Versprechen – Eastern Promises“ (2007) zeigen ihn als reifen Erzähler von Gangsterdramen mit psychologischer Tiefe. Cronenbergs unverwechselbarer Stil hat das Horror- und Science-Fiction-Genre nachhaltig geprägt und Filmemacher auf der ganzen Welt beeinflusst.
+David Paul Cronenberg ist ein kanadischer Filmregisseur, Drehbuchautor, Filmproduzent, Filmeditor und Schauspieler..
 
 ## Gesehene Filme (10)
 

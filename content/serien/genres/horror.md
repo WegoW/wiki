@@ -2,12 +2,12 @@
 title: Horror
 type: entity
 tags: [genre, series, imdb]
-series_watched: 14
-average_rating: 7.43
+series_watched: 15
+average_rating: 7.47
 ---
 # Horror (Serien)
 
-**Serien:** 14 | **⌀ ⭐:** 7.43
+**Serien:** 15 | **⌀ ⭐:** 7.47
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

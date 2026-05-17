@@ -7,7 +7,7 @@ average_rating: 7.92
 ---
 # Christopher Nolan
 
-Sir Christopher Edward Nolan CBE (* 30. Juli 1970 in London) ist ein britisch-US-amerikanischer Filmregisseur, Drehbuchautor und Filmproduzent. Nach seinem Spielfilmdebüt 1998 mit Following erhielt er 2002 für Memento erstmals eine Oscarnominierung als bester Drehbuchautor. Internationale Bekanntheit erlangte Nolan durch seine Neuinterpretation der Comicfigur Batman in der The-Dark-Knight-Trilogie, die sowohl bei Kritikern als auch beim Publikum einschlug. Durch diese Erfolge war es ihm möglich, für spätere Filme wie Inception (2010), Interstellar (2014) und Tenet (2020) mit hohen Filmbudgets und komplexen narrativen Konzepten zu arbeiten. Für das Historiendrama Oppenheimer (2023) gewann er 2024 den Oscar, den Golden Globe und den BAFTA jeweils für die Beste Regie.
+Sir Christopher Edward Nolan CBE ist ein britisch-US-amerikanischer Filmregisseur, Drehbuchautor und Filmproduzent. Nach seinem Spielfilmdebüt 1998 mit Following erhielt er 2002 für Memento erstmals eine Oscarnominierung als bester Drehbuchautor. Internationale Bekanntheit erlangte Nolan durch seine Neuinterpretation der Comicfigur Batman in der The-Dark-Knight-Trilogie. Durch diese Erfolge war es ihm möglich, für spätere Filme wie Inception, Interstellar oder Tenet mit hohen Filmbudgets zu arbeiten.
 
 ## Gesehene Filme (12)
 

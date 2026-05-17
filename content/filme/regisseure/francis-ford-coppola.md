@@ -7,7 +7,7 @@ average_rating: 6.86
 ---
 # Francis Ford Coppola
 
-Francis Ford Coppola (* 7. April 1939 in Detroit, Michigan) ist ein US-amerikanischer Regisseur, Drehbuchautor und Produzent, der zu den wichtigsten Vertretern des New Hollywood zählt. Bereits mit 31 Jahren gewann er seinen ersten Oscar für das Drehbuch zu „Patton – Rebell in Uniform“ (1970). Weltberühmt wurde er mit „Der Pate“ (1972) und „Der Pate – Teil II“ (1974), die beide mit dem Oscar für den besten Film ausgezeichnet wurden – ein bis heute einmaliger Erfolg für eine Filmreihe. Mit dem Vietnam-Kriegsepos „Apocalypse Now“ (1979), das mit der Goldenen Palme in Cannes ausgezeichnet wurde, schuf er eines der ambitioniertesten Filmprojekte aller Zeiten. Coppola hat im Laufe seiner Karriere fünf Oscars gewonnen und mit seiner Produktionsfirma American Zoetrope unabhängige Filmprojekte gefördert, darunter auch die Karrieren seiner Kinder Sofia und Roman Coppola.
+Francis Ford Coppola ist ein US-amerikanischer Regisseur, Drehbuchautor und Filmproduzent. Als Regisseur von Klassikern wie der Pate-Trilogie und Apocalypse Now zählt er zu den bedeutendsten Filmschaffenden des US-amerikanischen Kinos und als wichtiger Vertreter des New Hollywood..
 
 ## Gesehene Filme (14)
 

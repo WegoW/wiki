@@ -7,7 +7,7 @@ average_rating: 6.8
 ---
 # Ron Howard
 
-Ronald William Howard, geboren 1954 in Duncan, Oklahoma, ist ein US-amerikanischer Schauspieler, Regisseur und Produzent. Bereits als Kind wurde er als Opie Taylor in der Andy Griffith Show sowie als Richie Cunningham in Happy Days zum Fernsehstar. 1986 gründete er gemeinsam mit Brian Grazer die Produktionsfirma Imagine Entertainment und inszenierte seither ein breites Spektrum an Filmen – vom Fantasy-Abenteuer Willow (1988) über das Historien-Drama Apollo 13 (1995) bis zum Thriller The Da Vinci Code (2006). Seinen größten künstlerischen Erfolg feierte er mit A Beautiful Mind – Genie und Wahnsinn (2001), für das er die Oscars für die beste Regie und den besten Film gewann. Howards Stil zeichnet sich durch zugängliches, handwerklich solides Erzählen aus, das Publikum und Kritiker gleichermaßen anspricht.
+Ronald William Howard ist ein US-amerikanischer Schauspieler, Regisseur und Filmproduzent.. Howard erreichte bereits im Jugendalter durch seine Rollen in den Fernsehserien Andy Griffith Show und Happy Days größere Bekanntheit, daneben spielte er in Kinofilmen wie American Graffiti mit.. Seit Ende der 1970er-Jahre arbeitet er als Regisseur und inszenierte erfolgreiche Hollywood-Filme wie Willow, Apollo 13, Der Grinch, The Da Vinci Code und Rush – Alles für den Sieg.. 2002 wurde er mit je einem Oscar in den Kategorien Beste Regie und Bester Film für seinen Film A Beautiful Mind – Genie und Wahnsinn ausgezeichnet.
 
 ## Gesehene Filme (20)
 
@@ -50,7 +50,7 @@ Ronald William Howard, geboren 1954 in Duncan, Oklahoma, ist ein US-amerikanisch
 | *EDtv* | 1999 | ⭐6 | Drama, Komödie |
 | *Der Grinch* | 2000 | ⭐6 | Komödie, Familienfilm, Fantasy |
 | *Inferno* | 2016 | ⭐6 | Thriller, Mystery, Action, Krimi, Drama, Abenteuer |
-| *Im Herzen der See* | 2015 | ⭐6 | Drama, Action, Abenteuer, Geschichte, Biografie |
+| *Im Herzen der See* | 2015 | ⭐6 | Animation, Drama, Action, Abenteuer, Geschichte, Biografie |
 | *Illuminati* | 2009 | ⭐6 | Mystery, Thriller |
 | *Cocoon* | 1985 | ⭐6 | Komödie, Drama, Science-Fiction |
 

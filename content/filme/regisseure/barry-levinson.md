@@ -7,7 +7,7 @@ average_rating: 6.13
 ---
 # Barry Levinson
 
-Barry Levinson (* 6. April 1942 in Baltimore, Maryland) ist ein US-amerikanischer Filmregisseur, Drehbuchautor und Produzent. Bevor er selbst Regie führte, schrieb er Drehbücher für Mel-Brooks-Komödien wie Silent Movie (1976) und Höhenkoller (1977). Sein Regiedebüt gab er 1982 mit der autobiografisch geprägten Coming-of-Age-Geschichte Diner, die den Auftakt seiner Baltimore-Trilogie bildete. Seinen größten Erfolg feierte er 1988 mit Rain Man, für den er den Oscar für die Beste Regie und den Filmpreis als Bester Film gewann. Zu seinen weiteren bekannten Werken zählen Good Morning, Vietnam (1987), Wag the Dog – Wenn der Schwanz mit dem Hund wedelt (1997) und die vielfach ausgezeichnete HBO-Serie Dopesick (2021).
+Barry Levinson ist ein US-amerikanischer Filmregisseur. Für Rain Man gewann er 1989 den Oscar in der Kategorie Beste Regie..
 
 ## Gesehene Filme (15)
 

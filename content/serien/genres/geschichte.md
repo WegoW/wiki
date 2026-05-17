@@ -2,12 +2,12 @@
 title: Geschichte
 type: entity
 tags: [genre, series, imdb]
-series_watched: 16
-average_rating: 7.62
+series_watched: 17
+average_rating: 7.53
 ---
 # Geschichte (Serien)
 
-**Serien:** 16 | **⌀ ⭐:** 7.62
+**Serien:** 17 | **⌀ ⭐:** 7.53
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

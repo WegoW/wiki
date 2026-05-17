@@ -7,7 +7,7 @@ average_rating: 6.79
 ---
 # Brian De Palma
 
-Brian De Palma (* 11. September 1940 in Newark, New Jersey) ist ein US-amerikanischer Filmregisseur, Drehbuchautor und Produzent, der vor allem für seine stilisierten Horror- und Thrillerfilme bekannt ist. Stark von Alfred Hitchcock beeinflusst, entwickelte er einen unverwechselbaren visuellen Stil mit Splitscreen-Aufnahmen, langen Kamerafahrten und hyperbolischer Gewaltdarstellung. Sein Durchbruch gelang ihm 1976 mit der Stephen-King-Verfilmung Carrie, gefolgt von Klassikern wie Dressed to Kill (1980), Blow Out (1981) und dem Gangster-Epos Scarface (1983). In den 1990er Jahren festigte er seinen Ruf mit The Untouchables (1987), Carlito's Way (1993) und Mission: Impossible (1996). Obwohl er nie einen Oscar gewann, zählt De Palma zu den prägendsten Figuren des amerikanischen Thriller- und Horrorfilms.
+Brian De Palma ist ein US-amerikanischer Filmregisseur..
 
 ## Gesehene Filme (19)
 

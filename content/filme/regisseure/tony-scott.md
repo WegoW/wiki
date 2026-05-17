@@ -7,7 +7,7 @@ average_rating: 6.0
 ---
 # Tony Scott
 
-Tony Scott, geboren am 21. Juni 1944 in North Shields, England, war ein britischer Filmregisseur und -produzent, der als Spezialist für actiongeladene Kinofilme galt. Nach einer erfolgreichen Karriere in der Werbung gelang ihm mit Top Gun (1986) der internationale Durchbruch, gefolgt von Hits wie Beverly Hills Cop II (1987), True Romance (1993) und Crimson Tide (1995). Seine visuell dynamischen Thriller Der Staatsfeind Nr. 1 (1998), Man on Fire (2004) und Déjà Vu (2006) festigten seinen Ruf als Meister des Hochspannungskinos. Gemeinsam mit seinem Bruder Ridley Scott gründete er die Produktionsfirmen RSA und Scott Free. Tony Scott verstarb am 19. August 2012 durch Suizid, nachdem bei ihm kurz zuvor Krebs diagnostiziert worden war.
+Tony Scott war ein britischer Filmregisseur und -produzent, der als Spezialist für Actionfilme galt.. Zu seinen bekanntesten Kinofilmen zählen Top Gun, True Romance, Crimson Tide, Spy Game und Der Staatsfeind Nr.. 1.
 
 ## Gesehene Filme (14)
 

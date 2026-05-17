@@ -7,7 +7,7 @@ average_rating: 5.94
 ---
 # Roland Emmerich
 
-Roland Emmerich (* 10. November 1955 in Stuttgart) ist ein deutscher Filmregisseur, Produzent und Drehbuchautor, der sich als Meister des modernen Katastrophenfilms einen Namen gemacht hat. Sein Studentenfilm *Das Arche Noah Prinzip* (1984) wurde bei den Berliner Filmfestspielen eröffnet und legte den Grundstein für seine Karriere. Mit *Stargate* (1994) gelang ihm der internationale Durchbruch, bevor *Independence Day* (1996) ihn endgültig in die Riege der erfolgreichsten Hollywood-Regisseure katapultierte – der Film war der erste, der weltweit über 100 Millionen Dollar in einer Woche einspielte. Seine Spektakel wie *Godzilla* (1998), *The Day After Tomorrow* (2004) und *2012* (2009) sind bekannt für epische Zerstörungsszenarien und hochentwickelte visuelle Effekte. Trotz oft gemischter Kritiken hat Emmerich ein untrügliches Gespür für Blockbuster-Unterhaltung und bleibt einer der erfolgreichsten deutschen Regisseure in Hollywood.
+Roland Emmerich ist ein deutscher Filmproduzent, Regisseur und Drehbuchautor.. Er wurde bekannt durch Action- und Katastrophenfilme wie Independence Day, Godzilla, Der Patriot, The Day After Tomorrow und 2012 sowie mit dem Science-Fiction-Film Stargate, auf dem auch mehrere Serien und Filme basieren.
 
 ## Gesehene Filme (17)
 
@@ -41,12 +41,12 @@ Roland Emmerich (* 10. November 1955 in Stuttgart) ist ein deutscher Filmregisse
 | *Universal Soldier* | 1992 | ⭐6 | Science-Fiction, Action |
 | *Godzilla* | 1998 | ⭐6 | Action, Science-Fiction, Thriller |
 | *Der Patriot* | 2000 | ⭐6 | Drama, Kriegsfilm, Action |
-| *Independence Day: Wiederkehr* | 2016 | ⭐6 | Action, Science-Fiction, Abenteuer |
+| *Independence Day: Wiederkehr* | 2016 | ⭐6 | Animation, Action, Science-Fiction, Abenteuer |
 | *2012 - Das Ende der Welt* | 2009 | ⭐6 | Action, Science-Fiction, Abenteuer |
 | *10.000 BC* | 2008 | ⭐6 | Abenteuer, Fantasy, Action, Drama, Geschichte |
 | *Joey* | 1985 | ⭐5 | Action, Abenteuer, Drama, Familienfilm, Mystery, Science-Fiction, Horror, Fantasy |
 | *Hollywood Monster* | 1987 | ⭐5 | Abenteuer, Horror, Fantasy, Komödie |
-| *Moonfall* | 2022 | ⭐5 | Science-Fiction, Abenteuer, Action |
+| *Moonfall* | 2022 | ⭐5 | Animation, Science-Fiction, Abenteuer, Action |
 | *Midway - Für die Freiheit* | 2019 | ⭐5 | Action, Drama, Geschichte, Kriegsfilm |
 | *Stargate* | 1994 | ⭐5 | Science-Fiction, Abenteuer, Action |
 | *White House Down* | 2013 | ⭐5 | Action, Drama, Thriller |

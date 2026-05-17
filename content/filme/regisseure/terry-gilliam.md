@@ -7,7 +7,7 @@ average_rating: 6.46
 ---
 # Terry Gilliam
 
-Terrence „Terry“ Vance Gilliam, geboren am 22. November 1940 in Minneapolis, ist ein amerikanisch-britischer Filmregisseur, Drehbuchautor, Komiker und Animator. Weltbekannt wurde er als Mitglied von Monty Python, für die er die surrealen Cut-Out-Animationen schuf. Seine dystopischen und fantastischen Filme wie Brazil (1985), 12 Monkeys (1995) und Fear and Loathing in Las Vegas (1998) machten ihn zu einem der originellsten Visionäre des Kinos. Nach jahrzehntelangen Schwierigkeiten vollendete er 2018 sein Herzensprojekt The Man Who Killed Don Quixote. Sein Stil verbindet surreale Bildwelten, schwarzen Humor und eine tiefe Skepsis gegenüber Bürokratie und Kontrollsystemen.
+Terrence „Terry“ Vance Gilliam [ˈɡɪliəm] ist ein amerikanisch-britischer Filmregisseur, Drehbuchautor, Komiker und Schauspieler.. Bekannt wurde er als Mitbegründer der Gruppe Monty Python.
 
 ## Gesehene Filme (13)
 

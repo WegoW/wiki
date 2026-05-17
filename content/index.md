@@ -108,7 +108,7 @@
 - [[filme/regisseure/john-badham|John Badham]] — 11 Filme, Ø 6.27
 - [[filme/regisseure/john-landis|John Landis]] — 15 Filme, Ø 6.87
 - [[filme/regisseure/luc-besson|Luc Besson]] — 10 Filme, Ø 6.80
-- [[filme/regisseure/martin-scorsese|Martin Scorsese]] — 19 Filme, Ø 7.11
+- [[filme/regisseure/martin-scorsese|Martin Scorsese]] — 20 Filme, Ø 7.05
 - [[filme/regisseure/michael-bay|Michael Bay]] — 12 Filme, Ø 4.50
 - [[filme/regisseure/oliver-stone|Oliver Stone]] — 12 Filme, Ø 6.17
 - [[filme/regisseure/peter-farrelly|Peter Farrelly]] — 10 Filme, Ø 5.90
@@ -131,6 +131,7 @@
 - [[filme/regisseure/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
 - [[filme/regisseure/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
 - [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
+
 
 
 

@@ -7,7 +7,7 @@ average_rating: 4.5
 ---
 # Michael Bay
 
-Michael Benjamin Bay (* 17. Februar 1965 in Los Angeles, Kalifornien) ist ein US-amerikanischer Regisseur und Produzent, der für seine Big-Budget-Actionfilme mit rasanter Schnitttechnik und explosiven Bildern bekannt ist – ein Stil, der oft als „Bayhem" bezeichnet wird. Nach seinem Studium am Art Center College of Design drehte er Werbespots und Musikvideos, bevor er 1995 mit *Bad Boys – Harte Jungs* sein Spielfilmdebüt gab. Es folgten die Blockbuster *The Rock – Fels der Entscheidung* (1996), *Armageddon* (1998) und *Pearl Harbor* (2001), die ihn als Meister des Spektakelkinos etablierten. Weltberühmt wurde er vor allem durch die *Transformers*-Filmreihe (2007–2017), die zu den erfolgreichsten Filmfranchises aller Zeiten zählt. Trotz oft gemischter Kritiken landeten seine Filme regelmäßig an der Spitze der weltweiten Box-Office-Charts.
+Michael Benjamin Bay ist ein US-amerikanischer Regisseur, Filmproduzent, Schauspieler und Kameraoperateur, der sich vor allem auf Actionfilme spezialisiert hat..
 
 ## Gesehene Filme (12)
 
@@ -37,7 +37,7 @@ Michael Benjamin Bay (* 17. Februar 1965 in Los Angeles, Kalifornien) ist ein US
 | *13 Hours: The Secret Soldiers of Benghazi* | 2016 | ⭐6 | Drama, Action, Kriegsfilm, Thriller, Geschichte |
 | *Pain & Gain* | 2013 | ⭐6 | Drama, Komödie, Krimi, Biografie, Mystery, Action |
 | *Bad Boys - Harte Jungs* | 1995 | ⭐6 | Krimi, Thriller, Komödie, Action |
-| *Transformers 3: Die dunkle Seite des Mondes* | 2011 | ⭐5 | Action, Abenteuer, Science-Fiction, Komödie, Thriller |
+| *Transformers 3: Die dunkle Seite des Mondes* | 2011 | ⭐5 | Animation, Action, Abenteuer, Science-Fiction, Komödie, Thriller |
 | *Transformers: Die Rache* | 2009 | ⭐5 | Science-Fiction, Action, Abenteuer |
 | *Pearl Harbor* | 2001 | ⭐4 | Drama, Liebesfilm, Kriegsfilm, Action |
 | *The Rock: Fels der Entscheidung* | 1996 | ⭐4 | Abenteuer, Thriller, Action |

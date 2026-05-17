@@ -2,16 +2,16 @@
 title: Martin Scorsese
 type: entity
 tags: [person, director, film, imdb]
-films_watched: 19
-average_rating: 7.11
+films_watched: 20
+average_rating: 7.05
 ---
 # Martin Scorsese
 
-Martin Charles Scorsese (* 17. November 1942 in Queens, New York) ist ein US-amerikanischer Regisseur, Drehbuchautor und Produzent italienischer Abstammung. Nach seinem Studium an der NYU prägte er mit *Hexenkessel* (1973) und *Taxi Driver* (1976) das New-Hollywood-Kino und gilt als einer der bedeutendsten Filmemacher seiner Generation. Seine Filme kreisen oft um Themen wie Schuld, Erlösung, Gewalt und die italo-amerikanische Identität, was in Meisterwerken wie *Wie ein wilder Stier* (1980), *GoodFellas* (1990) und *Casino* (1995) gipfelte. Nach sechs erfolglosen Oscar-Nominierungen gewann er 2007 endlich den Oscar für die Beste Regie für *Departed – Unter Feinden*; der Film erhielt zudem den Oscar als Bester Film. Auch mit *Hugo Cabret* (2011), *The Wolf of Wall Street* (2013), *The Irishman* (2019) und *Killers of the Flower Moon* (2023) bewies er seine bis heute ungebrochene künstlerische Schaffenskraft.
+Martin Charles Scorsese [skɔɹˈsɛsi] ist ein US-amerikanischer Regisseur, Drehbuchautor, Filmproduzent und Schauspieler. Er gehört zu den einflussreichsten Regisseuren des zeitgenössischen US-amerikanischen Kinos. Zu seinen bekanntesten Filmen zählen Taxi Driver (1976), Wie ein wilder Stier (1980), GoodFellas – Drei Jahrzehnte in der Mafia (1990), Casino (1995), Gangs of New York (2002), Departed – Unter Feinden (2006), The Wolf of Wall Street (2013) sowie The Irishman (2019)..
 
-## Gesehene Filme (19)
+## Gesehene Filme (20)
 
-**⌀-Bewertung:** 7.11 ★
+**⌀-Bewertung:** 7.05 ★
 
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
@@ -22,12 +22,12 @@ Martin Charles Scorsese (* 17. November 1942 in Queens, New York) ist ein US-ame
 | Rang | Schlechtester | Jahr | ⭐ (IMDb) |
 |------|---------------|------|-----------|
 | 1 | *Silence* | 2016 | ⭐4 (7.2) |
-| 2 | *Killers of the Flower Moon* | 2023 | ⭐6 (7.5) |
-| 3 | *King of Comedy* | 1982 | ⭐6 (7.8) |
+| 2 | *New York, New York* | 1977 | ⭐6 (6.6) |
+| 3 | *Killers of the Flower Moon* | 2023 | ⭐6 (7.5) |
 
 ### Bewertungsverteilung
 
-⭐9: 2 | ⭐8: 6 | ⭐7: 5 | ⭐6: 5 | ⭐4: 1
+⭐9: 2 | ⭐8: 6 | ⭐7: 5 | ⭐6: 6 | ⭐4: 1
 
 ### Alle Filme
 
@@ -46,6 +46,7 @@ Martin Charles Scorsese (* 17. November 1942 in Queens, New York) ist ein US-ame
 | *Shutter Island* | 2010 | ⭐7 | Thriller, Mystery, Drama |
 | *Casino* | 1995 | ⭐7 | Krimi, Drama |
 | *Wie ein wilder Stier* | 1980 | ⭐7 | Sportfilm, Biografie, Drama |
+| *New York, New York* | 1977 | ⭐6 | Musical, Musikfilm, Drama |
 | *Killers of the Flower Moon* | 2023 | ⭐6 | Drama, Krimi, Geschichte, Western |
 | *King of Comedy* | 1982 | ⭐6 | Thriller, Krimi, Drama, Komödie |
 | *Die Farbe des Geldes* | 1986 | ⭐6 | Sportfilm, Drama |

@@ -2,12 +2,12 @@
 title: Musikfilm
 type: entity
 tags: [genre, film, imdb]
-films_watched: 122
+films_watched: 123
 average_rating: 6.37
 ---
 # Musikfilm
 
-**Filme:** 122 | **⌀ ⭐:** 6.37
+**Filme:** 123 | **⌀ ⭐:** 6.37
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

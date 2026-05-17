@@ -7,7 +7,7 @@ average_rating: 7.17
 ---
 # David Fincher
 
-David Andrew Leo Fincher (* 28. August 1962 in Denver, Colorado) ist ein US-amerikanischer Filmregisseur und einer der einflussreichsten Filmemacher seiner Generation. Bevor er Spielfilme drehte, machte er sich mit Musikvideos für Madonna, Michael Jackson und die Rolling Stones sowie mit Werbespots einen Namen. Sein Durchbruch gelang ihm 1995 mit dem düsteren Thriller „Sieben“, der für seinen packenden Look und die bedrückende Atmosphäre gefeiert wurde. Es folgten Meisterwerke wie „Fight Club“ (1999), „Zodiac – Die Spur des Killers“ (2007) und „The Social Network“ (2010), für das er den Golden Globe als bester Regisseur gewann. Fincher ist für seinen akribischen Perfektionismus bekannt – er dreht zahlreiche Takes und schafft eine unverwechselbare, düster-elegante Bildsprache, die ihn zu einem der stilprägendsten Regisseure Hollywoods macht.
+David Andrew Leo Fincher ist ein US-amerikanischer Filmregisseur. Zu seinen bekanntesten Filmen zählen Alien 3 (1992), Sieben (1995), Fight Club (1999), The Social Network (2010) und Gone Girl (2014)..
 
 ## Gesehene Filme (12)
 

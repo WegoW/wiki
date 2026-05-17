@@ -7,7 +7,7 @@ average_rating: 8.5
 ---
 # Bryan Fuller
 
-Bryan Fuller (* 27. Juli 1969 in Lewiston, Idaho) ist ein US-amerikanischer Drehbuchautor, Fernsehproduzent und Showrunner. Bekannt wurde er als Creator der visuell opulenten Serien *Pushing Daisies* (2007) und *Hannibal* (2013), die für ihren makabren Humor und ihre ästhetische Inszenierung gefeiert wurden. Zuvor schrieb Fuller für *Star Trek: Deep Space Nine* und *Star Trek: Voyager* und entwickelte später *American Gods* sowie *Star Trek: Discovery* mit. Seine Serien sind durch ein gemeinsames Universum voller Querverweise und wiederkehrender Figuren verbunden, das Fans liebevoll „Fullerverse" nennen. Für *Pushing Daisies* erhielt er Emmy-Nominierungen; die Serie gewann insgesamt zwölf Emmys.
+Bryan Fuller ist ein US-amerikanischer Drehbuchautor, Fernsehproduzent und Filmregisseur.
 
 ## Serien-Credits (2)
 

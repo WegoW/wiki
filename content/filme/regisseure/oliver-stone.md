@@ -7,7 +7,7 @@ average_rating: 6.17
 ---
 # Oliver Stone
 
-William Oliver Stone (* 15. September 1946 in New York City) ist ein US-amerikanischer Regisseur, Drehbuchautor und Produzent, der für seine politisch brisanten und kontroversen Filme bekannt ist. Nach seinem Dienst im Vietnamkrieg studierte er Film an der New York University unter anderem bei Martin Scorsese. Den Durchbruch als Drehbuchautor schaffte er mit *Midnight Express* (1978), bevor er 1986 mit *Platoon* – basierend auf seinen eigenen Kriegserlebnissen – den Oscar für die Beste Regie gewann und sich als kritischer Chronist der amerikanischen Politik etablierte. Es folgten weitere Meisterwerke wie *Wall Street* (1987), *Geboren am 4. Juli* (1989, zweiter Regie-Oscar), *JFK – Tatort Dallas* (1991) und *Natural Born Killers* (1994). Seinen dritten Oscar erhielt Stone für die Drehbuchadaption von *Midnight Express*; insgesamt gilt er als einer der mutigsten und einflussreichsten politischen Filmemacher Hollywoods.
+William Oliver Stone ist ein US-amerikanischer Regisseur, Drehbuchautor und Produzent, der vor allem für politische Filme bekannt ist. Er wurde dreimal mit dem Oscar ausgezeichnet..
 
 ## Gesehene Filme (12)
 

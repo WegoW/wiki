@@ -7,7 +7,7 @@ average_rating: 6.5
 ---
 # Richard Donner
 
-Richard Donner (* 24. April 1930 in New York City; † 5. Juli 2021) war ein US-amerikanischer Filmregisseur und Produzent, der zu den erfolgreichsten Blockbuster-Regisseuren Hollywoods zählte. Seine Karriere begann im Episodenfernsehen mit Serien wie *Twilight Zone*, bevor er 1976 mit dem Horrorklassiker *Das Omen* seinen ersten großen Kinohit landete. 1978 setzte er mit *Superman – Der Film*, dem ersten großen Superhelden-Blockbuster, neue Maßstäbe für das Genre. In den 1980er Jahren folgten mit *Die Goonies* (1985) und der *Lethal-Weapon*-Reihe (ab 1987) weitere Kultfilme, die sein Talent für Action, Humor und Ensemble-Spannung unter Beweis stellten. Donner blieb bis ins hohe Alter aktiv und verstarb 2021 im Alter von 91 Jahren.
+Richard Donner war ein US-amerikanischer Filmregisseur und Produzent. Als Regisseur von Filmen wie Das Omen, Superman, Die Goonies und Lethal Weapon – Zwei stahlharte Profis galt er von Mitte der 1970er- bis in die 1990er-Jahre als einer der führenden Regisseure von Hollywood-Blockbustern..
 
 ## Gesehene Filme (12)
 

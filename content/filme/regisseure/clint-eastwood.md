@@ -7,7 +7,7 @@ average_rating: 6.96
 ---
 # Clint Eastwood
 
-Clinton „Clint" Eastwood Jr. (* 31. Mai 1930 in San Francisco) ist ein US-amerikanischer Schauspieler, Regisseur, Produzent, Filmkomponist und ehemaliger Politiker. Als wortkarger Westernheld der Dollar-Trilogie von Sergio Leone und als raubeiniger Inspektor „Dirty Harry" Callahan avancierte er ab den 1960er-Jahren zu einem weltweit erfolgreichen Star. Als Regisseur feierte er große Erfolge mit Erbarmungslos (1992) und Million Dollar Baby (2004), für die er jeweils den Oscar für die Beste Regie und den Besten Film gewann – mit 74 Jahren ist er der älteste Regisseur, der je einen Regie-Oscar erhielt. Eastwood dreht bis ins hohe Alter regelmäßig Filme, darunter Gran Torino (2008), American Sniper (2014) und Juror #2 (2024), und war von 1986 bis 1988 Bürgermeister von Carmel-by-the-Sea. Er ist einer der wenigen Künstler, der sowohl vor als auch hinter der Kamera über sechs Jahrzehnte hinweg Maßstäbe setzte.
+Clinton „Clint“ Eastwood Jr. ist ein US-amerikanischer Schauspieler, Regisseur, Produzent, Filmkomponist und ehemaliger Politiker der Republikanischen Partei. Als wortkarger Western- und Actionheld avancierte er ab den 1960er-Jahren zu einem weltweit erfolgreichen Star; der fünffache Oscarpreisträger wurde darüber hinaus zu einem renommierten Filmregisseur und -produzenten und war auch gelegentlich als Sänger tätig..
 
 ## Gesehene Filme (23)
 

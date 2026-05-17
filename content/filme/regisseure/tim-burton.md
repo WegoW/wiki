@@ -7,7 +7,7 @@ average_rating: 6.8
 ---
 # Tim Burton
 
-Timothy „Tim“ Walter Burton, geboren am 25. August 1958 in Burbank, Kalifornien, ist ein US-amerikanischer Filmregisseur, Produzent und Künstler, der für seinen unverwechselbaren Gothic-Fantasy-Stil bekannt ist. Nach seiner Zeit als Disney-Animator feierte er mit Beetlejuice (1988) und Batman (1989) seinen Durchbruch und schuf mit Edward mit den Scherenhänden (1990) einen modernen Kultklassiker. Er arbeitet regelmäßig mit Johnny Depp, Komponist Danny Elfman und Helena Bonham Carter zusammen und wurde für Corpse Bride (2005) und Frankenweenie (2012) für den Oscar nominiert. 2007 erhielt er den Goldenen Löwen für sein Lebenswerk in Venedig. Sein Stil vereint extravagante Optik, makabren Humor und eine tiefe Liebe zum Horrorkino und deutschen Expressionismus.
+Timothy „Tim“ Walter Burton ist ein US-amerikanischer Autor, Künstler, Produzent und Filmregisseur.
 
 ## Gesehene Filme (15)
 
@@ -39,7 +39,7 @@ Timothy „Tim“ Walter Burton, geboren am 25. August 1958 in Burbank, Kaliforn
 | *Ed Wood* | 1994 | ⭐8 | Biografie, Drama, Komödie |
 | *Planet der Affen* | 2001 | ⭐7 | Abenteuer, Thriller, Science-Fiction, Action |
 | *Die Insel der besonderen Kinder* | 2016 | ⭐7 | Fantasy, Abenteuer, Drama, Thriller, Familienfilm |
-| *Frankenweenie* | 2012 | ⭐7 | Animation, Komödie, Familienfilm, Science-Fiction, Horror, Drama, Thriller |
+| *Frankenweenie* | 2012 | ⭐7 | Animation, Komödie, Familienfilm, Science-Fiction, Horror, Drama, Thriller, Fantasy |
 | *Edward mit den Scherenhänden* | 1990 | ⭐7 | Drama, Liebesfilm, Fantasy |
 | *Big Fish - Der Zauber, der ein Leben zur Legende macht* | 2003 | ⭐7 | Fantasy, Abenteuer, Liebesfilm, Drama |
 | *Beetlejuice Beetlejuice* | 2024 | ⭐6 | Komödie, Fantasy, Horror |
