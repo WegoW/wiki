@@ -33,13 +33,13 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 
 | Film | Jahr | ⭐ | Genres |
 |------|------|-----|--------|
-| *Jäger des verlorenen Schatzes* | 1981 | ⭐10 | Abenteuer, Action |
+| *Jäger des verlorenen Schatzes* | 1981 | ⭐10 | Abenteuer |
 | *Der Soldat James Ryan* | 1998 | ⭐9 | Drama, Kriegsfilm |
 | *Ready Player One* | 2018 | ⭐8 | Science-Fiction, Action, Abenteuer |
 | *Indiana Jones und der Tempel des Todes* | 1984 | ⭐8 | Abenteuer, Action |
 | *Das Reich der Sonne* | 1987 | ⭐8 | Drama, Kriegsfilm |
 | *Minority Report* | 2002 | ⭐8 | Krimi, Science-Fiction, Mystery, Thriller, Action |
-| *Indiana Jones und der letzte Kreuzzug* | 1989 | ⭐8 | Abenteuer, Action |
+| *Indiana Jones und der letzte Kreuzzug* | 1989 | ⭐8 | Abenteuer |
 | *Die unheimliche Begegnung der 3. Art* | 1977 | ⭐8 | Science-Fiction, Drama |
 | *Die Farbe Lila* | 1985 | ⭐8 | Drama |
 | *Catch Me If You Can* | 2002 | ⭐8 | Drama, Biografie, Krimi |
@@ -47,7 +47,7 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 | *Krieg der Welten* | 2005 | ⭐8 | Science-Fiction, Abenteuer, Action |
 | *München* | 2005 | ⭐8 | Drama, Thriller, Geschichte |
 | *Die Fabelmans* | 2022 | ⭐7 | Drama |
-| *Jurassic Park* | 1993 | ⭐7 | Thriller, Action, Science-Fiction, Abenteuer |
+| *Jurassic Park* | 1993 | ⭐7 | Science-Fiction, Abenteuer |
 | *Die Verlegerin* | 2017 | ⭐7 | Drama, Biografie, Geschichte, Thriller, Kriegsfilm |
 | *Indiana Jones und das Königreich des Kristallschädels* | 2008 | ⭐7 | Action, Abenteuer |
 | *Vergessene Welt: Jurassic Park* | 1997 | ⭐7 | Action, Science-Fiction, Abenteuer |

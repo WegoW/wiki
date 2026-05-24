@@ -2,12 +2,12 @@
 title: Western
 type: entity
 tags: [genre, film, imdb]
-films_watched: 84
+films_watched: 85
 average_rating: 6.56
 ---
 # Western
 
-**Filme:** 84 | **⌀ ⭐:** 6.56
+**Filme:** 85 | **⌀ ⭐:** 6.56
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

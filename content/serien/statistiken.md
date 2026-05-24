@@ -11,7 +11,7 @@ source: CSV-Export IMDb (Stand Apr 2026)
 ## Gesamt
 
 - **Serien gesamt:** 309 (255 Fernsehserien, 54 Miniserien)
-- **⌀ Bewertung:** 7.47 ★
+- **⌀ Bewertung:** 7.46 ★
 - **⌀ IMDb-Rating:** 7.79
 - **⌀ Laufzeit/Episode:** 54 min
 
@@ -23,8 +23,8 @@ source: CSV-Export IMDb (Stand Apr 2026)
 | ⭐9 | 39 |
 | ⭐8 | 110 |
 | ⭐7 | 116 |
-| ⭐6 | 33 |
-| ⭐5 | 5 |
+| ⭐6 | 31 |
+| ⭐5 | 7 |
 | ⭐4 | 3 |
 
 ## Serien nach Jahrzehnt
@@ -56,13 +56,13 @@ source: CSV-Export IMDb (Stand Apr 2026)
 | [[serien/genres/drama|Drama]] | 237 |
 | [[serien/genres/science-fiction|Science-fiction]] | 124 |
 | [[serien/genres/thriller|Thriller]] | 118 |
-| [[serien/genres/action|Action]] | 103 |
 | [[serien/genres/mystery|Mystery]] | 101 |
+| [[serien/genres/action|Action]] | 98 |
 | [[serien/genres/komoedie|Komödie]] | 98 |
-| [[serien/genres/abenteuer|Abenteuer]] | 87 |
+| [[serien/genres/abenteuer|Abenteuer]] | 86 |
 | [[serien/genres/krimi|Krimi]] | 83 |
 | [[serien/genres/fantasy|Fantasy]] | 62 |
-| [[serien/genres/liebesfilm|Liebesfilm]] | 19 |
+| [[serien/genres/liebesfilm|Liebesfilm]] | 18 |
 
 ---
 

@@ -34,7 +34,7 @@ Shelton Jackson „Spike“ Lee ist ein US-amerikanischer Filmregisseur, Drehbuc
 | Film | Jahr | ⭐ | Genres |
 |------|------|-----|--------|
 | *Inside Man* | 2006 | ⭐9 | Krimi, Drama, Thriller, Mystery |
-| *BlacKkKlansman* | 2018 | ⭐7 | Biografie, Krimi, Drama, Komödie |
+| *BlacKkKlansman* | 2018 | ⭐7 | Biografie, Krimi, Drama, Komödie, Thriller |
 | *Summer of Sam* | 1999 | ⭐7 | Krimi, Thriller, Liebesfilm, Drama |
 | *Spiel des Lebens* | 1998 | ⭐7 | Sportfilm, Drama |
 | *25 Stunden* | 2002 | ⭐7 | Drama |

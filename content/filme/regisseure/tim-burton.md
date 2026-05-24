@@ -35,7 +35,7 @@ Timothy „Tim“ Walter Burton ist ein US-amerikanischer Autor, Künstler, Prod
 |------|------|-----|--------|
 | *Sleepy Hollow* | 1999 | ⭐8 | Mystery, Fantasy, Horror |
 | *Mars Attacks!* | 1996 | ⭐8 | Science-Fiction, Komödie |
-| *Batman* | 1989 | ⭐8 | Abenteuer, Action |
+| *Batman* | 1989 | ⭐8 | Krimi |
 | *Ed Wood* | 1994 | ⭐8 | Biografie, Drama, Komödie |
 | *Planet der Affen* | 2001 | ⭐7 | Abenteuer, Thriller, Science-Fiction, Action |
 | *Die Insel der besonderen Kinder* | 2016 | ⭐7 | Fantasy, Abenteuer, Drama, Thriller, Familienfilm |
