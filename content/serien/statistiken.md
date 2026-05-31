@@ -57,7 +57,7 @@ source: CSV-Export IMDb (Stand Apr 2026)
 | [[serien/genres/science-fiction|Science-fiction]] | 124 |
 | [[serien/genres/thriller|Thriller]] | 118 |
 | [[serien/genres/mystery|Mystery]] | 101 |
-| [[serien/genres/action|Action]] | 98 |
+| [[serien/genres/action|Action]] | 100 |
 | [[serien/genres/komoedie|Komödie]] | 98 |
 | [[serien/genres/abenteuer|Abenteuer]] | 86 |
 | [[serien/genres/krimi|Krimi]] | 83 |

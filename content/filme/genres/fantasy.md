@@ -2,12 +2,12 @@
 title: Fantasy
 type: entity
 tags: [genre, film, imdb]
-films_watched: 424
+films_watched: 423
 average_rating: 6.26
 ---
 # Fantasy
 
-**Filme:** 424 | **⌀ ⭐:** 6.26
+**Filme:** 423 | **⌀ ⭐:** 6.26
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

@@ -39,7 +39,7 @@ Sir Ridley Scott GBE ist ein britischer Filmregisseur und Filmproduzent. Er gilt
 | *White Squall - Reißende Strömung* | 1996 | ⭐8 | Drama, Abenteuer |
 | *Königreich der Himmel* | 2005 | ⭐8 | Action, Geschichte, Abenteuer, Kriegsfilm, Drama |
 | *Black Hawk Down* | 2001 | ⭐8 | Drama, Action, Geschichte, Kriegsfilm |
-| *Gladiator* | 2000 | ⭐8 | Drama |
+| *Gladiator* | 2000 | ⭐8 | Action, Abenteuer, Drama |
 | *American Gangster* | 2007 | ⭐8 | Drama, Krimi, Biografie |
 | *Gladiator II* | 2024 | ⭐7 | Abenteuer, Drama |
 | *Alles Geld der Welt* | 2017 | ⭐7 | Krimi, Mystery, Thriller, Drama, Geschichte, Biografie |

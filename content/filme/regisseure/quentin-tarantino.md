@@ -2,16 +2,16 @@
 title: Quentin Tarantino
 type: entity
 tags: [person, director, film, imdb]
-films_watched: 12
-average_rating: 8.08
+films_watched: 11
+average_rating: 8.09
 ---
 # Quentin Tarantino
 
 Quentin Jerome Tarantino [ˌtærənˈtiːnoʊ] ist ein US-amerikanischer Filmregisseur, Produzent, Drehbuchautor, Kameramann und Schauspieler. Er ist zweifacher Oscar- und dreifacher Golden-Globe-Preisträger sowie Gewinner der Goldenen Palme der Internationalen Filmfestspiele von Cannes..
 
-## Gesehene Filme (12)
+## Gesehene Filme (11)
 
-**⌀-Bewertung:** 8.08 ★
+**⌀-Bewertung:** 8.09 ★
 
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
@@ -27,7 +27,7 @@ Quentin Jerome Tarantino [ˌtærənˈtiːnoʊ] ist ein US-amerikanischer Filmreg
 
 ### Bewertungsverteilung
 
-⭐9: 3 | ⭐8: 7 | ⭐7: 2
+⭐9: 3 | ⭐8: 6 | ⭐7: 2
 
 ### Alle Filme
 
@@ -40,7 +40,6 @@ Quentin Jerome Tarantino [ˌtærənˈtiːnoʊ] ist ein US-amerikanischer Filmreg
 | *Jackie Brown* | 1997 | ⭐8 | Drama, Krimi, Thriller |
 | *Inglourious Basterds* | 2009 | ⭐8 | Kriegsfilm, Abenteuer, Drama |
 | *Reservoir Dogs - Wilde Hunde* | 1992 | ⭐8 | Krimi, Thriller |
-| *Sin City* | 2005 | ⭐8 | Krimi, Thriller |
 | *Kill Bill: Vol. 2* | 2004 | ⭐8 | Thriller, Krimi, Action |
 | *Death Proof - Todsicher* | 2007 | ⭐8 | Thriller, Drama |
 | *Silvester in fremden Betten* | 1995 | ⭐7 | Komödie |
