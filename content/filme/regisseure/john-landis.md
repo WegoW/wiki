@@ -23,7 +23,7 @@ John David Landis ist ein US-amerikanischer Filmregisseur, Drehbuchautor und Pro
 |------|---------------|------|-----------|
 | 1 | *Bloody Marie - Eine Frau mit Biß* | 1992 | ⭐4 (6.2) |
 | 2 | *Beverly Hills Cop III* | 1994 | ⭐5 (5.5) |
-| 3 | *Unheimliche Schattenlichter* | 1983 | ⭐6 (6.4) |
+| 3 | *Unheimliche Schattenlichter* | 1983 | ⭐6 (6.5) |
 
 ### Bewertungsverteilung
 

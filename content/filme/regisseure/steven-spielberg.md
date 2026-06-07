@@ -22,7 +22,7 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 | Rang | Schlechtester | Jahr | ⭐ (IMDb) |
 |------|---------------|------|-----------|
 | 1 | *Hook* | 1991 | ⭐4 (6.8) |
-| 2 | *Unheimliche Schattenlichter* | 1983 | ⭐6 (6.4) |
+| 2 | *Unheimliche Schattenlichter* | 1983 | ⭐6 (6.5) |
 | 3 | *Sugarland Express* | 1974 | ⭐6 (6.7) |
 
 ### Bewertungsverteilung
