@@ -43,6 +43,6 @@ Robert Anthony Rodriguez ist ein US-amerikanischer Filmregisseur, Drehbuchautor,
 | *Spy Kids 2: Die Rückkehr der Superspione* | 2002 | ⭐6 | Action, Science-Fiction, Familienfilm, Komödie, Abenteuer |
 | *Spy Kids* | 2001 | ⭐6 | Abenteuer, Science-Fiction, Komödie, Familienfilm, Action |
 | *El Mariachi* | 1992 | ⭐6 | Krimi, Thriller, Action |
-| *Sin City 2: A Dame to Kill For* | 2014 | ⭐6 | Animation, Krimi, Thriller, Action, Drama, Fantasy, Mystery |
+| *Sin City 2: A Dame to Kill For* | 2014 | ⭐6 | Krimi, Thriller, Action, Drama, Abenteuer |
 | *Spy Kids 3: Game Over* | 2003 | ⭐2 | Science-Fiction, Familienfilm, Abenteuer, Komödie, Action |
 

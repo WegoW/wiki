@@ -16,7 +16,7 @@ Sir Ridley Scott GBE ist ein britischer Filmregisseur und Filmproduzent. Er gilt
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
 | 1 | *Der Blade Runner* | 1982 | ⭐10 (8.1) |
-| 2 | *Alien: Das unheimliche Wesen aus einer fremden Welt* | 1979 | ⭐9 (8.5) |
+| 2 | *Alien: Das unheimliche Wesen aus einer fremden Welt* | 1979 | ⭐9 (8.4) |
 | 3 | *Der Marsianer: Rettet Mark Watney* | 2015 | ⭐8 (8.0) |
 
 | Rang | Schlechtester | Jahr | ⭐ (IMDb) |

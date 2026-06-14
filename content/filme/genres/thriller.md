@@ -2,12 +2,12 @@
 title: Thriller
 type: entity
 tags: [genre, film, imdb]
-films_watched: 1563
+films_watched: 1565
 average_rating: 6.33
 ---
 # Thriller
 
-**Filme:** 1563 | **⌀ ⭐:** 6.33
+**Filme:** 1565 | **⌀ ⭐:** 6.33
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

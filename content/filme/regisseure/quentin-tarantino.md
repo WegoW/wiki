@@ -38,7 +38,7 @@ Quentin Jerome Tarantino [ˌtærənˈtiːnoʊ] ist ein US-amerikanischer Filmreg
 | *Kill Bill - Vol. 1* | 2003 | ⭐9 | Action, Thriller, Krimi |
 | *Once Upon a Time In... Hollywood* | 2019 | ⭐8 | Drama, Komödie |
 | *Jackie Brown* | 1997 | ⭐8 | Drama, Krimi, Thriller |
-| *Inglourious Basterds* | 2009 | ⭐8 | Kriegsfilm, Abenteuer, Drama |
+| *Inglourious Basterds* | 2009 | ⭐8 | Kriegsfilm, Drama |
 | *Reservoir Dogs - Wilde Hunde* | 1992 | ⭐8 | Krimi, Thriller |
 | *Kill Bill: Vol. 2* | 2004 | ⭐8 | Thriller, Krimi, Action |
 | *Death Proof - Todsicher* | 2007 | ⭐8 | Thriller, Drama |
