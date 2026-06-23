@@ -41,12 +41,12 @@ Roland Emmerich ist ein deutscher Filmproduzent, Regisseur und Drehbuchautor.. E
 | *Universal Soldier* | 1992 | ⭐6 | Science-Fiction, Action |
 | *Godzilla* | 1998 | ⭐6 | Action, Science-Fiction, Thriller |
 | *Der Patriot* | 2000 | ⭐6 | Drama, Kriegsfilm, Action |
-| *Independence Day: Wiederkehr* | 2016 | ⭐6 | Animation, Action, Science-Fiction, Abenteuer |
+| *Independence Day: Wiederkehr* | 2016 | ⭐6 | Action, Science-Fiction, Abenteuer |
 | *2012 - Das Ende der Welt* | 2009 | ⭐6 | Action, Science-Fiction, Abenteuer |
 | *10.000 BC* | 2008 | ⭐6 | Abenteuer, Fantasy, Action, Drama, Geschichte |
 | *Joey* | 1985 | ⭐5 | Action, Abenteuer, Drama, Familienfilm, Mystery, Science-Fiction, Horror, Fantasy |
 | *Hollywood Monster* | 1987 | ⭐5 | Abenteuer, Horror, Fantasy, Komödie |
-| *Moonfall* | 2022 | ⭐5 | Animation, Science-Fiction, Abenteuer, Action |
+| *Moonfall* | 2022 | ⭐5 | Science-Fiction, Abenteuer, Action |
 | *Midway - Für die Freiheit* | 2019 | ⭐5 | Action, Drama, Geschichte, Kriegsfilm |
 | *Stargate* | 1994 | ⭐5 | Science-Fiction, Abenteuer, Action |
 | *White House Down* | 2013 | ⭐5 | Action, Drama, Thriller |

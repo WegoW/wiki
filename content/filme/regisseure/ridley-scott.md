@@ -50,7 +50,7 @@ Sir Ridley Scott GBE ist ein britischer Filmregisseur und Filmproduzent. Er gilt
 | *Thelma & Louise* | 1991 | ⭐7 | Drama, Abenteuer, Krimi |
 | *The Last Duel* | 2021 | ⭐6 | Drama, Geschichte, Thriller |
 | *Alien: Covenant* | 2017 | ⭐6 | Science-Fiction, Thriller, Horror |
-| *Exodus: Götter und Könige* | 2014 | ⭐6 | Animation, Drama, Action, Fantasy, Abenteuer |
+| *Exodus: Götter und Könige* | 2014 | ⭐6 | Drama, Action, Fantasy, Abenteuer |
 | *Der Mann im Hintergrund* | 1987 | ⭐6 | Drama, Krimi, Liebesfilm, Thriller |
 | *Die Akte Jane* | 1997 | ⭐6 | Kriegsfilm, Drama, Action |
 | *Der Mann, der niemals lebte* | 2008 | ⭐6 | Drama, Thriller, Action |

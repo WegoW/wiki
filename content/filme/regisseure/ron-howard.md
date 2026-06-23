@@ -50,7 +50,7 @@ Ronald William Howard ist ein US-amerikanischer Schauspieler, Regisseur und Film
 | *EDtv* | 1999 | ⭐6 | Drama, Komödie |
 | *Der Grinch* | 2000 | ⭐6 | Komödie, Familienfilm, Fantasy |
 | *Inferno* | 2016 | ⭐6 | Thriller, Mystery, Action, Krimi, Drama, Abenteuer |
-| *Im Herzen der See* | 2015 | ⭐6 | Animation, Drama, Action, Abenteuer, Geschichte, Biografie |
+| *Im Herzen der See* | 2015 | ⭐6 | Drama, Action, Abenteuer, Geschichte, Biografie |
 | *Illuminati* | 2009 | ⭐6 | Mystery, Thriller |
 | *Cocoon* | 1985 | ⭐6 | Komödie, Drama, Science-Fiction |
 

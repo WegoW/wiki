@@ -23,7 +23,7 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 |------|---------------|------|-----------|
 | 1 | *Hook* | 1991 | ⭐4 (6.8) |
 | 2 | *Unheimliche Schattenlichter* | 1983 | ⭐6 (6.5) |
-| 3 | *Sugarland Express* | 1974 | ⭐6 (6.7) |
+| 3 | *Sugarland Express* | 1974 | ⭐6 (6.8) |
 
 ### Bewertungsverteilung
 
@@ -46,7 +46,7 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 | *Schindlers Liste* | 1993 | ⭐8 | Biografie, Geschichte, Drama |
 | *Krieg der Welten* | 2005 | ⭐8 | Science-Fiction, Abenteuer, Action |
 | *München* | 2005 | ⭐8 | Drama, Thriller, Geschichte |
-| *Die Fabelmans* | 2022 | ⭐7 | Drama |
+| *Die Fabelmans* | 2022 | ⭐7 | Drama, Biografie |
 | *Jurassic Park* | 1993 | ⭐7 | Science-Fiction, Abenteuer |
 | *Die Verlegerin* | 2017 | ⭐7 | Drama, Biografie, Geschichte, Thriller, Kriegsfilm |
 | *Indiana Jones und das Königreich des Kristallschädels* | 2008 | ⭐7 | Action, Abenteuer |

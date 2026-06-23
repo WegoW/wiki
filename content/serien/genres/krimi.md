@@ -2,12 +2,12 @@
 title: Krimi
 type: entity
 tags: [genre, series, imdb]
-series_watched: 83
-average_rating: 7.9
+series_watched: 87
+average_rating: 7.87
 ---
 # Krimi (Serien)
 
-**Serien:** 83 | **⌀ ⭐:** 7.90
+**Serien:** 87 | **⌀ ⭐:** 7.87
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

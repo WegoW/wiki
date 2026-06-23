@@ -2,17 +2,17 @@
 title: Animation
 type: entity
 tags: [genre, film, imdb]
-films_watched: 129
-average_rating: 6.42
+films_watched: 90
+average_rating: 6.51
 ---
 # Animation
 
-**Filme:** 129 | **⌀ ⭐:** 6.42
+**Filme:** 90 | **⌀ ⭐:** 6.51
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|
 | 1 | *Soul* | 2020 | ⭐8 |
 | 2 | *Falsches Spiel mit Roger Rabbit* | 1988 | ⭐8 |
-| 3 | *Valerian - Die Stadt der tausend Planeten* | 2017 | ⭐8 |
-| 4 | *Rango* | 2011 | ⭐8 |
-| 5 | *Toy Story 3* | 2010 | ⭐8 |
+| 3 | *Rango* | 2011 | ⭐8 |
+| 4 | *Toy Story 3* | 2010 | ⭐8 |
+| 5 | *WALL·E - Der Letzte räumt die Erde auf* | 2008 | ⭐8 |

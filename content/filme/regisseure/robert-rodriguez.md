@@ -34,7 +34,7 @@ Robert Anthony Rodriguez ist ein US-amerikanischer Filmregisseur, Drehbuchautor,
 | Film | Jahr | ⭐ | Genres |
 |------|------|-----|--------|
 | *Sin City* | 2005 | ⭐8 | Krimi, Thriller |
-| *Alita: Battle Angel* | 2019 | ⭐7 | Animation, Science-Fiction, Action, Thriller, Abenteuer |
+| *Alita: Battle Angel* | 2019 | ⭐7 | Science-Fiction, Action, Thriller, Abenteuer |
 | *Silvester in fremden Betten* | 1995 | ⭐7 | Komödie |
 | *From Dusk Till Dawn* | 1996 | ⭐7 | Krimi, Action, Horror |
 | *The Faculty* | 1998 | ⭐7 | Mystery, Science-Fiction, Horror |

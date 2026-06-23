@@ -10,8 +10,8 @@ source: CSV-Export IMDb (Stand Apr 2026)
 
 ## Gesamt
 
-- **Serien gesamt:** 309 (255 Fernsehserien, 54 Miniserien)
-- **⌀ Bewertung:** 7.46 ★
+- **Serien gesamt:** 314 (259 Fernsehserien, 55 Miniserien)
+- **⌀ Bewertung:** 7.45 ★
 - **⌀ IMDb-Rating:** 7.79
 - **⌀ Laufzeit/Episode:** 54 min
 
@@ -22,8 +22,8 @@ source: CSV-Export IMDb (Stand Apr 2026)
 | ⭐10 | 3 |
 | ⭐9 | 39 |
 | ⭐8 | 110 |
-| ⭐7 | 116 |
-| ⭐6 | 31 |
+| ⭐7 | 120 |
+| ⭐6 | 32 |
 | ⭐5 | 7 |
 | ⭐4 | 3 |
 
@@ -36,15 +36,15 @@ source: CSV-Export IMDb (Stand Apr 2026)
 | [[serien/jahrzehnte/1980er|1980er]] | 9 |
 | [[serien/jahrzehnte/1990er|1990er]] | 16 |
 | [[serien/jahrzehnte/2000er|2000er]] | 39 |
-| [[serien/jahrzehnte/2010er|2010er]] | 97 |
-| [[serien/jahrzehnte/2020er|2020er]] | 144 |
+| [[serien/jahrzehnte/2010er|2010er]] | 99 |
+| [[serien/jahrzehnte/2020er|2020er]] | 147 |
 
 ## Top-Jahrgänge
 
 | Jahr | Serien |
 |------|-------|
 | 2024 | 29 |
-| 2021 | 27 |
+| 2021 | 28 |
 | 2022 | 27 |
 | 2023 | 22 |
 | 2019 | 21 |
@@ -53,15 +53,15 @@ source: CSV-Export IMDb (Stand Apr 2026)
 
 | Genre | Serien |
 |-------|-------|
-| [[serien/genres/drama|Drama]] | 237 |
+| [[serien/genres/drama|Drama]] | 240 |
 | [[serien/genres/science-fiction|Science-fiction]] | 124 |
-| [[serien/genres/thriller|Thriller]] | 118 |
-| [[serien/genres/mystery|Mystery]] | 101 |
+| [[serien/genres/thriller|Thriller]] | 120 |
+| [[serien/genres/mystery|Mystery]] | 103 |
+| [[serien/genres/komoedie|Komödie]] | 100 |
 | [[serien/genres/action|Action]] | 100 |
-| [[serien/genres/komoedie|Komödie]] | 98 |
+| [[serien/genres/krimi|Krimi]] | 87 |
 | [[serien/genres/abenteuer|Abenteuer]] | 86 |
-| [[serien/genres/krimi|Krimi]] | 83 |
-| [[serien/genres/fantasy|Fantasy]] | 62 |
+| [[serien/genres/fantasy|Fantasy]] | 63 |
 | [[serien/genres/liebesfilm|Liebesfilm]] | 18 |
 
 ---

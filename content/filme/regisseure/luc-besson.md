@@ -35,7 +35,7 @@ Luc Paul Maurice Besson ist ein französischer Filmregisseur, Filmproduzent und 
 |------|------|-----|--------|
 | *Das fünfte Element* | 1997 | ⭐9 | Abenteuer, Science-Fiction, Action |
 | *Léon: Der Profi* | 1994 | ⭐9 | Action, Drama, Krimi, Thriller |
-| *Valerian - Die Stadt der tausend Planeten* | 2017 | ⭐8 | Animation, Science-Fiction, Action, Abenteuer, Fantasy |
+| *Valerian - Die Stadt der tausend Planeten* | 2017 | ⭐8 | Science-Fiction, Action, Abenteuer, Fantasy |
 | *Nikita* | 1990 | ⭐7 | Action, Krimi, Drama, Thriller |
 | *Lucy* | 2014 | ⭐7 | Action, Science-Fiction, Thriller |
 | *Adèle und das Geheimnis des Pharaos* | 2010 | ⭐7 | Abenteuer, Action, Fantasy, Mystery, Familienfilm, Komödie |

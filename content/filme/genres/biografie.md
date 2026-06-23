@@ -2,12 +2,12 @@
 title: Biografie
 type: entity
 tags: [genre, film, imdb]
-films_watched: 284
+films_watched: 285
 average_rating: 6.54
 ---
 # Biografie
 
-**Filme:** 284 | **⌀ ⭐:** 6.54
+**Filme:** 285 | **⌀ ⭐:** 6.54
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

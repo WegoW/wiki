@@ -37,7 +37,7 @@ Michael Benjamin Bay ist ein US-amerikanischer Regisseur, Filmproduzent, Schausp
 | *13 Hours: The Secret Soldiers of Benghazi* | 2016 | ⭐6 | Drama, Action, Kriegsfilm, Thriller, Geschichte |
 | *Pain & Gain* | 2013 | ⭐6 | Drama, Komödie, Krimi, Biografie, Mystery, Action |
 | *Bad Boys - Harte Jungs* | 1995 | ⭐6 | Krimi, Thriller, Komödie, Action |
-| *Transformers 3: Die dunkle Seite des Mondes* | 2011 | ⭐5 | Animation, Action, Abenteuer, Science-Fiction, Komödie, Thriller |
+| *Transformers 3: Die dunkle Seite des Mondes* | 2011 | ⭐5 | Action, Abenteuer, Science-Fiction, Komödie, Thriller |
 | *Transformers: Die Rache* | 2009 | ⭐5 | Science-Fiction, Action, Abenteuer |
 | *Pearl Harbor* | 2001 | ⭐4 | Drama, Liebesfilm, Kriegsfilm, Action |
 | *The Rock: Fels der Entscheidung* | 1996 | ⭐4 | Abenteuer, Thriller, Action |
