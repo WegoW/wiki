@@ -10,7 +10,7 @@ source: CSV-Export IMDb (Stand Apr 2026)
 
 ## Gesamt
 
-- **Serien gesamt:** 314 (259 Fernsehserien, 55 Miniserien)
+- **Serien gesamt:** 314 (258 Fernsehserien, 56 Miniserien)
 - **⌀ Bewertung:** 7.45 ★
 - **⌀ IMDb-Rating:** 7.79
 - **⌀ Laufzeit/Episode:** 54 min
@@ -57,7 +57,7 @@ source: CSV-Export IMDb (Stand Apr 2026)
 | [[serien/genres/science-fiction|Science-fiction]] | 124 |
 | [[serien/genres/thriller|Thriller]] | 120 |
 | [[serien/genres/mystery|Mystery]] | 103 |
-| [[serien/genres/komoedie|Komödie]] | 100 |
+| [[serien/genres/komoedie|Komödie]] | 101 |
 | [[serien/genres/action|Action]] | 100 |
 | [[serien/genres/krimi|Krimi]] | 87 |
 | [[serien/genres/abenteuer|Abenteuer]] | 86 |

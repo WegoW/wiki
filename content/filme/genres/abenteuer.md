@@ -2,12 +2,12 @@
 title: Abenteuer
 type: entity
 tags: [genre, film, imdb]
-films_watched: 843
+films_watched: 845
 average_rating: 6.43
 ---
 # Abenteuer
 
-**Filme:** 843 | **⌀ ⭐:** 6.43
+**Filme:** 845 | **⌀ ⭐:** 6.43
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

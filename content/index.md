@@ -144,6 +144,7 @@
 
 
 
+
 ### Serien-Seiten
 - [[serien/top-10|Top 10 Serien]] — Meine persönliche Bestenliste
 - [[serien/statistiken|Serien-Statistiken]] — Übersicht, Verteilung, Top-Genres

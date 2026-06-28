@@ -22,7 +22,7 @@ Die Brüder Joel David Coen und Ethan Jesse Coen, auch bekannt als die Coen-Brü
 | Rang | Schlechtester | Jahr | ⭐ (IMDb) |
 |------|---------------|------|-----------|
 | 1 | *Barton Fink* | 1991 | ⭐5 (7.6) |
-| 2 | *Honey Don't!* | 2025 | ⭐6 (5.3) |
+| 2 | *Honey Don't!* | 2025 | ⭐6 (5.2) |
 | 3 | *Drive-Away Dolls* | 2024 | ⭐6 (5.4) |
 
 ### Bewertungsverteilung

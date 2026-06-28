@@ -16,7 +16,7 @@ Craig Mazin ist ein US-amerikanischer Drehbuchautor und Filmregisseur.
 | Rang | Serie | Jahr | ⭐ (IMDb) |
 |------|-------|------|-----------|
 | 1 | *Chernobyl* | 2019 | ⭐9 (9.3) |
-| 2 | *The Last of Us* | 2023 | ⭐8 (8.5) |
+| 2 | *The Last of Us* | 2023 | ⭐8 (8.4) |
 
 ### Alle Serien
 

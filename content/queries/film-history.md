@@ -1,7 +1,7 @@
 ---
 title: Meine Film- und Serien-History
 created: 2026-04-30
-updated: 2026-06-23
+updated: 2026-06-28
 type: query
 tags: [film, series, personal, culture]
 source: CSV-Export IMDb (Stand Jun 2026)
@@ -142,4 +142,4 @@ Folgende Künstler, die ich live gesehen habe, tauchen auch in meiner IMDb-Histo
 
 ---
 
-*Zuletzt aktualisiert: 2026-06-23*
+*Zuletzt aktualisiert: 2026-06-28*

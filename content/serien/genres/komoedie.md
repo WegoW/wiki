@@ -2,12 +2,12 @@
 title: Komödie
 type: entity
 tags: [genre, series, imdb]
-series_watched: 100
-average_rating: 7.21
+series_watched: 101
+average_rating: 7.2
 ---
 # Komödie (Serien)
 
-**Serien:** 100 | **⌀ ⭐:** 7.21
+**Serien:** 101 | **⌀ ⭐:** 7.20
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|
