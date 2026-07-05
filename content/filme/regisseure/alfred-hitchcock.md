@@ -16,7 +16,7 @@ Sir Alfred Joseph Hitchcock KBE war ein britischer Filmregisseur, Drehbuchautor,
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
 | 1 | *Der unsichtbare Dritte* | 1959 | ⭐9 (8.3) |
-| 2 | *Die Vögel* | 1963 | ⭐8 (7.6) |
+| 2 | *Die vögel* | 1963 | ⭐8 (7.6) |
 | 3 | *Psycho* | 1960 | ⭐8 (8.5) |
 
 | Rang | Schlechtester | Jahr | ⭐ (IMDb) |
@@ -34,7 +34,7 @@ Sir Alfred Joseph Hitchcock KBE war ein britischer Filmregisseur, Drehbuchautor,
 | Film | Jahr | ⭐ | Genres |
 |------|------|-----|--------|
 | *Der unsichtbare Dritte* | 1959 | ⭐9 | Mystery, Abenteuer, Drama, Thriller |
-| *Die Vögel* | 1963 | ⭐8 | Drama, Mystery, Liebesfilm, Horror |
+| *Die vögel* | 1963 | ⭐8 | Drama, Mystery, Liebesfilm, Horror |
 | *Der Fremde im Zug* | 1951 | ⭐8 | Krimi, Film Noir, Drama, Thriller |
 | *Vertigo: Aus dem Reich der Toten* | 1958 | ⭐8 | Liebesfilm, Thriller, Mystery |
 | *Psycho* | 1960 | ⭐8 | Mystery, Thriller, Horror, Drama |
