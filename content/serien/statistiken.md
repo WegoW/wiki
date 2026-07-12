@@ -13,7 +13,7 @@ source: CSV-Export IMDb (Stand Apr 2026)
 - **Serien gesamt:** 314 (258 Fernsehserien, 56 Miniserien)
 - **⌀ Bewertung:** 7.45 ★
 - **⌀ IMDb-Rating:** 7.79
-- **⌀ Laufzeit/Episode:** 54 min
+- **⌀ Laufzeit/Episode:** 59 min
 
 ## Bewertungsverteilung
 

@@ -34,7 +34,7 @@ Michael Benjamin Bay ist ein US-amerikanischer Regisseur, Filmproduzent, Schausp
 | Film | Jahr | ⭐ | Genres |
 |------|------|-----|--------|
 | *Die Insel* | 2005 | ⭐7 | Science-Fiction, Thriller, Action |
-| *13 Hours: The Secret Soldiers of Benghazi* | 2016 | ⭐6 | Drama, Action, Kriegsfilm, Thriller, Geschichte, Abenteuer, Biografie |
+| *13 Hours: The Secret Soldiers of Benghazi* | 2016 | ⭐6 | Drama, Action, Kriegsfilm, Thriller, Geschichte |
 | *Pain & Gain* | 2013 | ⭐6 | Drama, Komödie, Krimi, Biografie, Mystery, Action |
 | *Bad Boys - Harte Jungs* | 1995 | ⭐6 | Krimi, Thriller, Komödie, Action |
 | *Transformers 3: Die dunkle Seite des Mondes* | 2011 | ⭐5 | Action, Abenteuer, Science-Fiction, Komödie, Thriller |

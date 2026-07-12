@@ -15,7 +15,7 @@ William Oliver Stone ist ein US-amerikanischer Regisseur, Drehbuchautor und Prod
 
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
-| 1 | *Platoon* | 1986 | ⭐9 (8.1) |
+| 1 | *Platoon* | 1986 | ⭐9 (8.0) |
 | 2 | *Snowden* | 2016 | ⭐7 (7.3) |
 | 3 | *Wall Street* | 1987 | ⭐7 (7.3) |
 

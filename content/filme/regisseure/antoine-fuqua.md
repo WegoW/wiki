@@ -39,7 +39,7 @@ Antoine Fuqua ist ein US-amerikanischer Regisseur von Spielfilmen, Musikvideos u
 | *Gesetz der Strasse - Brooklyn's Finest* | 2009 | ⭐7 | Krimi, Drama, Thriller |
 | *The Equalizer 3 - The Final Chapter* | 2023 | ⭐6 | Action, Krimi, Thriller |
 | *The Equalizer 2* | 2018 | ⭐6 | Action, Krimi, Thriller, Mystery |
-| *Olympus Has Fallen - Die Welt in Gefahr* | 2013 | ⭐6 | Action, Thriller, Abenteuer, Drama |
+| *Olympus Has Fallen - Die Welt in Gefahr* | 2013 | ⭐6 | Action, Thriller |
 | *Training Day* | 2001 | ⭐6 | Krimi, Drama, Thriller |
 | *Bait - Fette Beute* | 2000 | ⭐6 | Krimi, Thriller, Komödie, Action |
 | *Tränen der Sonne* | 2003 | ⭐6 | Drama, Kriegsfilm, Thriller, Action |
