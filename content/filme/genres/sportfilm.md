@@ -2,12 +2,12 @@
 title: Sportfilm
 type: entity
 tags: [genre, film, imdb]
-films_watched: 88
+films_watched: 89
 average_rating: 6.24
 ---
 # Sportfilm
 
-**Filme:** 88 | **⌀ ⭐:** 6.24
+**Filme:** 89 | **⌀ ⭐:** 6.24
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

@@ -72,7 +72,7 @@
 ### Sammlungen
 - [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
 
-## Filme & Serien (4.011)
+## Filme & Serien (4.013)
 ### Konzert-Künstler mit Filmbeteiligung
 - [[konzerte/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
 - [[konzerte/prince|Prince]] — Purple Rain ⭐8, Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
@@ -131,6 +131,7 @@
 - [[filme/regisseure/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
 - [[filme/regisseure/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
 - [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
+
 
 
 

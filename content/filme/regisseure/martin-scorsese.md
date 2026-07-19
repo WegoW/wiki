@@ -43,7 +43,7 @@ Martin Charles Scorsese [skɔɹˈsɛsi] ist ein US-amerikanischer Regisseur, Dre
 | *Aviator* | 2004 | ⭐8 | Biografie, Drama |
 | *The Irishman* | 2019 | ⭐7 | Krimi, Drama, Biografie, Geschichte, Thriller |
 | *The Wolf of Wall Street* | 2013 | ⭐7 | Krimi, Drama, Biografie, Komödie |
-| *Shutter Island* | 2010 | ⭐7 | Thriller, Mystery, Drama |
+| *Shutter Island* | 2010 | ⭐7 | Thriller, Mystery |
 | *Casino* | 1995 | ⭐7 | Krimi, Drama |
 | *Wie ein wilder Stier* | 1980 | ⭐7 | Sportfilm, Biografie, Drama |
 | *New York, New York* | 1977 | ⭐6 | Musical, Musikfilm, Drama |
