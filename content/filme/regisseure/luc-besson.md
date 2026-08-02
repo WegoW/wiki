@@ -39,7 +39,7 @@ Luc Paul Maurice Besson ist ein französischer Filmregisseur, Filmproduzent und 
 | *Nikita* | 1990 | ⭐7 | Action, Krimi, Drama, Thriller |
 | *Lucy* | 2014 | ⭐7 | Action, Science-Fiction, Thriller |
 | *Adèle und das Geheimnis des Pharaos* | 2010 | ⭐7 | Abenteuer, Action, Fantasy, Mystery, Familienfilm, Komödie |
-| *Anna: Die Agentin* | 2019 | ⭐6 | Action, Thriller, Abenteuer, Drama |
+| *Anna: Die Agentin* | 2019 | ⭐6 | Action, Thriller, Abenteuer |
 | *Malavita - The Family* | 2013 | ⭐6 | Komödie, Krimi, Thriller |
 | *Angel-A* | 2005 | ⭐5 | Komödie, Liebesfilm, Fantasy, Drama |
 | *Johanna von Orleans* | 1999 | ⭐4 | Biografie, Geschichte, Abenteuer, Drama, Kriegsfilm |

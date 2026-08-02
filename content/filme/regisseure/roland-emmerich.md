@@ -49,5 +49,5 @@ Roland Emmerich ist ein deutscher Filmproduzent, Regisseur und Drehbuchautor.. E
 | *Moonfall* | 2022 | ⭐5 | Science-Fiction, Abenteuer, Action |
 | *Midway - Für die Freiheit* | 2019 | ⭐5 | Action, Drama, Geschichte, Kriegsfilm |
 | *Stargate* | 1994 | ⭐5 | Science-Fiction, Abenteuer, Action |
-| *White House Down* | 2013 | ⭐5 | Action, Drama, Thriller, Abenteuer |
+| *White House Down* | 2013 | ⭐5 | Action, Drama, Thriller |
 

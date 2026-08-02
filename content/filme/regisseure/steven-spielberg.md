@@ -2,16 +2,16 @@
 title: Steven Spielberg
 type: entity
 tags: [person, director, film, imdb]
-films_watched: 32
-average_rating: 7.25
+films_watched: 33
+average_rating: 7.24
 ---
 # Steven Spielberg
 
 Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent und Drehbuchautor..
 
-## Gesehene Filme (32)
+## Gesehene Filme (33)
 
-**⌀-Bewertung:** 7.25 ★
+**⌀-Bewertung:** 7.24 ★
 
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
@@ -23,11 +23,11 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 |------|---------------|------|-----------|
 | 1 | *Hook* | 1991 | ⭐4 (6.8) |
 | 2 | *Unheimliche Schattenlichter* | 1983 | ⭐6 (6.5) |
-| 3 | *Sugarland Express* | 1974 | ⭐6 (6.8) |
+| 3 | *Sugarland Express* | 1974 | ⭐6 (6.7) |
 
 ### Bewertungsverteilung
 
-⭐10: 1 | ⭐9: 1 | ⭐8: 11 | ⭐7: 13 | ⭐6: 5 | ⭐4: 1
+⭐10: 1 | ⭐9: 1 | ⭐8: 11 | ⭐7: 14 | ⭐6: 5 | ⭐4: 1
 
 ### Alle Filme
 
@@ -46,6 +46,7 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 | *Schindlers Liste* | 1993 | ⭐8 | Biografie, Geschichte, Drama |
 | *Krieg der Welten* | 2005 | ⭐8 | Science-Fiction, Abenteuer, Action |
 | *München* | 2005 | ⭐8 | Drama, Thriller, Geschichte |
+| *Disclosure Day - Der Tag der Wahrheit* | 2026 | ⭐7 | Science-Fiction, Thriller, Drama, Mystery, Action |
 | *Die Fabelmans* | 2022 | ⭐7 | Drama, Biografie |
 | *Jurassic Park* | 1993 | ⭐7 | Science-Fiction, Abenteuer |
 | *Die Verlegerin* | 2017 | ⭐7 | Drama, Biografie, Geschichte, Thriller, Kriegsfilm |

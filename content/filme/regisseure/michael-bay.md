@@ -44,5 +44,5 @@ Michael Benjamin Bay ist ein US-amerikanischer Regisseur, Filmproduzent, Schausp
 | *Transformers* | 2007 | ⭐4 | Action, Science-Fiction, Abenteuer |
 | *Armageddon - Das jüngste Gericht* | 1998 | ⭐3 | Abenteuer, Science-Fiction, Thriller, Action |
 | *Bad Boys II* | 2003 | ⭐3 | Krimi, Thriller, Komödie, Action |
-| *6 Underground* | 2019 | ⭐1 | Action, Thriller, Abenteuer, Komödie, Drama |
+| *6 Underground* | 2019 | ⭐1 | Action, Thriller |
 
