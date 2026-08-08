@@ -180,11 +180,11 @@
 - [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
 - [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
 
-## Hörbücher (120)
+## Hörbücher (121)
 > Nur Autoren mit mindestens 3 Hörbüchern in der Sammlung.
 - [[hoerbuecher/andy-weir|Andy Weir]] — 2 Hörbücher
 - [[hoerbuecher/dan-brown|Dan Brown]] — 3 Hörbücher
-- [[hoerbuecher/daniel-suarez|Daniel Suarez]] — 6 Hörbücher
+- [[hoerbuecher/daniel-suarez|Daniel Suarez]] — 7 Hörbücher
 - [[hoerbuecher/dennis-e-taylor|Dennis E. Taylor]] — 4 Hörbücher
 - [[hoerbuecher/frank-schaetzing|Frank Schätzing]] — 4 Hörbücher
 - [[hoerbuecher/herbert-w-franke|Herbert W. Franke]] — 3 Hörbücher
@@ -198,5 +198,5 @@
 - [[hoerbuecher/terry-pratchett|Terry Pratchett]] — 8 Hörbücher
 
 ### Sammlungen
-- [[queries/audiobook-collection|Gehörte Hörbücher und Hörspiele]] — Persönliche Sammlung von 119 Hörbüchern und Hörspielen
+- [[queries/audiobook-collection|Gehörte Hörbücher und Hörspiele]] — Persönliche Sammlung von 121 Hörbüchern und Hörspielen
 

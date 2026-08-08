@@ -1,7 +1,7 @@
 ---
 title: Daniel Suarez
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-08-08
 type: entity
 tags: [person, culture]
 sources: [raw/personal/audiobook-list-2026.md]
@@ -16,6 +16,7 @@ Daniel Suarez oder Daniel Suárez ist der Name folgender Personen:Daniel Suarez 
 
 - BIOS
 - Control
+- Critical Mass — ✅ gehört
 - Daemon
 - Darknet
 - Delta-V
