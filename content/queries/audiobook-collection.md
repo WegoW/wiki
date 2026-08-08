@@ -10,7 +10,7 @@ confidence: medium
 
 # Gehörte Hörbücher und Hörspiele
 
-Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 121 Titel von 53 Autoren.
+Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 122 Titel von 53 Autoren.
 
 ## Genre-Übersicht
 
@@ -18,7 +18,7 @@ Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 121 Titel von
 - **Satire / Humor**: 13 Titel
 - **Fantasy**: 10 Titel
 - **Thriller**: 6 Titel
-- **Sonstiges**: 5 Titel
+- **Sonstiges**: 6 Titel
 - **Horror / Mystery**: 4 Titel
 - **Sachbuch / Essay**: 2 Titel
 - **Krimi / Horror**: 1 Titel
@@ -77,78 +77,79 @@ Persönliche Liste von **gehörten** Hörbüchern und Hörspielen. 121 Titel von
 | 47 | Larry Brent | Folgen 1-15 | Krimi / Horror |
 | 48 | Lewis Carroll | Alice im Wunderland | Fantasy |
 | 49 | Marc Uwe Kling | QualityLand | Sonstiges |
-| 50 | Max Goldt | Die Radiotrinkerin & Die legendäre letzte Zigarette | Satire / Humor |
-| 51 | Max Goldt | Die sonderbare Zwitter-CD | Satire / Humor |
-| 52 | Max Goldt | Die Aschenbechergymnastik | Satire / Humor |
-| 53 | Max Goldt | Die Majestätische Ruhe des Anorganischen | Satire / Humor |
-| 54 | Max Goldt | Ein Leben auf der Flucht vor der Koralle | Satire / Humor |
-| 55 | Max Goldt | Für Nächte am offenen Fenster | Satire / Humor |
-| 56 | Max Goldt | Die CD Mit Dem Kafferingcover | Satire / Humor |
-| 57 | Max Goldt | Wei'dfe Arme wei'dfer Rumpf | Satire / Humor |
-| 58 | Max Goldt | Nirgendwo Fichtenkreuzschnäbel_ Ueberall Fichtenkreuzschnäbel | Satire / Humor |
-| 59 | Max Goldt | Restaurants Restaurants Restaurants | Satire / Humor |
-| 60 | Max Goldt | Weihnachten Im Bordell | Satire / Humor |
-| 61 | Michael Crichton | NEXT | Science-Fiction |
-| 62 | Michael Esser | Electric Lady Land | Science-Fiction |
-| 63 | Michael Esser | Infoplankton | Science-Fiction |
-| 64 | Nick Hornby | Fever Pitch | Sport / Memoir |
-| 65 | Perry Rhodan | 05 Vorsto'df nach Arkon | Science-Fiction |
-| 66 | Perry Rhodan | 11 Der Fall Kolumbus | Science-Fiction |
-| 67 | Perry Rhodan | 06 Der Robotregent | Science-Fiction |
-| 68 | Perry Rhodan | 04 Der kosmische Lockvogel | Science-Fiction |
-| 69 | Perry Rhodan | 07 Atlan | Science-Fiction |
-| 70 | Perry Rhodan | 03 Der Unsterbliche | Science-Fiction |
-| 71 | Perry Rhodan | 01 Die dritte Macht | Science-Fiction |
-| 72 | Perry Rhodan | 09 Das rote Universum | Science-Fiction |
-| 73 | Perry Rhodan | 02 Das Mutanten-Korps | Science-Fiction |
-| 74 | Perry Rhodan | 08 Festung Atlantis | Science-Fiction |
-| 75 | Perry Rhodan | 10 Thora | Science-Fiction |
-| 76 | Peter F. Hamilton | Commonwealth Saga - Der Stern der Pandora | Science-Fiction |
-| 77 | Peter F. Hamilton | Commonwealth Saga - Der entfesselte Judas | Science-Fiction |
-| 78 | Peter F. Hamilton | Das dunkle Universum - Träumende Leere | Science-Fiction |
-| 79 | Peter F. Hamilton | Das dunkle Universum - Schwarze Welt | Science-Fiction |
-| 80 | Peter F. Hamilton | Das dunkle Universum - Im Sog der Zeit | Science-Fiction |
-| 81 | Peter F. Hamilton | Das dunkle Universum - Evolution der Leere | Science-Fiction |
-| 82 | Philip K. Dick | Kurzgeschichten | Science-Fiction |
-| 83 | Philip K. Dick | Die Kolonie | Science-Fiction |
-| 84 | Philip K. Dick | Irrgarten des Todes | Science-Fiction |
-| 85 | Philip K. Dick | Träumen Androiden (Blade Runner) | Science-Fiction |
-| 86 | Philip K. Dick | Zeit Aus Den Fugen | Science-Fiction |
-| 87 | Philip K. Dick | Schmetterling Mit Hakenkreuzen | Science-Fiction |
-| 88 | Philip K. Dick | Ubik | Science-Fiction |
-| 89 | Ray Bradbury | Die Mars-Chroniken | Science-Fiction |
-| 90 | Ren Dhark | Havarie Im Hyperraum | Science-Fiction |
-| 91 | Ren Dhark | Sternendschungel Galaxis | Science-Fiction |
-| 92 | Ren Dhark | Ruf Aus Der Vergangenheit | Science-Fiction |
-| 93 | Richard Farber | Mission Argo | Science-Fiction |
-| 94 | Roald Dahl | Nerz und Masche | Horror / Mystery |
-| 95 | Roald Dahl | Der Weg zum Himmel | Horror / Mystery |
-| 96 | Robert A. Heinlein | Revolte Auf Luna | Science-Fiction |
-| 97 | Robert A. Heinlein | Im Kreis | Science-Fiction |
-| 98 | Robert Kiosaki | Reichtum kann man lernen | Sachbuch / Essay |
-| 99 | Robert Sheckley | Der Minimalforscher | Science-Fiction |
-| 100 | Stanislav Lem | Die Lymphatersche Formel | Science-Fiction |
-| 101 | Stanislaw Lem | Der Futurologische Kongress | Science-Fiction |
-| 102 | Stanislaw Lem | Der Getreue Roboter | Science-Fiction |
-| 103 | Stanislaw Lem | Eden | Science-Fiction |
-| 104 | Stanislaw Lem | Rückkehr zur Erde | Science-Fiction |
-| 105 | Stanislaw Lem | Sterntagebücher | Science-Fiction |
-| 106 | Stanislaw Lem | Das Chronoskop | Science-Fiction |
-| 107 | Tad Williams | Otherland | Science-Fiction |
-| 108 | Takimo | Panaray 001 | Science-Fiction |
-| 109 | Terry Pratchett | Flügel | Fantasy |
-| 110 | Terry Pratchett | Mummenschanz | Fantasy |
-| 111 | Terry Pratchett | Die Nachtwächter | Fantasy |
-| 112 | Terry Pratchett | Wühler | Fantasy |
-| 113 | Terry Pratchett | Ab die Post | Fantasy |
-| 114 | Terry Pratchett | Trucker | Fantasy |
-| 115 | Terry Pratchett | Der Fünfte Elefant | Fantasy |
-| 116 | Terry Pratchett | Pyramiden | Fantasy |
-| 117 | Tom Clancy | Im Zeichen Des Drachen | Thriller |
-| 118 | Umberto Eco | Das Foucaultsche Pendel | Sonstiges |
-| 119 | Walter Adler | Centropolis | Science-Fiction |
-| 120 | Walter Knaus | Welt ohne Schlaf | Science-Fiction |
-| 121 | William Gibson | Neuromancer | Sonstiges |
+| 50 | Marc Uwe Kling | QualityLand 2.0 | Sonstiges |
+| 51 | Max Goldt | Die Radiotrinkerin & Die legendäre letzte Zigarette | Satire / Humor |
+| 52 | Max Goldt | Die sonderbare Zwitter-CD | Satire / Humor |
+| 53 | Max Goldt | Die Aschenbechergymnastik | Satire / Humor |
+| 54 | Max Goldt | Die Majestätische Ruhe des Anorganischen | Satire / Humor |
+| 55 | Max Goldt | Ein Leben auf der Flucht vor der Koralle | Satire / Humor |
+| 56 | Max Goldt | Für Nächte am offenen Fenster | Satire / Humor |
+| 57 | Max Goldt | Die CD Mit Dem Kafferingcover | Satire / Humor |
+| 58 | Max Goldt | Wei'dfe Arme wei'dfer Rumpf | Satire / Humor |
+| 59 | Max Goldt | Nirgendwo Fichtenkreuzschnäbel_ Ueberall Fichtenkreuzschnäbel | Satire / Humor |
+| 60 | Max Goldt | Restaurants Restaurants Restaurants | Satire / Humor |
+| 61 | Max Goldt | Weihnachten Im Bordell | Satire / Humor |
+| 62 | Michael Crichton | NEXT | Science-Fiction |
+| 63 | Michael Esser | Electric Lady Land | Science-Fiction |
+| 64 | Michael Esser | Infoplankton | Science-Fiction |
+| 65 | Nick Hornby | Fever Pitch | Sport / Memoir |
+| 66 | Perry Rhodan | 05 Vorsto'df nach Arkon | Science-Fiction |
+| 67 | Perry Rhodan | 11 Der Fall Kolumbus | Science-Fiction |
+| 68 | Perry Rhodan | 06 Der Robotregent | Science-Fiction |
+| 69 | Perry Rhodan | 04 Der kosmische Lockvogel | Science-Fiction |
+| 70 | Perry Rhodan | 07 Atlan | Science-Fiction |
+| 71 | Perry Rhodan | 03 Der Unsterbliche | Science-Fiction |
+| 72 | Perry Rhodan | 01 Die dritte Macht | Science-Fiction |
+| 73 | Perry Rhodan | 09 Das rote Universum | Science-Fiction |
+| 74 | Perry Rhodan | 02 Das Mutanten-Korps | Science-Fiction |
+| 75 | Perry Rhodan | 08 Festung Atlantis | Science-Fiction |
+| 76 | Perry Rhodan | 10 Thora | Science-Fiction |
+| 77 | Peter F. Hamilton | Commonwealth Saga - Der Stern der Pandora | Science-Fiction |
+| 78 | Peter F. Hamilton | Commonwealth Saga - Der entfesselte Judas | Science-Fiction |
+| 79 | Peter F. Hamilton | Das dunkle Universum - Träumende Leere | Science-Fiction |
+| 80 | Peter F. Hamilton | Das dunkle Universum - Schwarze Welt | Science-Fiction |
+| 81 | Peter F. Hamilton | Das dunkle Universum - Im Sog der Zeit | Science-Fiction |
+| 82 | Peter F. Hamilton | Das dunkle Universum - Evolution der Leere | Science-Fiction |
+| 83 | Philip K. Dick | Kurzgeschichten | Science-Fiction |
+| 84 | Philip K. Dick | Die Kolonie | Science-Fiction |
+| 85 | Philip K. Dick | Irrgarten des Todes | Science-Fiction |
+| 86 | Philip K. Dick | Träumen Androiden (Blade Runner) | Science-Fiction |
+| 87 | Philip K. Dick | Zeit Aus Den Fugen | Science-Fiction |
+| 88 | Philip K. Dick | Schmetterling Mit Hakenkreuzen | Science-Fiction |
+| 89 | Philip K. Dick | Ubik | Science-Fiction |
+| 90 | Ray Bradbury | Die Mars-Chroniken | Science-Fiction |
+| 91 | Ren Dhark | Havarie Im Hyperraum | Science-Fiction |
+| 92 | Ren Dhark | Sternendschungel Galaxis | Science-Fiction |
+| 93 | Ren Dhark | Ruf Aus Der Vergangenheit | Science-Fiction |
+| 94 | Richard Farber | Mission Argo | Science-Fiction |
+| 95 | Roald Dahl | Nerz und Masche | Horror / Mystery |
+| 96 | Roald Dahl | Der Weg zum Himmel | Horror / Mystery |
+| 97 | Robert A. Heinlein | Revolte Auf Luna | Science-Fiction |
+| 98 | Robert A. Heinlein | Im Kreis | Science-Fiction |
+| 99 | Robert Kiosaki | Reichtum kann man lernen | Sachbuch / Essay |
+| 100 | Robert Sheckley | Der Minimalforscher | Science-Fiction |
+| 101 | Stanislav Lem | Die Lymphatersche Formel | Science-Fiction |
+| 102 | Stanislaw Lem | Der Futurologische Kongress | Science-Fiction |
+| 103 | Stanislaw Lem | Der Getreue Roboter | Science-Fiction |
+| 104 | Stanislaw Lem | Eden | Science-Fiction |
+| 105 | Stanislaw Lem | Rückkehr zur Erde | Science-Fiction |
+| 106 | Stanislaw Lem | Sterntagebücher | Science-Fiction |
+| 107 | Stanislaw Lem | Das Chronoskop | Science-Fiction |
+| 108 | Tad Williams | Otherland | Science-Fiction |
+| 109 | Takimo | Panaray 001 | Science-Fiction |
+| 110 | Terry Pratchett | Flügel | Fantasy |
+| 111 | Terry Pratchett | Mummenschanz | Fantasy |
+| 112 | Terry Pratchett | Die Nachtwächter | Fantasy |
+| 113 | Terry Pratchett | Wühler | Fantasy |
+| 114 | Terry Pratchett | Ab die Post | Fantasy |
+| 115 | Terry Pratchett | Trucker | Fantasy |
+| 116 | Terry Pratchett | Der Fünfte Elefant | Fantasy |
+| 117 | Terry Pratchett | Pyramiden | Fantasy |
+| 118 | Tom Clancy | Im Zeichen Des Drachen | Thriller |
+| 119 | Umberto Eco | Das Foucaultsche Pendel | Sonstiges |
+| 120 | Walter Adler | Centropolis | Science-Fiction |
+| 121 | Walter Knaus | Welt ohne Schlaf | Science-Fiction |
+| 122 | William Gibson | Neuromancer | Sonstiges |
 ## Top-Autoren
 
 | Autor | Werke | Genre-Schwerpunkt |
