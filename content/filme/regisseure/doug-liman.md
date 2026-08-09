@@ -15,7 +15,7 @@ Douglas Eric Liman ist ein US-amerikanischer Filmregisseur, Film- und Fernsehpro
 
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
-| 1 | *Edge of Tomorrow - Live. Die. Repeat* | 2014 | ⭐8 (7.9) |
+| 1 | *Edge of Tomorrow - Live. Die. Repeat.* | 2014 | ⭐8 (7.9) |
 | 2 | *Barry Seal - Only in America* | 2017 | ⭐7 (7.2) |
 | 3 | *Fair Game - Nichts ist gefährlicher als die Wahrheit* | 2010 | ⭐7 (6.8) |
 
@@ -33,7 +33,7 @@ Douglas Eric Liman ist ein US-amerikanischer Filmregisseur, Film- und Fernsehpro
 
 | Film | Jahr | ⭐ | Genres |
 |------|------|-----|--------|
-| *Edge of Tomorrow - Live. Die. Repeat* | 2014 | ⭐8 | Action, Science-Fiction, Abenteuer |
+| *Edge of Tomorrow - Live. Die. Repeat.* | 2014 | ⭐8 | Action, Science-Fiction, Abenteuer |
 | *Barry Seal - Only in America* | 2017 | ⭐7 | Krimi, Action, Komödie, Drama, Thriller |
 | *Go! Das Leben beginnt erst um 3.00 Uhr morgens* | 1999 | ⭐7 | Krimi, Komödie |
 | *Fair Game - Nichts ist gefährlicher als die Wahrheit* | 2010 | ⭐7 | Biografie, Drama, Thriller |

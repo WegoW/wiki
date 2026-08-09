@@ -2,12 +2,12 @@
 title: Horror
 type: entity
 tags: [genre, film, imdb]
-films_watched: 266
-average_rating: 6.03
+films_watched: 261
+average_rating: 6.02
 ---
 # Horror
 
-**Filme:** 266 | **⌀ ⭐:** 6.03
+**Filme:** 261 | **⌀ ⭐:** 6.02
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|
