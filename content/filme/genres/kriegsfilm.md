@@ -2,12 +2,12 @@
 title: Kriegsfilm
 type: entity
 tags: [genre, film, imdb]
-films_watched: 159
-average_rating: 6.62
+films_watched: 160
+average_rating: 6.61
 ---
 # Kriegsfilm
 
-**Filme:** 159 | **⌀ ⭐:** 6.62
+**Filme:** 160 | **⌀ ⭐:** 6.61
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

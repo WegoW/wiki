@@ -42,6 +42,6 @@ James Mangold ist ein US-amerikanischer Regisseur, Drehbuchautor und Filmproduze
 | *Knight and Day* | 2010 | ⭐7 | Komödie, Action, Abenteuer |
 | *Indiana Jones und das Rad des Schicksals* | 2023 | ⭐6 | Action, Abenteuer, Science-Fiction |
 | *Durchgeknallt* | 1999 | ⭐6 | Biografie, Drama |
-| *Wolverine: Weg des Kriegers* | 2013 | ⭐6 | Action, Science-Fiction |
+| *Wolverine: Weg des Kriegers* | 2013 | ⭐6 | Action, Science-Fiction, Thriller |
 | *Identität* | 2003 | ⭐6 | Thriller, Mystery |
 
