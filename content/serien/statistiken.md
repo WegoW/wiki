@@ -54,13 +54,13 @@ source: CSV-Export IMDb (Stand Apr 2026)
 | Genre | Serien |
 |-------|-------|
 | [[serien/genres/drama|Drama]] | 242 |
-| [[serien/genres/science-fiction|Science-fiction]] | 125 |
+| [[serien/genres/science-fiction|Science-fiction]] | 126 |
 | [[serien/genres/thriller|Thriller]] | 120 |
 | [[serien/genres/mystery|Mystery]] | 104 |
 | [[serien/genres/action|Action]] | 101 |
 | [[serien/genres/komoedie|Komödie]] | 101 |
-| [[serien/genres/krimi|Krimi]] | 88 |
-| [[serien/genres/abenteuer|Abenteuer]] | 87 |
+| [[serien/genres/krimi|Krimi]] | 89 |
+| [[serien/genres/abenteuer|Abenteuer]] | 88 |
 | [[serien/genres/fantasy|Fantasy]] | 63 |
 | [[serien/genres/liebesfilm|Liebesfilm]] | 18 |
 

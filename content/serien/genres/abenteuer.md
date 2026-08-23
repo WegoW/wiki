@@ -2,15 +2,15 @@
 title: Abenteuer
 type: entity
 tags: [genre, series, imdb]
-series_watched: 87
-average_rating: 7.3
+series_watched: 88
+average_rating: 7.32
 ---
 # Abenteuer (Serien)
 
-**Serien:** 87 | **⌀ ⭐:** 7.30
+**Serien:** 88 | **⌀ ⭐:** 7.32
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|
 | 1 | *Shōgun* | 2024 | ⭐9 |
-| 2 | *The Terror* | 2018 | ⭐9 |
-| 3 | *Raumschiff Enterprise* | 1966 | ⭐9 |
+| 2 | *Silo* | 2023 | ⭐9 |
+| 3 | *The Terror* | 2018 | ⭐9 |

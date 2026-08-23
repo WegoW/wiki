@@ -2,12 +2,12 @@
 title: Liebesfilm
 type: entity
 tags: [genre, film, imdb]
-films_watched: 557
+films_watched: 556
 average_rating: 6.21
 ---
 # Liebesfilm
 
-**Filme:** 557 | **⌀ ⭐:** 6.21
+**Filme:** 556 | **⌀ ⭐:** 6.21
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|
