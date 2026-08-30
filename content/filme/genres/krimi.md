@@ -2,12 +2,12 @@
 title: Krimi
 type: entity
 tags: [genre, film, imdb]
-films_watched: 1091
+films_watched: 1092
 average_rating: 6.35
 ---
 # Krimi
 
-**Filme:** 1091 | **⌀ ⭐:** 6.35
+**Filme:** 1092 | **⌀ ⭐:** 6.35
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

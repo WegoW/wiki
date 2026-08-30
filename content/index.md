@@ -72,7 +72,7 @@
 ### Sammlungen
 - [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
 
-## Filme & Serien (4.020)
+## Filme & Serien (4.021)
 ### Konzert-Künstler mit Filmbeteiligung
 - [[konzerte/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
 - [[konzerte/prince|Prince]] — Purple Rain ⭐8, Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
@@ -125,12 +125,13 @@
 - [[filme/regisseure/spike-lee|Spike Lee]] — 11 Filme, Ø 6.73
 - [[filme/regisseure/stanley-kubrick|Stanley Kubrick]] — 10 Filme, Ø 7.10
 - [[filme/regisseure/steven-soderbergh|Steven Soderbergh]] — 17 Filme, Ø 6.06
-- [[filme/regisseure/steven-spielberg|Steven Spielberg]] — 33 Filme, Ø 7.24
+- [[filme/regisseure/steven-spielberg|Steven Spielberg]] — 34 Filme, Ø 7.26
 - [[filme/regisseure/terry-gilliam|Terry Gilliam]] — 13 Filme, Ø 6.46
 - [[filme/regisseure/tim-burton|Tim Burton]] — 15 Filme, Ø 6.80
 - [[filme/regisseure/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
 - [[filme/regisseure/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
 - [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
+
 
 
 
