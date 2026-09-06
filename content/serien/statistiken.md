@@ -53,7 +53,7 @@ source: CSV-Export IMDb (Stand Apr 2026)
 
 | Genre | Serien |
 |-------|-------|
-| [[serien/genres/drama|Drama]] | 243 |
+| [[serien/genres/drama|Drama]] | 244 |
 | [[serien/genres/science-fiction|Science-fiction]] | 126 |
 | [[serien/genres/thriller|Thriller]] | 120 |
 | [[serien/genres/mystery|Mystery]] | 104 |

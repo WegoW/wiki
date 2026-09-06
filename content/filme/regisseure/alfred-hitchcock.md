@@ -15,7 +15,7 @@ Sir Alfred Joseph Hitchcock KBE war ein britischer Filmregisseur, Drehbuchautor,
 
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
-| 1 | *Der unsichtbare Dritte* | 1959 | ⭐9 (8.3) |
+| 1 | *Der unsichtbare Dritte* | 1959 | ⭐9 (8.2) |
 | 2 | *Die Vögel* | 1963 | ⭐8 (7.6) |
 | 3 | *Psycho* | 1960 | ⭐8 (8.5) |
 

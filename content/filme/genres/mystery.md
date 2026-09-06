@@ -2,12 +2,12 @@
 title: Mystery
 type: entity
 tags: [genre, film, imdb]
-films_watched: 593
+films_watched: 594
 average_rating: 6.47
 ---
 # Mystery
 
-**Filme:** 593 | **⌀ ⭐:** 6.47
+**Filme:** 594 | **⌀ ⭐:** 6.47
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

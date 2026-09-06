@@ -21,7 +21,7 @@ Shelton Jackson „Spike“ Lee ist ein US-amerikanischer Filmregisseur, Drehbuc
 
 | Rang | Schlechtester | Jahr | ⭐ (IMDb) |
 |------|---------------|------|-----------|
-| 1 | *Nola Darling* | 1986 | ⭐6 (6.8) |
+| 1 | *Nola Darling* | 1986 | ⭐6 (6.7) |
 | 2 | *Malcolm X* | 1992 | ⭐6 (7.7) |
 | 3 | *Jungle Fever* | 1991 | ⭐6 (6.6) |
 
