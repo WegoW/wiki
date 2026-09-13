@@ -21,7 +21,7 @@ Francis Ford Coppola ist ein US-amerikanischer Regisseur, Drehbuchautor und Film
 
 | Rang | Schlechtester | Jahr | ⭐ (IMDb) |
 |------|---------------|------|-----------|
-| 1 | *Megalopolis* | 2024 | ⭐1 (4.7) |
+| 1 | *Megalopolis* | 2024 | ⭐1 (4.6) |
 | 2 | *Supernova* | 2000 | ⭐6 (4.9) |
 | 3 | *Peggy Sue hat geheiratet* | 1986 | ⭐6 (6.4) |
 

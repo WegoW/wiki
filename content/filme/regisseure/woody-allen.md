@@ -16,7 +16,7 @@ Woody Allen ist ein US-amerikanischer Filmregisseur, Autor, Schauspieler und Kom
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
 | 1 | *Midnight in Paris* | 2011 | ⭐7 (7.6) |
-| 2 | *Sweet and Lowdown* | 1999 | ⭐7 (7.2) |
+| 2 | *Sweet and Lowdown* | 1999 | ⭐7 (7.1) |
 | 3 | *Alle sagen: I love you* | 1996 | ⭐7 (6.7) |
 
 | Rang | Schlechtester | Jahr | ⭐ (IMDb) |
