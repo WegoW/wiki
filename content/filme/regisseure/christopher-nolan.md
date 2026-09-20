@@ -37,7 +37,7 @@ Sir Christopher Edward Nolan CBE ist ein britisch-US-amerikanischer Filmregisseu
 | *The Dark Knight* | 2008 | ⭐9 | Krimi, Thriller |
 | *Tenet* | 2020 | ⭐8 | Action, Science-Fiction, Thriller |
 | *Dunkirk* | 2017 | ⭐8 | Kriegsfilm, Drama, Action, Geschichte, Thriller |
-| *Interstellar* | 2014 | ⭐8 | Science-Fiction, Abenteuer, Drama |
+| *Interstellar* | 2014 | ⭐8 | Science-Fiction, Abenteuer |
 | *Inception* | 2010 | ⭐8 | Science-Fiction, Thriller, Abenteuer |
 | *Following* | 1998 | ⭐8 | Krimi, Thriller, Mystery |
 | *Batman Begins* | 2005 | ⭐8 | Krimi |

@@ -2,16 +2,16 @@
 title: Steven Spielberg
 type: entity
 tags: [person, director, film, imdb]
-films_watched: 34
-average_rating: 7.26
+films_watched: 33
+average_rating: 7.24
 ---
 # Steven Spielberg
 
 Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent und Drehbuchautor..
 
-## Gesehene Filme (34)
+## Gesehene Filme (33)
 
-**⌀-Bewertung:** 7.26 ★
+**⌀-Bewertung:** 7.24 ★
 
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
@@ -23,11 +23,11 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 |------|---------------|------|-----------|
 | 1 | *Hook* | 1991 | ⭐4 (6.8) |
 | 2 | *Unheimliche Schattenlichter* | 1983 | ⭐6 (6.4) |
-| 3 | *Sugarland Express* | 1974 | ⭐6 (6.8) |
+| 3 | *Sugarland Express* | 1974 | ⭐6 (6.7) |
 
 ### Bewertungsverteilung
 
-⭐10: 1 | ⭐9: 1 | ⭐8: 12 | ⭐7: 14 | ⭐6: 5 | ⭐4: 1
+⭐10: 1 | ⭐9: 1 | ⭐8: 11 | ⭐7: 14 | ⭐6: 5 | ⭐4: 1
 
 ### Alle Filme
 
@@ -37,7 +37,6 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 | *Der Soldat James Ryan* | 1998 | ⭐9 | Drama, Kriegsfilm |
 | *Ready Player One* | 2018 | ⭐8 | Science-Fiction, Action, Abenteuer |
 | *Indiana Jones und der Tempel des Todes* | 1984 | ⭐8 | Abenteuer, Action |
-| *Duell* | 1971 | ⭐8 | Action, Thriller |
 | *Das Reich der Sonne* | 1987 | ⭐8 | Drama, Kriegsfilm |
 | *Minority Report* | 2002 | ⭐8 | Krimi, Science-Fiction, Mystery, Thriller, Action |
 | *Indiana Jones und der letzte Kreuzzug* | 1989 | ⭐8 | Abenteuer |
@@ -47,7 +46,7 @@ Steven Allan Spielberg ist ein US-amerikanischer Filmregisseur, Filmproduzent un
 | *Schindlers Liste* | 1993 | ⭐8 | Biografie, Geschichte, Drama |
 | *Krieg der Welten* | 2005 | ⭐8 | Science-Fiction, Abenteuer, Action |
 | *München* | 2005 | ⭐8 | Drama, Thriller, Geschichte |
-| *Disclosure Day - Der Tag der Wahrheit* | 2026 | ⭐7 | Science-Fiction, Thriller, Drama, Mystery, Action |
+| *Disclosure Day - Der Tag der Wahrheit* | 2026 | ⭐7 | Science-Fiction, Thriller, Mystery, Action |
 | *Die Fabelmans* | 2022 | ⭐7 | Drama, Biografie |
 | *Jurassic Park* | 1993 | ⭐7 | Science-Fiction, Abenteuer |
 | *Die Verlegerin* | 2017 | ⭐7 | Drama, Biografie, Geschichte, Thriller, Kriegsfilm |
