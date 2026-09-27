@@ -2,12 +2,12 @@
 title: Mystery
 type: entity
 tags: [genre, series, imdb]
-series_watched: 104
+series_watched: 105
 average_rating: 7.61
 ---
 # Mystery (Serien)
 
-**Serien:** 104 | **⌀ ⭐:** 7.61
+**Serien:** 105 | **⌀ ⭐:** 7.61
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

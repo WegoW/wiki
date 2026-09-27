@@ -2,12 +2,12 @@
 title: Thriller
 type: entity
 tags: [genre, series, imdb]
-series_watched: 120
+series_watched: 121
 average_rating: 7.56
 ---
 # Thriller (Serien)
 
-**Serien:** 120 | **⌀ ⭐:** 7.56
+**Serien:** 121 | **⌀ ⭐:** 7.56
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

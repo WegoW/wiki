@@ -2,12 +2,12 @@
 title: Musical
 type: entity
 tags: [genre, film, imdb]
-films_watched: 44
-average_rating: 6.32
+films_watched: 43
+average_rating: 6.3
 ---
 # Musical
 
-**Filme:** 44 | **⌀ ⭐:** 6.32
+**Filme:** 43 | **⌀ ⭐:** 6.30
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

@@ -2,12 +2,12 @@
 title: Fantasy
 type: entity
 tags: [genre, series, imdb]
-series_watched: 63
-average_rating: 7.3
+series_watched: 64
+average_rating: 7.31
 ---
 # Fantasy (Serien)
 
-**Serien:** 63 | **⌀ ⭐:** 7.30
+**Serien:** 64 | **⌀ ⭐:** 7.31
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|
