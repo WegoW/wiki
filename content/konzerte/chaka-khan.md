@@ -50,4 +50,3 @@ US-amerikanische Sängerin, die als „Queen of Funk" weltberühmt wurde. Sie st
 - [[konzerte/prince|Prince]] — Support Act 1998
 - [[konzerte/mothers-finest|Mother's Finest]] — gemeinsames Konzert (Black Beat Night 1989)
 - [[konzerte/maze-feat-frankie-beverly|Maze feat. Frankie Beverly]] — gemeinsames Konzert (Black Beat Night 1989)
-- 🎬 *The Blues Brothers* (1980) — ⭐9 (IMDb 7.9) — Choir Solistin in der Kirchenszene

@@ -79,8 +79,3 @@ Prince Rogers Nelson (1958–2016) war ein US-amerikanischer Musiker, Sänger, S
 - [[konzerte/madhouse|Madhouse]] — Support Act 1987 (Stuttgart)
 - [[konzerte/larry-graham-and-graham-central-station|Larry Graham & Graham Central Station]] — Support Act 1998
 
-### 🎬 Filmbeteiligung
-
-- 🎬 *Purple Rain* (1984) — ⭐8 (IMDb 7.3) — Prince als Hauptdarsteller
-- 🎬 *Under the Cherry Moon - Unter dem Kirschmond* (1986) — ⭐5 (IMDb 5.1) — Film (Regie: Prince)
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — Film (Regie: Prince)

@@ -34,4 +34,3 @@ Die Leningrad Cowboys sind eine 1986 gegründete finnische Rockband, die durch i
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- 🎬 *Leningrad Cowboys Go America* (1989) — ⭐4 — Aki Kaurismäki

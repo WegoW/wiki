@@ -45,4 +45,3 @@ George Clinton (geb. 1941 in Kannapolis, North Carolina) ist ein US-amerikanisch
 - [[konzerte/amp-fiddler|Amp Fiddler]] — gemeinsames Konzert 2004
 - [[konzerte/afrika-bambaataa|Afrika Bambaataa]] — gemeinsames Konzert 2004
 - [[konzerte/prince|Prince]] — Gastauftritt in Graffiti Bridge (1990)
-- 🎬 *Graffiti Bridge* (1990) — ⭐6 (IMDb 4.7) — mit Prince

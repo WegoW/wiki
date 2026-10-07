@@ -56,5 +56,3 @@ Kid Creole & The Coconuts sind eine US-amerikanische Multikulti-Band um Frontman
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- 🎬 *Against All Odds* (1984) — ⭐2 (IMDb 5.9) — „My Male Curiosity" im Film
-- 🎬 *Be Kind Rewind* (2008) — ⭐8 (IMDb 6.4) — Cameo als „West Coast Video Employee"

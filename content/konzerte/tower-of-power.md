@@ -35,4 +35,3 @@ Die 1968 gegründete US-amerikanische Funk- und Soul-Band aus Oakland, Kaliforni
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- 🎬 *The Limey* (1999) — ⭐6 (IMDb 6.9) — Musikauftritt im Soderbergh-Film

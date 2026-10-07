@@ -36,4 +36,3 @@ US-amerikanische Rock- und New-Wave-Band aus Athens, Georgia, gegründet 1976, b
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- 🎬 *The Flintstones* / *Familie Feuerstein* (1994) — ⭐6 (IMDb 5.1) — als The BC-52's 🦴

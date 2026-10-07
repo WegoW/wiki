@@ -2,12 +2,12 @@
 title: Drama
 type: entity
 tags: [genre, film, imdb]
-films_watched: 2023
+films_watched: 2025
 average_rating: 6.45
 ---
 # Drama
 
-**Filme:** 2023 | **⌀ ⭐:** 6.45
+**Filme:** 2025 | **⌀ ⭐:** 6.45
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

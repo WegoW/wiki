@@ -2,12 +2,12 @@
 title: Familienfilm
 type: entity
 tags: [genre, film, imdb]
-films_watched: 194
+films_watched: 195
 average_rating: 6.36
 ---
 # Familienfilm
 
-**Filme:** 194 | **⌀ ⭐:** 6.36
+**Filme:** 195 | **⌀ ⭐:** 6.36
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

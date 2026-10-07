@@ -35,6 +35,3 @@ David Robert Jones (1947–2016) war ein britischer Musiker, Sänger und Schausp
 
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
-- 🎬 *Furyo – Merry Christmas, Mr. Lawrence* (1983) — ⭐7 — Bowie als Maj. Jack Celliers
-- 🎬 *Begierde / The Hunger* (1983) — ⭐6 — Bowie als Vampir John Blaylock
-- 🎬 *Prestige – Die Meister der Magie* (2006) — ⭐8 — Bowie als Nikola Tesla

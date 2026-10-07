@@ -2,12 +2,12 @@
 title: Science-fiction
 type: entity
 tags: [genre, series, imdb]
-series_watched: 128
-average_rating: 7.34
+series_watched: 129
+average_rating: 7.35
 ---
 # Science-fiction (Serien)
 
-**Serien:** 128 | **⌀ ⭐:** 7.34
+**Serien:** 129 | **⌀ ⭐:** 7.35
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

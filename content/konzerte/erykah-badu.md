@@ -37,4 +37,3 @@ Erykah Badu (geb. 1971 in Dallas, Texas) ist eine US-amerikanische Soul- und R&B
 ## Verwandte Einträge
 - [[queries/concert-collection|Konzertsammlung]]
 - [[konzerte/roy-hargrove|Roy Hargrove]] — Opening Act 2008
-- 🎬 *Blues Brothers 2000* (1998) — ⭐6 (IMDb 4.9) — Cameo als Tango Queen
