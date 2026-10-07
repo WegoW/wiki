@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme, Serien und Hörbücher aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 158
+> Dieses Wiki ist mein persönliches Archiv aller Konzerte, die ich live erlebt habe, sowie meiner gesehenen und bewerteten Filme, Serien und Hörbücher aus über 50 Jahren Kino- und TV-Geschichte. Jeder Eintrag umfasst Bewertungen, Statistiken und – wo vorhanden – Querverweise zwischen Konzerten und Filmen. | Last updated: 2026-04-30 | Total pages: 160
 
 ## Konzerte (101)
 - [[konzerte/afrika-bambaataa|Afrika Bambaataa]] — 1 Konzert
@@ -158,6 +158,7 @@
 
 
 
+
 ### Serien-Seiten
 - [[serien/top-10|Top 10 Serien]] — Meine persönliche Bestenliste
 - [[serien/statistiken|Serien-Statistiken]] — Übersicht, Verteilung, Top-Genres
@@ -165,15 +166,17 @@
 #### Serien-Creator
 - [[serien/regisseure/bryan-fuller|Bryan Fuller]] — 2 Serien
 - [[serien/regisseure/craig-mazin|Craig Mazin]] — 2 Serien
-- [[serien/regisseure/david-benioff|David Benioff]] — 2 Serien
 - [[serien/regisseure/db-weiss|D.B. Weiss]] — 2 Serien
-- [[serien/regisseure/gene-roddenberry|Gene Roddenberry]] — 2 Serien
+- [[serien/regisseure/damon-lindelof|Damon Lindelof]] — 2 Serien
+- [[serien/regisseure/david-benioff|David Benioff]] — 2 Serien
+- [[serien/regisseure/gene-roddenberry|Gene Roddenberry]] — 3 Serien
 - [[serien/regisseure/jj-abrams|J.J. Abrams]] — 3 Serien
 - [[serien/regisseure/jonathan-nolan|Jonathan Nolan]] — 2 Serien
 - [[serien/regisseure/noah-hawley|Noah Hawley]] — 3 Serien
 - [[serien/regisseure/ronald-d-moore|Ronald D. Moore]] — 2 Serien
 - [[serien/regisseure/seth-macfarlane|Seth MacFarlane]] — 2 Serien
-- [[serien/regisseure/taylor-sheridan|Taylor Sheridan]] — 5 Serien
+- [[serien/regisseure/steven-knight|Steven Knight]] — 2 Serien
+- [[serien/regisseure/taylor-sheridan|Taylor Sheridan]] — 6 Serien
 - [[serien/regisseure/vince-gilligan|Vince Gilligan]] — 2 Serien
 
 #### Serien nach Jahrzehnt
@@ -181,13 +184,13 @@
 - [[serien/jahrzehnte/1970er|1970er]] — 1 Serie
 - [[serien/jahrzehnte/1980er|1980er]] — 9 Serien
 - [[serien/jahrzehnte/1990er|1990er]] — 16 Serien
-- [[serien/jahrzehnte/2000er|2000er]] — 39 Serien
-- [[serien/jahrzehnte/2010er|2010er]] — 97 Serien
-- [[serien/jahrzehnte/2020er|2020er]] — 143 Serien
+- [[serien/jahrzehnte/2000er|2000er]] — 40 Serien
+- [[serien/jahrzehnte/2010er|2010er]] — 99 Serien
+- [[serien/jahrzehnte/2020er|2020er]] — 153 Serien
 
 ### Genres & Auswertungen
 - [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
-- [[queries/film-history|Meine Film- und Serien-History]] — 3.993 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
+- [[queries/film-history|Meine Film- und Serien-History]] — 4.033 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
 
 ## Hörbücher (122)
 > Nur Autoren mit mindestens 3 Hörbüchern in der Sammlung.
