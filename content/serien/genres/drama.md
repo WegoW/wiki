@@ -2,12 +2,12 @@
 title: Drama
 type: entity
 tags: [genre, series, imdb]
-series_watched: 245
+series_watched: 246
 average_rating: 7.54
 ---
 # Drama (Serien)
 
-**Serien:** 245 | **⌀ ⭐:** 7.54
+**Serien:** 246 | **⌀ ⭐:** 7.54
 
 | # | Serie | Jahr | ⭐ |
 |---|-------|------|-----|

@@ -72,7 +72,7 @@
 ### Sammlungen
 - [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
 
-## Filme & Serien (4.035)
+## Filme & Serien (4.037)
 ### Konzert-Künstler mit Filmbeteiligung
 - [[konzerte/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
 - [[konzerte/prince|Prince]] — Purple Rain ⭐8, Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
@@ -161,6 +161,7 @@
 
 
 
+
 ### Serien-Seiten
 - [[serien/top-10|Top 10 Serien]] — Meine persönliche Bestenliste
 - [[serien/statistiken|Serien-Statistiken]] — Übersicht, Verteilung, Top-Genres
@@ -188,11 +189,11 @@
 - [[serien/jahrzehnte/1990er|1990er]] — 16 Serien
 - [[serien/jahrzehnte/2000er|2000er]] — 40 Serien
 - [[serien/jahrzehnte/2010er|2010er]] — 100 Serien
-- [[serien/jahrzehnte/2020er|2020er]] — 153 Serien
+- [[serien/jahrzehnte/2020er|2020er]] — 154 Serien
 
 ### Genres & Auswertungen
 - [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
-- [[queries/film-history|Meine Film- und Serien-History]] — 4.035 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
+- [[queries/film-history|Meine Film- und Serien-History]] — 4.037 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
 
 ## Hörbücher (122)
 > Nur Autoren mit mindestens 3 Hörbüchern in der Sammlung.
