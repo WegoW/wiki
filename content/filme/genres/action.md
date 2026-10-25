@@ -2,12 +2,12 @@
 title: Action
 type: entity
 tags: [genre, film, imdb]
-films_watched: 1165
+films_watched: 1166
 average_rating: 6.24
 ---
 # Action
 
-**Filme:** 1165 | **⌀ ⭐:** 6.24
+**Filme:** 1166 | **⌀ ⭐:** 6.24
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|

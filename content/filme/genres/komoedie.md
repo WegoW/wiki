@@ -2,12 +2,12 @@
 title: Komödie
 type: entity
 tags: [genre, film, imdb]
-films_watched: 1259
+films_watched: 1260
 average_rating: 6.19
 ---
 # Komödie
 
-**Filme:** 1259 | **⌀ ⭐:** 6.19
+**Filme:** 1260 | **⌀ ⭐:** 6.19
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|
