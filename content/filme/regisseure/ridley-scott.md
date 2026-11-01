@@ -2,16 +2,16 @@
 title: Ridley Scott
 type: entity
 tags: [person, director, film, imdb]
-films_watched: 26
-average_rating: 6.77
+films_watched: 27
+average_rating: 6.78
 ---
 # Ridley Scott
 
 Sir Ridley Scott GBE ist ein britischer Filmregisseur und Filmproduzent. Er gilt heute als einer der renommiertesten und einflussreichsten Regisseure und hat die Erzählweisen mehrerer Filmgenres geprägt. Er wurde nie mit einem Oscar ausgezeichnet. Seine bekanntesten Filme sind Alien (1979), Blade Runner (1982), Thelma & Louise (1991), Gladiator (2000), Black Hawk Down (2001), Der Marsianer (2015) und Gladiator II (2024)..
 
-## Gesehene Filme (26)
+## Gesehene Filme (27)
 
-**⌀-Bewertung:** 6.77 ★
+**⌀-Bewertung:** 6.78 ★
 
 | Rang | Film | Jahr | ⭐ (IMDb) |
 |------|------|------|-----------|
@@ -27,7 +27,7 @@ Sir Ridley Scott GBE ist ein britischer Filmregisseur und Filmproduzent. Er gilt
 
 ### Bewertungsverteilung
 
-⭐10: 1 | ⭐9: 1 | ⭐8: 6 | ⭐7: 7 | ⭐6: 7 | ⭐5: 2 | ⭐4: 2
+⭐10: 1 | ⭐9: 1 | ⭐8: 6 | ⭐7: 8 | ⭐6: 7 | ⭐5: 2 | ⭐4: 2
 
 ### Alle Filme
 
@@ -41,6 +41,7 @@ Sir Ridley Scott GBE ist ein britischer Filmregisseur und Filmproduzent. Er gilt
 | *Black Hawk Down* | 2001 | ⭐8 | Drama, Action, Geschichte, Kriegsfilm |
 | *Gladiator* | 2000 | ⭐8 | Action, Abenteuer, Drama |
 | *American Gangster* | 2007 | ⭐8 | Drama, Krimi, Biografie |
+| *Das Ende der Sterne* | 2026 | ⭐7 | Action, Thriller, Science-Fiction |
 | *Gladiator II* | 2024 | ⭐7 | Abenteuer, Drama |
 | *Alles Geld der Welt* | 2017 | ⭐7 | Krimi, Mystery, Thriller, Drama, Geschichte, Biografie |
 | *Black Rain* | 1989 | ⭐7 | Thriller, Drama, Krimi, Action |

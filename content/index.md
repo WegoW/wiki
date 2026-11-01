@@ -72,7 +72,7 @@
 ### Sammlungen
 - [[queries/concert-collection|Konzertsammlung]] — Übersicht über besuchte Konzerte
 
-## Filme & Serien (4.038)
+## Filme & Serien (4.040)
 ### Konzert-Künstler mit Filmbeteiligung
 - [[konzerte/david-bowie|David Bowie]] — Merry Christmas Mr. Lawrence ⭐7, The Hunger ⭐6, Labyrinth ⭐7, The Prestige ⭐8
 - [[konzerte/prince|Prince]] — Purple Rain ⭐8, Under the Cherry Moon ⭐5, Graffiti Bridge ⭐6
@@ -115,7 +115,7 @@
 - [[filme/regisseure/phillip-noyce|Phillip Noyce]] — 11 Filme, Ø 6.55
 - [[filme/regisseure/quentin-tarantino|Quentin Tarantino]] — 11 Filme, Ø 8.09
 - [[filme/regisseure/richard-donner|Richard Donner]] — 12 Filme, Ø 6.50
-- [[filme/regisseure/ridley-scott|Ridley Scott]] — 26 Filme, Ø 6.77
+- [[filme/regisseure/ridley-scott|Ridley Scott]] — 27 Filme, Ø 6.78
 - [[filme/regisseure/robert-rodriguez|Robert Rodriguez]] — 12 Filme, Ø 6.17
 - [[filme/regisseure/robert-zemeckis|Robert Zemeckis]] — 13 Filme, Ø 7.08
 - [[filme/regisseure/roland-emmerich|Roland Emmerich]] — 17 Filme, Ø 5.94
@@ -131,6 +131,7 @@
 - [[filme/regisseure/tony-scott|Tony Scott]] — 14 Filme, Ø 6.00
 - [[filme/regisseure/wes-anderson|Wes Anderson]] — 12 Filme, Ø 6.83
 - [[filme/regisseure/woody-allen|Woody Allen]] — 19 Filme, Ø 6.32
+
 
 
 
@@ -194,7 +195,7 @@
 
 ### Genres & Auswertungen
 - [[concepts/film-genres|Meine Film-Genres]] — Sehgewohnheiten nach Genre, Ø-Bewertungen und Muster
-- [[queries/film-history|Meine Film- und Serien-History]] — 4.038 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
+- [[queries/film-history|Meine Film- und Serien-History]] — 4.040 bewertete Titel auf IMDb mit Statistiken, Cross-Links und Trends
 
 ## Hörbücher (122)
 > Nur Autoren mit mindestens 3 Hörbüchern in der Sammlung.

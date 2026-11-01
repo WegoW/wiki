@@ -2,12 +2,12 @@
 title: Science-fiction
 type: entity
 tags: [genre, film, imdb]
-films_watched: 677
+films_watched: 678
 average_rating: 6.29
 ---
 # Science-fiction
 
-**Filme:** 677 | **⌀ ⭐:** 6.29
+**Filme:** 678 | **⌀ ⭐:** 6.29
 
 | # | Film | Jahr | ⭐ |
 |---|------|------|-----|
